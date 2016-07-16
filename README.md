@@ -1,6 +1,8 @@
-# RBTVSchedule
-Tracks the schedule of rocketbeans.tv
+# RBTV Schedule Tracker
+Tracks the schedule of rocketbeans.tv via their API
 
-Diffs are used to see changes
+At the moment past days will be archived indefinetly.
 
-Updates are made every 5 minutes, please ignore the first few commits, those were just me testing
+Schedule data is converted into plain text files for easy diff-ing.
+
+A local cache is updated every 5 minutes and commited + pushed if there are any changes.
