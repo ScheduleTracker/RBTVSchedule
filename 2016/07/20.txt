@@ -1,9 +1,11 @@
-10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show
-11:20:00 - 11:41:41 : Urknall, Weltall und das Leben #7 - 
-15:00:00 - 16:30:00 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
-16:30:00 - 18:00:00 : Let’s Play - Tales of Symphonia: Das Finale mit Greg und Gino
-18:00:00 - 20:00:00 : Game Plus Daily - Game Plus Daily #35 mit Nils, René & Gregor
-20:00:00 - 20:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
-20:15:00 - 21:45:00 : Bohn Jour - Die Late Night Show zur Primetime mit
-21:45:00 - 21:55:00 : Weekly Wahnsinn - Partyspiele mit den Bohnen
-22:00:00 - 00:00:00 : Let’s Play - 
+10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show - Live
+11:20:00 - 11:41:41 : Urknall, Weltall und das Leben #7
+12:00:00 - 13:01:15 : Speedrundale - Summer Games Done Quick 2016 Recap Teil 1
+15:00:00 - 16:30:00 : Let’s Play - Salt and Sanctuary mit Eddy & Colin - Live
+16:30:00 - 18:00:00 : Let’s Play - Tales of Symphonia: Das Finale mit Greg und Gino - Premiere
+18:00:00 - 20:00:00 : Game Plus Daily - Game Plus Daily #35 mit Nils, René & Gregor - Live
+20:00:00 - 20:10:00 : RB News - News! Investigativ, Aktuell, Sexy! - Premiere
+20:10:00 - 20:15:00 : Gino+ - Premiere
+20:15:00 - 21:45:00 : Bohn Jour - Die Late Night Show zur Primetime mit - Live
+21:45:00 - 21:55:00 : Weekly Wahnsinn - Partyspiele mit den Bohnen - Premiere
+22:00:00 - 00:00:00 : Let’s Play - Live

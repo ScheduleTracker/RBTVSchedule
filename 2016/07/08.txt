@@ -1,6 +1,6 @@
 00:00:00 - 00:05:15 : RB News - News! Investigativ, Aktuell, Sexy!
 00:10:00 - 01:00:02 : MoinMoin - Die Morning-Show
-01:00:00 - 01:40:46 : World of Longplays - Teenage Mutant Ninja Turtles IV: Turtles in Time
+01:00:00 - 01:40:46 : World of Longplays - Teenage Mutant Ninja Turtles IV: Turtles in Time - Premiere
 01:40:00 - 03:52:00 : Game Plus Daily - Game Plus Daily #28 mit Simon, Gregor & Jan: Star Ocean & Playstation Plus Spiele
 03:40:00 - 05:42:48 : Let’s Play - Seraph mit Colin
 05:40:00 - 05:49:52 : Gadget Inspectors - JUWL und Bonobox
@@ -10,16 +10,16 @@
 08:25:00 - 10:18:43 : Knallhart Durchgenommen - Dark Souls III mit Etienne & Denzel
 10:15:00 - 10:19:25 : Gino+ - Crunches am Slingtrainer mit Gunnar
 10:25:00 - 10:30:05 : Gino+ - Liegestütz am Slingtrainer mit Timm
-10:30:00 - 11:14:14 : MoinMoin - Die Morning-Show mit Florentin und Anne
+10:30:00 - 11:14:14 : MoinMoin - Die Morning-Show mit Florentin und Anne - Live
 11:20:00 - 12:16:04 : Almost Daily #144 - Wer Bin Ich
 12:15:00 - 12:55:01 : Let’s Play - Ede, Nils, Micha und Jan malen munter mit Drawful 2
 13:00:00 - 14:58:58 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
-15:00:00 - 15:52:15 : Let’s Play - Jan zockt Interstellar Marines
-16:00:00 - 17:04:02 : Let’s Play - Jan zockt Kona
-17:00:00 - 18:03:02 : EM 2016 Zu Gast bei Bohnen - 
-18:00:00 - 19:58:07 : Inside Playstation #7 - 
-20:00:00 - 20:09:13 : RB News - News! Investigativ, Aktuell, Sexy!
-20:10:00 - 20:15:20 : Headlinez - mit Rayk Anders
-20:15:00 - 21:01:45 : Verflixxte Klixx - Die geile Schau im Web-TV mit Lars und Florentin
-21:00:00 - 22:03:24 : Retro Klub - Make Love, Not Highscore
+15:00:00 - 15:52:15 : Let’s Play - Jan zockt Interstellar Marines - Live
+16:00:00 - 17:04:02 : Let’s Play - Jan zockt Kona - Live
+17:00:00 - 18:03:02 : EM 2016 Zu Gast bei Bohnen - Live
+18:00:00 - 19:58:07 : Inside Playstation #7 - Live
+20:00:00 - 20:09:13 : RB News - News! Investigativ, Aktuell, Sexy! - Premiere
+20:10:00 - 20:15:20 : Headlinez - mit Rayk Anders - Premiere
+20:15:00 - 21:01:45 : Verflixxte Klixx - Die geile Schau im Web-TV mit Lars und Florentin - Live
+21:00:00 - 22:03:24 : Retro Klub - Make Love, Not Highscore - Live
 22:00:00 - 23:53:43 : Knallhart Durchgenommen - Dark Souls III mit Etienne & Denzel
