@@ -1,13 +1,11 @@
 00:00:00 - 00:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
 00:10:00 - 01:00:00 : MoinMoin - Die Morning-Show mit
 06:00:00 - 06:55:45 : Almost Daily #165 - Mein Früheres Ich
-11:20:00 - 12:23:08 : Almost Daily #166 - Passwort
-13:00:00 - 14:34:18 : After Dark - Simon & Gregor zocken Resident Evil: Code Veronica X HD
-13:15:00 - 15:14:42 : Classix - King's Field mit Colin und Dennissen
-13:30:00 - 14:29:37 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
-13:45:00 - 15:51:34 : Let’s Play - Tales of Symphonia: Das Finale mit Greg und Gino
-14:00:00 - 15:35:57 : Let’s Play - Vampire: The Masquerade - Bloodlines mit Bell & Nasti
-14:15:00 - 16:02:49 : After Dark - Dead Space mit Space-Simon
+11:15:00 - 12:18:08 : Almost Daily #166 - Passwort
+12:15:00 - 14:30:00 : Kino+ - Kino+ mit Daniel, Etienne und Andi
+14:30:00 - 16:30:00 : RANKED - RANKED - LoL
+16:30:00 - 18:00:00 : Chat Duell - Chat Duell #5 Viva con Agua vs. Raketenbrause
 18:00:00 - 18:36:04 : Mental VS Korea #10
+18:35:00 - 18:56:22 : RBTV On Tour - RBTV on Tour: The Witcher 3 – Blood and Wine: DLC
 19:00:00 - 20:00:00 : Speedrundale - Premiere
 20:00:00 - 20:05:00 : Gino+ - Premiere
