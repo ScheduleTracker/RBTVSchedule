@@ -1,5 +1,6 @@
 00:00:00 - 00:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
 00:10:00 - 01:00:00 : MoinMoin - Die Morning-Show mit
+01:00:00 - 02:29:50 : After Dark - Simon & Fabian zocken Resident Evil: Code: Veronica
 06:00:00 - 06:55:45 : Almost Daily #165 - Mein Früheres Ich
 11:15:00 - 12:18:08 : Almost Daily #166 - Passwort
 12:15:00 - 14:30:00 : Kino+ - Kino+ mit Daniel, Etienne und Andi
@@ -9,3 +10,8 @@
 18:35:00 - 18:56:22 : RBTV On Tour - RBTV on Tour: The Witcher 3 – Blood and Wine: DLC
 19:00:00 - 20:00:00 : Speedrundale - Premiere
 20:00:00 - 20:05:00 : Gino+ - Premiere
+20:15:00 - 21:08:35 : Spiele mit Bart #1 - Gabriel Knight 2
+21:05:00 - 21:57:06 : Spiele mit Bart #2 - Gabriel Knight 2
+22:00:00 - 22:54:41 : Spiele mit Bart #3 - Gabriel Knight 2
+22:55:00 - 23:40:44 : Spiele mit Bart #4 - Gabriel Knight 2
+23:40:00 - 04:14:05 : Dosenbeatz - HipHop-Spezial mit Falk Schacht, Etienne Gardé und Daniel Schröckert
