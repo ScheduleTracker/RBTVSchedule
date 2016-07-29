@@ -1,12 +1,10 @@
 04:15:00 - 05:03:38 : Bohn Jour Musik
-05:00:00 - 05:23:53 : Bohn Jour Musik - mit DJ Lazer
-05:25:00 - 05:51:42 : Bohn Jour Musik
-06:00:00 - 07:03:08 : Almost Daily #166 - Passwort
-07:00:00 - 07:47:03 : MoinMoin - Die Morning-Show mit Lars Eric
-07:45:00 - 08:32:01 : MoinMoin - Die Morning-Show mit Gregor
-08:30:00 - 09:16:57 : MoinMoin - Die Morning-Show mit Hauke | B.E.A.R.D.S - Was Wäre Wenn
-09:15:00 - 10:01:00 : MoinMoin - Die Morning-Show mit Nils
-10:00:00 - 11:12:27 : MoinMoin - Die Morning-Show mit Simon, oder Nils?
+05:25:00 - 06:28:08 : Almost Daily #166 - Passwort
+06:30:00 - 07:17:03 : MoinMoin - Die Morning-Show mit Lars Eric
+07:15:00 - 08:02:01 : MoinMoin - Die Morning-Show mit Gregor
+08:05:00 - 08:51:57 : MoinMoin - Die Morning-Show mit Hauke | B.E.A.R.D.S - Was Wäre Wenn
+08:50:00 - 09:36:00 : MoinMoin - Die Morning-Show mit Nils
+09:35:00 - 10:47:27 : MoinMoin - Die Morning-Show mit Simon, oder Nils?
 10:50:00 - 12:31:02 : Almost Daily #167 - Florentin Will, Aurel Mertz
 12:30:00 - 12:56:00 : Grillshow Classics #16 - Premiere
 13:00:00 - 14:33:26 : Bohn Jour - Die Late Night Show mit Simon & Budi
