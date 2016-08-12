@@ -8,7 +8,7 @@
 08:15:00 - 09:01:56 : MoinMoin - Die Morning-Show mit Flo & René
 09:00:00 - 09:50:00 : MoinMoin - Die Morning-Show live vom Sziget Festival Budapest
 09:45:00 - 10:32:00 : MoinMoin - Die Morning-Show live vom Sziget Festival Budapest
-10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show live vom Sziget Festival Budapest
+10:30:00 - 11:17:06 : MoinMoin - Die Morning-Show live vom Sziget Festival Budapest
 11:20:00 - 12:21:38 : Almost Daily #181 - Montagsmaler
 12:30:00 - 13:00:00 : Grillshow Classics #18 - Premiere
 13:00:00 - 14:40:28 : Bohn Jour - Die Late Night Show zur Primetime mit Etienne & Budi
@@ -20,5 +20,5 @@
 20:00:00 - 20:15:00 : Die Grillshow #46 - Premiere
 20:15:00 - 21:15:26 : Almost Daily #249 - Almost Gamescom - Premiere
 21:15:00 - 21:35:00 : RöbelTV #5 - Premiere
-21:35:00 - 23:50:00 : Plauschangriff Classic - Premiere
+21:35:00 - 00:02:00 : Plauschangriff Classic - Horrorfilme Teil 2 - Premiere
 23:50:00 - 01:56:35 : Game Plus Daily - #45: Metroid-2-Remake & Brutal mit Sofia, Gregor & Jan
