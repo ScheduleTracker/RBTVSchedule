@@ -1,6 +1,7 @@
 00:00:00 - 00:50:00 : MoinMoin - Die Morning-Show von der Gamescom
 01:00:00 - 06:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
 06:00:00 - 07:10:43 : Almost Daily #184 - Montagsmaler
+08:15:00 - 10:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
 10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show von der Gamescom - Live
 11:30:00 - 12:00:00 : Gamescom 2016 - Simon zeigt euch Halo Wars 2 - Live
 12:00:00 - 13:00:00 : Gamescom 2016 - Wir zocken Dropzone gegen die Jungs von TakeTV - Live
@@ -15,3 +16,4 @@
 17:30:00 - 18:00:00 : Gamescom 2016 - Michael zeigt euch Bearhands: Grand Values Monaco - Live
 18:00:00 - 20:00:00 : Game Plus Daily - #52: Live von der gamescom in Köln - Live
 20:00:00 - 20:10:00 : RB News - News! Investigativ, Aktuell, Sexy! - Premiere
+22:00:00 - 00:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
