@@ -1,5 +1,7 @@
 00:20:00 - 00:30:00 : RB News - News! Investigativ, Aktuell, Sexy!
 00:30:00 - 01:20:00 : MoinMoin - Die Morning-Show
+01:20:00 - 02:41:00 : After Dark - Dead Space mit Simon
+02:40:00 - 05:39:25 : Let’s Play - RimWorld mit Dennis
 06:00:00 - 07:12:08 : Almost Daily #183 - Verletzungen
 10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show von der Gamescom - Live
 11:20:00 - 11:50:00 : Gamescom 2016 - Gespräch mit Aaron Greenberg von Microsoft - Live
@@ -14,3 +16,4 @@
 17:40:00 - 18:00:00 : Gamescom 2016 - CoD - Infinite Warfare: Reveal des Zombie-Modus - Live
 18:00:00 - 20:00:00 : Game Plus Daily - #51: Live von der gamescom in Köln - Live
 20:00:00 - 20:10:00 : RB News - News! Investigativ, Aktuell, Sexy! - Premiere
+22:00:00 - 00:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
