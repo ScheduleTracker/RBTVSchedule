@@ -1,5 +1,5 @@
-03:00:00 - 03:50:00 : MoinMoin - Die Morning-Show von der Gamescom
-03:50:00 - 06:05:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
+04:00:00 - 04:50:00 : MoinMoin - Die Morning-Show von der Gamescom
+04:50:00 - 06:05:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
 06:00:00 - 07:03:20 : Almost Daily #186 - Scharade
 07:15:00 - 10:30:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
 10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show von der Gamescom - Live
@@ -15,4 +15,4 @@
 17:30:00 - 18:00:00 : Gamescom 2016 - Headup Games zu Besuch - Live
 18:00:00 - 20:00:00 : Game Plus Daily - #54: Live von der gamescom in Köln - Live
 20:00:00 - 21:30:00 : Gamescom 2016 - Weitere Highlights vom Messe-Samstag - Premiere
-22:00:00 - 00:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
+21:30:00 - 00:00:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
