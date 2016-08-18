@@ -5,7 +5,7 @@
 10:30:00 - 11:18:06 : MoinMoin - Die Morning-Show von der Gamescom - Live
 11:30:00 - 12:00:00 : Gamescom 2016 - Simon zeigt euch Halo Wars 2 - Live
 12:00:00 - 13:00:00 : Gamescom 2016 - Wir zocken Dropzone gegen die Jungs von TakeTV - Live
-13:00:00 - 13:30:00 : Gamescom 2016 - Mini-Jam mit dem Krogazer und Shrek - Live
+13:00:00 - 13:09:13 : Gamescom 2016 - Mini-Jam mit dem Krogazer und Shrek - Live
 13:30:00 - 13:55:56 : Gamescom 2016 - Fabian, Eddy und Gregott zeigen euch Monster Boy & the Cursed Kingdom - Live
 14:00:00 - 14:18:03 : Gamescom 2016 - Nils zeigt euch South Park - Live
 14:20:00 - 14:45:58 : Gamescom 2016 - Etienne zeigt euch Elder Scrolls Online - Live
@@ -14,8 +14,8 @@
 15:40:00 - 16:00:00 : Gamescom 2016 - Sofia & Fabian zeigen euch Steep - Live
 16:00:00 - 17:00:00 : Gamescom 2016 - Live-Zockerei von der gamescom - Live
 17:00:00 - 17:30:00 : Gamescom 2016 - Michael zeigt euch Kingdom Come Deliverance - Live
-17:30:00 - 18:00:00 : Gamescom 2016 - Michael zeigt euch Grand Values Monaco - Live
-18:00:00 - 20:00:00 : Game Plus Daily - #52: Live von der gamescom in Köln - Live
+17:30:00 - 17:44:57 : Gamescom 2016 - Michael zeigt euch Grand Values Monaco - Live
+18:00:00 - 20:04:30 : Game Plus Daily - #52: Live von der gamescom in Köln - Live
 20:00:00 - 20:15:00 : RB News - Premiere
 20:15:00 - 21:00:00 : Gamescom 2016 - WWE-Livetalk mit Bill Goldberg, Holger Böschen, Gregor & WWE 2K17 - Live
 21:00:00 - 23:00:00 : Gamescom 2016 - Weitere Highlights vom Messe-Donnerstag - Premiere
