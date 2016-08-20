@@ -1,7 +1,7 @@
 00:20:00 - 01:10:00 : MoinMoin - Die Morning-Show von der Gamescom
 01:10:00 - 05:55:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
-06:00:00 - 07:00:04 : Almost Daily #187 - Blumentopf
-07:00:00 - 10:30:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
+07:00:00 - 08:00:04 : Almost Daily #187 - Blumentopf
+08:00:00 - 10:30:00 : Gamescom 2016 - Wiederholung des Gamescom Tages
 10:30:00 - 11:20:00 : MoinMoin - Die Morning-Show von der Gamescom - Live
 11:20:00 - 11:30:00 : Gamescom 2016 - Im Gespräch mit Nino Kerl - Live
 12:00:00 - 13:00:00 : Gamescom 2016 - Live-Zockerei - Live
