@@ -6,7 +6,7 @@
 09:45:00 - 10:32:05 : MoinMoin - Moin Moin - Die Morning-Show
 10:30:00 - 11:17:09 : MoinMoin - Moin Moin - Die Morning-Show
 11:20:00 - 12:23:11 : Almost Daily #194 - Tabu
-12:30:00 - 13:00:00 : Grillshow Classics #19 - Premiere
+12:30:00 - 12:55:08 : Grillshow Classics #19 - Premiere
 13:00:00 - 14:31:00 : Bohn Jour
 14:30:00 - 14:42:47 : Die Grillshow #42
 15:00:00 - 17:00:00 : Knallhart Durchgenommen - Deus Ex: Mankind Divided mit Simon - Premiere
@@ -15,7 +15,7 @@
 18:50:00 - 19:35:00 : Verflixxte Klixx - mit Lars und Florentin
 19:30:00 - 19:40:00 : Gadget Inspectors - E-Bike und Jet Board - Premiere
 19:40:00 - 20:00:59 : Nerdy Timber #10 - Premiere
-20:00:00 - 20:15:00 : Die Grillshow #48 - Premiere
+20:00:00 - 20:11:23 : Die Grillshow #48 - Premiere
 20:15:00 - 21:15:00 : Almost Daily # - Premiere
 21:15:00 - 21:37:36 : RöbelTV #6 - Premiere
 21:45:00 - 00:25:00 : Plauschangriff Classic - Rare - Premiere
