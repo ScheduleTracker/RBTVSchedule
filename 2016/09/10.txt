@@ -2,7 +2,9 @@
 00:10:00 - 01:00:00 : MoinMoin - Die Morning-Show
 01:00:00 - 02:16:39 : Knallhart Durchgenommen - Deus Ex: Mankind Divided mit Simon
 02:15:00 - 03:50:22 : Game Plus #20 - Prügel - App, Fallout 4, RBTV - The Game
+03:50:00 - 05:57:16 : Let’s Play - No Man's Sky mit Etienne
 06:00:00 - 07:01:21 : Almost Daily #205 - Wer Bin Ich
+07:00:00 - 09:10:44 : Let’s Play - No Man's Sky mit Etienne
 09:15:00 - 11:19:19 : Let’s Play - Paragon mit Budi, Gunnar und Marco
 11:20:00 - 12:22:14 : Almost Daily #206 - Wenn ich 150m groß wäre
 12:30:00 - 14:45:00 : Kino+ - mit Daniel und Andi
@@ -17,3 +19,4 @@
 20:40:00 - 21:38:47 : Spiele mit Bart #12 - Gabriel Knight 2
 21:35:00 - 22:33:24 : Spiele mit Bart #13 - Gabriel Knight 2
 22:35:00 - 23:37:30 : Spiele mit Bart #14 - Gabriel Knight 2
+23:40:00 - 01:39:40 : Classix - Gothic II mit Micha R. & Krogmann
