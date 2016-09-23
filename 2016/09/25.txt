@@ -7,7 +7,7 @@
 08:15:00 - 09:02:01 : MoinMoin - Die Morning-Show mit Sofia
 09:00:00 - 09:47:02 : MoinMoin - Die Morning-Show mit Alwin
 09:45:00 - 10:31:53 : MoinMoin - Die Morning-Show mit Lars
-10:30:00 - 11:20:00 : MoinMoin - MoinMoin - Die Morning-Show
+10:30:00 - 11:20:00 : MoinMoin
 11:20:00 - 12:23:09 : Almost Daily #220 - Scharade
 12:30:00 - 13:00:00 : Grillshow Classics - Wämsen am Sonntag #23 - Premiere
 13:00:00 - 14:49:00 : Bohn Jour - Die Late-Night-Show zur Prime-Time mit Nils & Budi
