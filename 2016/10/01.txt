@@ -1,9 +1,8 @@
 00:00:00 - 00:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
-00:10:00 - 01:55:00 : MoinMoin - Moin Moin - Die Morning-Show mit Florentin
-01:00:00 - 02:16:31 : Game Plus #34 - Das Games Magazin
-02:15:00 - 03:34:34 : Erwachsene Männer hören Jan Tenner #16
-03:35:00 - 04:58:40 : Erwachsene Männer hören Jan Tenner #17
-05:00:00 - 06:01:27 : Let’s Play - PES 2017 mit Nils & Adam Bhatti
+00:10:00 - 01:55:00 : MoinMoin - Die Morning-Show mit Florentin
+01:55:00 - 03:11:31 : Game Plus #34 - Das Games Magazin
+03:10:00 - 04:29:34 : Erwachsene Männer hören Jan Tenner #16
+04:30:00 - 05:53:40 : Erwachsene Männer hören Jan Tenner #17
 06:00:00 - 07:21:56 : Almost Daily #227 - Radio Nukular
 07:20:00 - 08:45:55 : Let’s Play - IHR votet, WIR spielen! Multiplayer-Action auf Bestellung
 08:45:00 - 11:02:19 : Team Limited - Counter-Strike: Global Offensive
