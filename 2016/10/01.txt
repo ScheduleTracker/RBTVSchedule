@@ -1,5 +1,5 @@
 00:00:00 - 00:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
-00:10:00 - 01:55:00 : MoinMoin - Die Morning-Show mit Florentin
+00:10:00 - 01:59:00 : MoinMoin - Die Morning-Show mit Florentin
 01:55:00 - 03:11:31 : Game Plus #34 - Das Games Magazin
 03:10:00 - 04:29:34 : Erwachsene Männer hören Jan Tenner #16
 04:30:00 - 05:53:40 : Erwachsene Männer hören Jan Tenner #17
@@ -10,7 +10,7 @@
 12:30:00 - 14:49:10 : Kino+ - Kino+ mit Daniel, Wolf und Gregor
 14:45:00 - 16:34:40 : Bohndesliga #5 - mit Nils & Tobi
 16:30:00 - 18:36:17 : Let’s Play - Gothic II Das Fantasy-Abenteuer mit Micha, Micha & Trixi
-18:30:00 - 19:00:00 : DICED #45 - Premiere
+18:30:00 - 18:58:03 : DICED #45 - Premiere
 19:00:00 - 20:12:05 : Speedrundale - Castlevania Training - Premiere
 20:15:00 - 20:35:57 : Heimwerkerking #26 - Premiere
 20:30:00 - 21:31:46 : Spiele mit Bart #19 - Gabriel Knight 2
