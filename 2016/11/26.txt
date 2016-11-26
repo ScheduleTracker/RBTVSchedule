@@ -1,8 +1,9 @@
-01:15:00 - 02:00:00 : Pen & Paper - Was wäre wenn B.E.A.R.D.S - Live
-02:00:00 - 03:04:00 : Die BEARDS Nachtschleife - Premiere
-03:15:00 - 03:25:58 : RB News - News! Investigativ, Aktuell, Sexy!
-03:25:00 - 04:16:06 : MoinMoin - MoinMoin - Die Morning-Show mit Florentin
-04:15:00 - 06:05:07 : Let’s Play - Watch Dogs 2 mit Gregor
+01:15:00 - 01:50:00 : Pen & Paper - Was wäre wenn B.E.A.R.D.S - Live
+01:50:00 - 02:54:00 : Die BEARDS Nachtschleife - Premiere
+02:55:00 - 03:05:58 : RB News - News! Investigativ, Aktuell, Sexy!
+03:05:00 - 03:56:06 : MoinMoin - MoinMoin - Die Morning-Show mit Florentin
+03:55:00 - 05:45:07 : Let’s Play - Watch Dogs 2 mit Gregor
+05:45:00 - 06:04:40 : RBTV On Tour - RBTV On Tour | Nürnburgring
 06:00:00 - 07:04:55 : Almost Plaily #20 - Montagsmaler
 07:05:00 - 09:14:39 : Let’s Play - Metroid Prime mit Etienne
 09:15:00 - 11:17:49 : Let’s Play - Civilization mit Dennis
@@ -10,8 +11,8 @@
 12:30:00 - 15:04:00 : Kino+ - mit Daniel, Etienne, Simon & Andi
 15:05:00 - 16:56:56 : Bohndesliga #11 - Bohndesliga mit Nils, Etienne und Tobi
 16:55:00 - 18:31:23 : Bohn Jour - Bohn Jour - Die Late-Night-Show zur Primetime mit Lars & Nils
-18:30:00 - 20:04:00 : Speedrundale - Premiere
-20:05:00 - 20:21:49 : Kliemannsland - Kliemannsland - Premiere
-20:15:00 - 21:18:01 : After Dark - Batman: The Telltale Series mit Simon / Episode 4 - Premiere
-21:15:00 - 23:16:00 : Beans on Rice - Simon & Budi vs. Lars & Evelyn | Thanksgiving-Special
-23:20:00 - 01:47:00 : Let’s Play - Das Fantasy-Abenteuer mit Micha, Micha & Trixi
+18:30:00 - 20:23:00 : Speedrundale - Premiere
+20:15:00 - 20:31:49 : Kliemannsland - Kliemannsland - Premiere
+20:35:00 - 21:38:01 : After Dark - Batman: The Telltale Series mit Simon / Episode 4 - Premiere
+21:30:00 - 23:31:00 : Beans on Rice - Simon & Budi vs. Lars & Evelyn | Thanksgiving-Special
+23:35:00 - 02:02:00 : Let’s Play - Das Fantasy-Abenteuer mit Micha, Micha & Trixi
