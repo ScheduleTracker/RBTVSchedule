@@ -1,14 +1,13 @@
-00:00:00 - 00:05:59 : RB News - News! Investigativ, Aktuell, Sexy!
-00:10:00 - 01:01:00 : MoinMoin - MoinMoin - Die Morning-Show mit Gino und Gunnar
-01:00:00 - 03:08:37 : Game Plus Daily - Game Plus Daily #31 mit Budi, Gunnar & René
-03:05:00 - 04:25:02 : Knallhart Durchgenommen - Simon vs The Legend of Zelda: A Link to the Past
-04:25:00 - 05:45:38 : After Dark - Dead Space mit Simon
-05:50:00 - 06:08:24 : Let’s Play - Fish Tycoon
-06:05:00 - 07:05:59 : Almost Plaily #27 - Montagsmaler
-07:05:00 - 08:09:14 : Speedrundale - Super Metroid
-08:10:00 - 09:46:19 : Chat Duell - Game Tube vs. Rocket Beans TV
-09:50:00 - 10:20:58 : Buchklub #3
-10:20:00 - 10:37:11 : RBTV On Tour - Bell und Dennis in Vancouver bei Gears of War IV
+00:15:00 - 00:20:59 : RB News - News! Investigativ, Aktuell, Sexy!
+00:20:00 - 01:11:00 : MoinMoin - MoinMoin - Die Morning-Show mit Gino und Gunnar
+01:10:00 - 03:18:37 : Game Plus Daily - Game Plus Daily #31 mit Budi, Gunnar & René
+03:20:00 - 04:40:02 : Knallhart Durchgenommen - Simon vs The Legend of Zelda: A Link to the Past
+04:40:00 - 06:00:38 : After Dark - Dead Space mit Simon
+06:00:00 - 07:00:59 : Almost Plaily #27 - Montagsmaler
+07:00:00 - 08:04:14 : Speedrundale - Super Metroid
+08:05:00 - 09:41:19 : Chat Duell - Game Tube vs. Rocket Beans TV
+09:40:00 - 10:10:58 : Buchklub #3
+10:15:00 - 10:32:11 : RBTV On Tour - Bell und Dennis in Vancouver bei Gears of War IV
 10:30:00 - 11:20:00 : MoinMoin - MoinMoin - Die Morning-Show mit Donnie - Live
 11:20:00 - 12:28:22 : Almost Plaily #26 - Black Stories
 12:30:00 - 14:46:00 : Game Plus Daily - #106 mit Simon, Gregor & Ilyass: Yakuza 6, No Man's Sky, Steep-Reise & Mobile+
