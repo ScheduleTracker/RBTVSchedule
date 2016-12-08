@@ -7,7 +7,7 @@
 07:00:00 - 07:54:36 : Speedrundale - Turtles
 07:55:00 - 09:28:46 : Chat Duell - VR Nerds vs. Rocket Beans TV
 09:30:00 - 10:33:35 : Let’s Play - Tour de France 2016 mit Andreas & Gino
-10:30:00 - 11:24:00 : MoinMoin - MoinMoin - Die Morning-Show mit Etienne - Live
+10:30:00 - 11:21:00 : MoinMoin - MoinMoin - Die Morning-Show mit Etienne - Live
 11:20:00 - 12:15:59 : Urknall, Weltall und das Leben #9
 12:15:00 - 13:20:58 : Almost Plaily #33 - Agent Undercover Live
 13:20:00 - 13:35:23 : Die Grillshow #62
@@ -18,4 +18,5 @@
 19:00:00 - 20:00:00 : Retro Klub - Live
 20:00:00 - 20:10:00 : RB News - News! Investigativ, Aktuell, Sexy! - Premiere
 20:10:00 - 20:15:00 : #beatyesterday #1 - #beatyesterday - Gesund und fit mit Gino Singh - Premiere
+20:15:00 - 22:30:00 : Archiv - Kino+ mit Steven Gätjen
 22:30:00 - 23:27:01 : Game Two schaut Game Two #3 - Premiere
