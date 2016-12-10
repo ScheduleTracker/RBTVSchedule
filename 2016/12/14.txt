@@ -1,3 +1,5 @@
+00:00:00 - 00:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
+00:10:00 - 01:00:00 : MoinMoin - Moin Moin - Die Morning-Show mit Hauke
 10:30:00 - 11:20:00 : MoinMoin - Moin Moin - Die Morning-Show mit den Inselboys - Live
 11:20:00 - 11:50:13 : Urknall, Weltall und das Leben #10
 11:50:00 - 12:56:30 : Almost Daily #267 - Serien
@@ -8,4 +10,4 @@
 20:05:00 - 20:15:00 : Kliemannsland - Kliemannsland - Premiere
 20:15:00 - 22:00:00 : Beans on Rice - Beans on Rice - Live
 22:00:00 - 22:05:00 : Weekly Wahnsinn - Weekly Wahnsinn - Partyspiele mit den Beans - Premiere
-22:05:00 - 00:05:00 : Let’s Play - Gothic II mit Micha, Micha & Trixi - Live
+22:05:00 - 00:00:00 : Let’s Play - Gothic II mit Micha, Micha & Trixi - Live
