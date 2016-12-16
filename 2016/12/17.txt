@@ -1,14 +1,13 @@
 01:05:00 - 01:15:00 : RB News - News! Investigativ, Aktuell, Sexy!
 01:15:00 - 02:11:30 : MoinMoin - Die Morning-Show mit Florentin & Andreas
-02:05:00 - 04:21:00 : Game Plus Daily - Game Plus Daily #43 mit Etienne, Colin & Gunnar: This is the Police & Index-Special
-04:15:00 - 05:24:04 : After Dark - Dead Space 2 mit Simon
-05:20:00 - 07:26:18 : Knallhart Durchgenommen - Simon und Schröck in geiler Couch-Koop-Action mit Gears of War 4
-07:25:00 - 08:07:26 : Nerd Quiz S01E07
-08:10:00 - 08:51:58 : Nerd Quiz S01E08
-08:45:00 - 10:14:05 : Chat Duell - Team Bohnen gegen Team Hoaxilla
-10:15:00 - 11:20:30 : Retro Klub - SNES Mini Classic Teil 1
-11:15:00 - 14:11:55 : Let’s Play - Civilization VI mit Dennis
-14:10:00 - 16:53:49 : Knallhart Durchgenommen - CoD Modern Warfare Remastered mit Simon und Schröck
+02:10:00 - 04:26:00 : Game Plus Daily - Game Plus Daily #43 mit Etienne, Colin & Gunnar: This is the Police & Index-Special
+04:30:00 - 05:39:04 : After Dark - Dead Space 2 mit Simon
+05:35:00 - 07:41:18 : Knallhart Durchgenommen - Simon und Schröck in geiler Couch-Koop-Action mit Gears of War 4
+07:45:00 - 08:27:26 : Nerd Quiz S01E07
+08:25:00 - 09:54:05 : Chat Duell - Team Bohnen gegen Team Hoaxilla
+09:55:00 - 11:00:30 : Retro Klub - SNES Mini Classic Teil 1
+11:00:00 - 13:56:55 : Let’s Play - Civilization VI mit Dennis
+13:55:00 - 16:38:49 : Knallhart Durchgenommen - CoD Modern Warfare Remastered mit Simon und Schröck
 16:15:00 - 17:50:58 : Wir müssen reden - Weihnachten mit Gunnar und Etienne
 17:45:00 - 18:45:00 : Verflixxte Klixx - Verflixxte Klixx mit Lars und Florentin
 18:50:00 - 19:00:00 : Gadget Inspectors - Premiere
