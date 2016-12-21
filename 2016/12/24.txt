@@ -1,8 +1,7 @@
-01:00:00 - 01:10:00 : RB News - News! Investigativ, Aktuell, Sexy!
-01:10:00 - 02:00:00 : MoinMoin - Moin Moin - Die Morning-Show mit Daniel
-02:00:00 - 04:08:32 : Game Plus Daily - #47: WoW Legion & Starbound mit Budi, Jens & Steffen
-04:05:00 - 05:45:54 : Speedrundale - The Legend of Zelda: Ocarina of Time
-05:50:00 - 06:20:55 : Let’s Play - Nasti zockt Thirty Flights of Loving
+01:30:00 - 01:40:00 : RB News - News! Investigativ, Aktuell, Sexy!
+01:40:00 - 02:30:00 : MoinMoin - Moin Moin - Die Morning-Show mit Daniel
+02:30:00 - 04:38:32 : Game Plus Daily - #47: WoW Legion & Starbound mit Budi, Jens & Steffen
+04:35:00 - 06:15:54 : Speedrundale - The Legend of Zelda: Ocarina of Time
 06:20:00 - 08:31:30 : Knallhart Durchgenommen - Dark Souls III | mit Colin & Dennis
 08:30:00 - 10:31:15 : Knallhart Durchgenommen - Final Fantasy XV mit Gregor
 10:30:00 - 12:34:32 : Knallhart Durchgenommen - Last Guardian mit Simon
