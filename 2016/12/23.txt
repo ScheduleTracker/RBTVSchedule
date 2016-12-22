@@ -1,8 +1,7 @@
 00:00:00 - 00:10:05 : RB News - News! Investigativ, Aktuell, Sexy!
 00:10:00 - 01:53:43 : MoinMoin - Moin Moin - Die Morning-Show mit Budi und Simon
-01:00:00 - 03:16:00 : Game Plus Daily - #46: No Mans Sky & Worms W.M.D mit Eddy, Gunnar, Alwin & Jens
-03:15:00 - 04:19:03 : Speedrundale
-04:20:00 - 05:16:02 : Speedrundale - Awesome Games Done Quick 2016
+01:45:00 - 04:01:00 : Game Plus Daily - #46: No Mans Sky & Worms W.M.D mit Eddy, Gunnar, Alwin & Jens
+04:00:00 - 05:04:03 : Speedrundale
 05:15:00 - 06:51:15 : Let’s Play - Mafia III mit Gregor & Micha
 06:50:00 - 09:04:22 : Knallhart Durchgenommen - Dark Souls III | mit Etienne & Colin
 09:05:00 - 10:29:22 : Chat Duell - Chat Duell - Team FIFA vs. Team Limited
