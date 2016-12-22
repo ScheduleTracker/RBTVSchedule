@@ -4,7 +4,7 @@
 08:00:00 - 09:00:18 : MoinMoin - Moin Moin - Die Morning-Show mit Colin
 09:05:00 - 09:56:00 : MoinMoin - Die Morning-Show mit Flo und René
 09:55:00 - 10:45:54 : MoinMoin - Die Morning-Show mit Gregor
-10:45:00 - 12:20:00 : MoinMoin - Moin Moin - Die Morning-Show mit Budi und Simon
+10:45:00 - 12:30:00 : MoinMoin - Moin Moin - Die Morning-Show mit Budi und Simon
 11:35:00 - 12:25:00 : MoinMoin - Moin Moin - Die Morning-Show mit Daniel
 12:30:00 - 13:00:00 : Grillshow Classics # - Premiere
 13:00:00 - 15:18:50 : RANKED - Team Limited: Counter Strike - Global Offensive
