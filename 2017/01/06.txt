@@ -1,9 +1,9 @@
 00:00:00 - 01:14:03 : MoinMoin - Die Morning-Show mit Etienne
 01:15:00 - 03:23:36 : Game Plus Daily - #60: Metroid Prime: FF & Champions of Anteria mit Simon, Gregor & Marco
 03:30:00 - 05:23:10 : Beans on Rice - Thai Curry
-05:25:00 - 07:22:14 : Knallhart Durchgenommen - Dark Souls III mit Etienne & Colin
-07:25:00 - 09:06:18 : Knallhart Durchgenommen - Dark Souls III: Colin & Eddy auf dem Weg zum Ziel!
-09:05:00 - 10:35:00 : Chat Duell - JOIZ vs. Rocket Beans TV
+05:20:00 - 07:17:14 : Knallhart Durchgenommen - Dark Souls III mit Etienne & Colin
+07:20:00 - 09:01:18 : Knallhart Durchgenommen - Dark Souls III: Colin & Eddy auf dem Weg zum Ziel!
+09:00:00 - 10:30:00 : Chat Duell - JOIZ vs. Rocket Beans TV
 10:30:00 - 11:15:00 : MoinMoin - Moin Moin - Die Morning-Show mit Florentin - Live
 11:15:00 - 13:07:00 : Bohn Jour
 13:05:00 - 14:07:21 : Knallhart Durchgenommen - Jedi Knight II: Jedi Outcast mit Donnie
@@ -14,3 +14,4 @@
 20:00:00 - 20:45:00 : Game Two #7 - Live
 20:45:00 - 22:30:00 : Knallhart Durchgenommen - Dark Souls III: Der Tag der freien Schelle - Live
 22:30:00 - 23:30:00 : Almost Magic - Unboxing Spezial - Premiere
+23:30:00 - 00:15:00 : MoinMoin - Moin Moin - Die Morning-Show mit Florentin
