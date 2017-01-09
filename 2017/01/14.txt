@@ -1,5 +1,10 @@
-11:45:00 - 12:30:00 : MoinMoin - Moin Moin - Die Morning-Show mit Andy
-12:30:00 - 13:15:00 : MoinMoin - Moin Moin - Die Morning-Show mit Etienne
+00:45:00 - 02:53:53 : Game Plus Daily - #66: Call of Duty: Infinite Warfare & The Tomorrow Children mit Colin, Gregor & Sebastian
+02:50:00 - 05:15:33 : Speedrundale - Pikmin 3
+05:20:00 - 07:27:50 : Knallhart Durchgenommen - Dark Souls III: Ashes of Ariandel
+10:00:00 - 10:49:26 : MoinMoin - Moin Moin - Die Morning-Show mit Donnie
+10:50:00 - 11:35:00 : MoinMoin - Moin Moin - Die Morning-Show mit Lars
+11:35:00 - 12:20:00 : MoinMoin - Moin Moin - Die Morning-Show mit Andy
+12:25:00 - 13:10:00 : MoinMoin - Moin Moin - Die Morning-Show mit Etienne
 13:15:00 - 14:00:00 : MoinMoin - Moin Moin - Die Morning-Show mit Florentin
 14:00:00 - 15:00:00 : Wir müssen reden - Wir müssen reden mit Gunnar und Nils
 15:30:00 - 17:30:00 : Kino+ - Kino+ mit Daniel und Etienne
@@ -12,4 +17,4 @@
 20:00:00 - 21:00:00 : Almost Daily # - Almost Daily - Premiere
 21:00:00 - 21:15:00 : SRSLY SHOW - SRSLY - Von und mit Lars Paulsen - Premiere
 21:15:00 - 22:37:56 : Hoaxilla - Der skeptische Podcast #201 - Premiere
-22:45:00 - 00:30:00 : Beans on Rice - Beans on Rice | Katjana Gerz und Donnie vs. Nils & Lisa
+22:35:00 - 00:20:00 : Beans on Rice - Beans on Rice | Katjana Gerz und Donnie vs. Nils & Lisa
