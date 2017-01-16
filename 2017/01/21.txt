@@ -1,8 +1,8 @@
 00:45:00 - 02:53:43 : Game Plus Daily - #71: Redout & BioShock mit Micha, Gregor & Colin
 02:50:00 - 03:26:37 : Speedrundale - Dishonored DLC
 03:30:00 - 05:47:26 : Speedrundale - Bioshock Infinite
-05:45:00 - 07:04:29 : Let’s Play - Pizza Connection 2 mit Gunnar & Flo
 07:05:00 - 09:11:27 : Knallhart Durchgenommen
+09:10:00 - 10:29:29 : Let’s Play - Pizza Connection 2 mit Gunnar & Flo
 10:30:00 - 11:15:00 : MoinMoin - Die Morning-Show mit Donnie
 11:15:00 - 12:00:00 : MoinMoin - Die Morning-Show mit Lars
 12:00:00 - 12:45:00 : MoinMoin - Die Morning-Show mit Andy
@@ -16,3 +16,5 @@
 19:30:00 - 20:00:00 : 1 On 1 - Premiere
 20:00:00 - 21:00:00 : Almost Daily # - Premiere
 21:00:00 - 21:15:00 : SRSLY SHOW - mit Lars Paulsen - Premiere
+21:15:00 - 22:45:00 : Hoaxilla - Der skeptische Podcast # - Premiere
+22:45:00 - 00:30:00 : Beans on Rice - Fabian Döhla und Anne vs. Eddy & Gunnar
