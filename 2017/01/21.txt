@@ -9,7 +9,7 @@
 11:15:00 - 12:01:09 : MoinMoin - Die Morning-Show mit Lars
 12:00:00 - 12:46:01 : MoinMoin - Moin Moin - Die Morning-Show mit Andy
 12:45:00 - 13:31:00 : MoinMoin - Die Morning-Show mit Gunnar & Gino
-13:30:00 - 14:15:00 : MoinMoin - Die Morning-Show mit Florentin
+13:30:00 - 14:15:55 : MoinMoin - Die Morning-Show mit Florentin
 14:15:00 - 16:30:00 : Werwolf #3 - mit Uke, Ingo Mess und reichlich Bohnen
 16:30:00 - 17:30:00 : Verflixxte Klixx - mit Lars und Florentin
 18:00:00 - 18:10:00 : Gadget Inspectors - Musikgadgets Artiphon & Mogee im Test - Premiere
