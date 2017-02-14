@@ -12,6 +12,7 @@
 18:00:00 - 18:30:00 : DICED #4 - Die Tabletop Show - Premiere
 18:30:00 - 18:45:00 : Ninotaku Anime News #108 - Wataaa! - Premiere
 18:45:00 - 19:00:00 : VR∙Nerds TV # - Alles aus der virtuellen Welt - Premiere
-19:00:00 - 20:00:00 : Almost Daily #277 - Special rund ums Thema Game Two
-20:30:00 - 22:30:00 : Knallhart Durchgenommen #11 - Red Dead Edemption - Premiere
-22:30:00 - 00:30:00 : Knallhart Durchgenommen #9 - Call of Duty: Modern Warfare Remastered - Premiere
+19:00:00 - 20:00:00 : Knallhart Durchgenommen #1 - For Honor - Premiere
+20:00:00 - 21:00:00 : Knallhart Durchgenommen #2 - For Honor - Premiere
+21:00:00 - 23:00:00 : Knallhart Durchgenommen #11 - Red Dead Edemption - Premiere
+23:00:00 - 00:00:00 : Almost Daily #277 - Special rund ums Thema Game Two
