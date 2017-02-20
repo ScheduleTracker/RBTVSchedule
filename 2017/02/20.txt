@@ -14,5 +14,4 @@
 17:30:00 - 19:03:22 : Bohndesliga #21 - Der Fußball-Talk zum 21. Buli-Spieltag - Live
 19:00:00 - 20:00:00 : New Game Plus #11 - Halo Wars 2 - Live
 20:00:00 - 21:30:00 : Knallhart Durchgenommen #14 - Pokémon Mond - Live
-21:30:00 - 23:45:00 : RANKED #28 - Team Limited: Counter Strike - Global Offensive - Live
-23:45:00 - 00:43:37 : Knallhart Durchgenommen #13 - Resident Evil 7 - Premiere
+21:30:00 - 00:00:00 : RANKED #28 - Team Limited: Counter Strike - Global Offensive - Live
