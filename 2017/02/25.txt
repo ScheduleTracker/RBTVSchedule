@@ -1,6 +1,11 @@
-10:30:00 - 11:15:00 : MoinMoin #532 - Die Morning-Show mit Donnie und Gast @TimurBorgir
-11:15:00 - 12:00:00 : MoinMoin #533 - Die Morning-Show mit Lars
-16:30:00 - 17:30:00 : Wir müssen reden #20 - Live-Call-In mit Gunnar
+10:00:00 - 10:45:00 : MoinMoin #532 - Die Morning-Show mit Donnie und Gast @TimurBorgir
+10:45:00 - 11:30:00 : MoinMoin #533 - Die Morning-Show mit Lars
+11:30:00 - 12:15:00 : MoinMoin #534 - Die Morning-Show mit Andy und das Lumpenpack
+12:30:00 - 13:15:00 : MoinMoin #535 - Die Morning-Show mit Etienne
+13:15:00 - 14:00:00 : MoinMoin #536 - Die Morning-Show mit Florentin
+14:00:00 - 16:00:00 : Kino+ #24 - Alles rund um Filme mit Daniel und Etienne
+16:00:00 - 17:00:00 : Wir müssen reden #20 - Live-Call-In mit Gunnar
+17:15:00 - 18:15:00 : Verflixxte Klixx #13 - Die YouTube-Klicks-Rate-Show
 18:20:00 - 18:30:00 : Vivi & Denny #7 - Die Mini-Soap mit Nerdfaktor - Premiere
 18:30:00 - 18:47:00 : Bunt & Kreativ #2 - EduART Laser | Part 2 - Premiere
 18:45:00 - 18:50:00 : Headlinez #8 - von und mit Rayk Anders - Premiere
@@ -10,3 +15,5 @@
 20:00:00 - 21:00:00 : Almost Daily #279 - Der Talk am goldenen Tisch - Premiere
 21:00:00 - 21:15:00 : SRSLY SHOW #6 - mit Lars Paulsen - Premiere
 21:15:00 - 22:20:42 : Hoaxilla - Der skeptische Podcast #195 - Elisa Lam - Premiere
+22:20:00 - 23:20:00 : Neue deutsche Abendunterhaltung #1 - Die Show zum Draufkommen
+23:20:00 - 00:20:00 : Knallhart Durchgenommen #2 - For Honor
