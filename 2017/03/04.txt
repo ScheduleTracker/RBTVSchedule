@@ -1,4 +1,4 @@
-00:35:00 - 01:21:00 : MoinMoin #541 - Die Morning-Show mit Florentin
+00:35:00 - 01:21:12 : MoinMoin #541 - Die Morning-Show mit Florentin
 02:05:00 - 03:58:00 : Let’s Play - Gothic II mit Micha, Micha & Trixi
 04:00:00 - 07:59:24 : Let’s Play - Gothic II mit Micha, Micha & Trixi
 08:00:00 - 09:41:29 : Bohn Jour
@@ -6,7 +6,7 @@
 10:25:00 - 11:11:04 : MoinMoin #538 - Die Morning-Show mit Lars
 11:10:00 - 11:56:11 : MoinMoin #539 - Die Morning-Show mit Andy und Tino Bomelino
 11:55:00 - 12:52:30 : MoinMoin #540 - Die Morning-Show mit Etienne
-12:55:00 - 13:41:00 : MoinMoin #541 - Die Morning-Show mit Florentin
+12:55:00 - 13:41:12 : MoinMoin #541 - Die Morning-Show mit Florentin
 13:40:00 - 14:38:03 : Bada Binge #3 - von und für Serien-Nerds | Utopia & Sneaky Pete
 14:40:00 - 16:48:00 : Kino+ #25 - Alles rund um Filme mit Daniel und Andi Bardet
 16:45:00 - 17:45:00 : Verflixxte Klixx #14 - Die YouTube-Klicks-Rate-Show
@@ -21,4 +21,4 @@
 21:00:00 - 21:15:00 : SRSLY SHOW #7 - mit Lars Paulsen - Premiere
 21:15:00 - 21:54:28 : Hoaxilla - Der skeptische Podcast #194 - Gruseliges Japan - Premiere
 21:55:00 - 23:04:00 : Neue Deutsche Abendunterhaltung #2 - Die Show zum Draufkommen
-23:00:00 - 00:56:00 : Wir müssen reden #21 - Live-Call-In mit Gunnar, Schröckert & Dominik Porschen
+23:00:00 - 00:56:00 : Wir müssen reden #19 - Live-Call-In mit Gunnar, Schröckert & Dominik Porschen
