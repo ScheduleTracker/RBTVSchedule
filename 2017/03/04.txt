@@ -5,10 +5,10 @@
 09:40:00 - 10:25:33 : MoinMoin #537 - Die Morning-Show mit Donnie
 10:25:00 - 11:11:04 : MoinMoin #538 - Die Morning-Show mit Lars
 11:10:00 - 11:56:11 : MoinMoin #539 - Die Morning-Show mit Andy und Tino Bomelino
-12:15:00 - 13:12:30 : MoinMoin #540 - Die Morning-Show mit Etienne
-13:00:00 - 13:45:00 : MoinMoin #541 - Die Morning-Show mit Florentin
-13:45:00 - 14:43:03 : Bada Binge #3 - von und für Serien-Nerds | Utopia & Sneaky Pete
-14:45:00 - 16:53:00 : Kino+ #25 - Alles rund um Filme mit Daniel und Andi Bardet
+11:55:00 - 12:52:30 : MoinMoin #540 - Die Morning-Show mit Etienne
+12:55:00 - 13:40:00 : MoinMoin #541 - Die Morning-Show mit Florentin
+13:40:00 - 14:38:03 : Bada Binge #3 - von und für Serien-Nerds | Utopia & Sneaky Pete
+14:40:00 - 16:48:00 : Kino+ #25 - Alles rund um Filme mit Daniel und Andi Bardet
 16:45:00 - 17:45:00 : Verflixxte Klixx #14 - Die YouTube-Klicks-Rate-Show
 17:45:00 - 18:17:58 : Urknall, Weltall und das Leben #1 - Interview mit Josef M. Gaßner | Die Welt in 100 Jahren - Premiere
 18:15:00 - 18:21:42 : Vivi & Denny #8 - Looping Louie mit schlimmen Folgen... - Premiere
@@ -21,5 +21,4 @@
 21:00:00 - 21:15:00 : SRSLY SHOW #7 - mit Lars Paulsen - Premiere
 21:15:00 - 21:54:28 : Hoaxilla - Der skeptische Podcast #194 - Gruseliges Japan - Premiere
 21:55:00 - 23:04:00 : Neue Deutsche Abendunterhaltung #2 - Die Show zum Draufkommen
-22:55:00 - 00:51:00 : Wir müssen reden #21 - Live-Call-In mit Gunnar, Schröckert & Dominik Porschen
-23:55:00 - 00:41:00 : Spiele mit Schmerz #5 - There Will Be Blood
+23:00:00 - 00:56:00 : Wir müssen reden #21 - Live-Call-In mit Gunnar, Schröckert & Dominik Porschen
