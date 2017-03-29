@@ -7,7 +7,7 @@
 08:30:00 - 10:25:16 : Bohn Jour
 10:30:00 - 11:16:21 : MoinMoin #557 - Die Morning-Show mit Donnie
 11:15:00 - 12:01:03 : MoinMoin #558 - Die Morning-Show mit Lars
-12:00:00 - 12:46:00 : MoinMoin #559 - Die Morning-Show mit Andy
+12:00:00 - 12:48:12 : MoinMoin #559 - Die Morning-Show mit Andy
 13:00:00 - 13:45:00 : MoinMoin #560 - Die Morning-Show mit Schröckert
 13:45:00 - 14:30:00 : MoinMoin #561 - Die Morning-Show mit Florentin
 14:30:00 - 16:30:00 : Kino+ #29 - Alles rund um Filme mit Daniel und Co.
