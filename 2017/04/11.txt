@@ -14,7 +14,7 @@
 14:50:00 - 16:59:33 : RANKED #35 - Team Limited: Counter Strike - Global Offensive
 17:00:00 - 18:03:48 : Last Call #6 - Nioh - Premiere
 18:00:00 - 19:01:42 : Knallhart Durchgenommen #22 - The Legend of Zelda: Breath of the Wild - Premiere
-19:00:00 - 20:05:49 : Bada Binge #6 - Die starke Serien-Show - Premiere
-20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #8 - Die letzte Show der Welt - Live
-21:00:00 - 23:00:00 : Beanstag #11 - Payday 2 - Live
-23:00:00 - 00:10:06 : Knallhart Durchgenommen #4 - Dark Souls III: The Ringed City - Premiere
+19:00:00 - 20:07:00 : Bada Binge #6 - Die starke Serien-Show - Premiere
+20:05:00 - 21:10:00 : Neue Deutsche Abendunterhaltung #8 - Die letzte Show der Welt - Live
+21:10:00 - 23:10:00 : Beanstag #11 - Payday 2 - Live
+23:10:00 - 00:20:06 : Knallhart Durchgenommen #4 - Dark Souls III: The Ringed City - Premiere
