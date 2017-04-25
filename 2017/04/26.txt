@@ -1,8 +1,8 @@
-01:00:00 - 01:46:33 : MoinMoin #576 - Die Morning-Show mit Lars
-01:45:00 - 03:20:51 : Wir müssen reden #39 - Geschichten aus Bus und Bahn. Und Flugzeugen.
-03:20:00 - 04:21:30 : Knallhart Durchgenommen #3 - Resident Evil 7 biohazard mit Nils & Dennis
-04:20:00 - 05:20:14 : Knallhart Durchgenommen #4 - Resident Evil 7 biohazard mit Nils & Dennis
-05:20:00 - 07:26:41 : Knallhart Durchgenommen #7 - Red Dead Edemption
+00:35:00 - 01:21:33 : MoinMoin #576 - Die Morning-Show mit Lars
+01:20:00 - 02:55:51 : Wir müssen reden #39 - Geschichten aus Bus und Bahn. Und Flugzeugen.
+02:55:00 - 03:56:30 : Knallhart Durchgenommen #3 - Resident Evil 7 biohazard mit Nils & Dennis
+03:55:00 - 04:55:14 : Knallhart Durchgenommen #4 - Resident Evil 7 biohazard mit Nils & Dennis
+04:55:00 - 07:01:41 : Knallhart Durchgenommen #7 - Red Dead Edemption
 07:30:00 - 08:30:59 : Retro Klub #55 - Alle Zoowölfe tragen eine
 08:30:00 - 08:44:09 : SRSLY SHOW #3 - mit Lars Paulsen
 08:45:00 - 10:36:00 : Bohn Jour
@@ -10,7 +10,7 @@
 11:15:00 - 11:41:12 : Urknall, Weltall und das Leben #7 - Neues von der Juno-Mission
 11:45:00 - 12:51:09 : Bada Binge #7 - The Sopranos - Special
 12:50:00 - 14:02:39 : Neue Deutsche Abendunterhaltung #10 - Die letzte Show der Welt mit Gast Frank Buschmann
-14:00:00 - 16:00:00 : Beanstag #13 - Playerunknown's Battlegrounds
+14:00:00 - 16:15:00 : Beanstag #13 - Playerunknown's Battlegrounds
 16:00:00 - 17:07:36 : Knallhart Durchgenommen #10 - Thimbleweed Park - Premiere
 17:00:00 - 18:02:12 : Last Call #11 - Nioh - Premiere
 18:00:00 - 18:59:41 : Knallhart Durchgenommen #34 - The Legend of Zelda: Breath of the Wild - Premiere
