@@ -1,13 +1,14 @@
-00:45:00 - 03:10:58 : Team Limited - Counter Strike - Global Offensive
-03:10:00 - 05:22:15 : Team Limited - Counter Strike - Global Offensive
-05:20:00 - 07:04:44 : Team Limited - Counter Strike - Global Offensive
-07:05:00 - 08:11:51 : Let’s Play - Ashes of Singularity mit Réne
-08:15:00 - 09:22:17 : Knallhart Durchgenommen #11 - Thimbleweed Park
-09:20:00 - 10:26:42 : Knallhart Durchgenommen #12 - Thimbleweed Park
-10:25:00 - 11:27:12 : New Game Plus #28 - Mario Kart 8 Deluxe
-11:30:00 - 12:30:59 : New Game Plus #29 - Tetris-Fieber, Dragon Quest & Mobile+
-12:30:00 - 15:21:11 : Beanstag #13 - Playerunknown's Battlegrounds
-15:20:00 - 17:08:00 : RANKED #36 - Team Limited: Counter Strike - Global Offensive
+00:00:00 - 02:25:58 : Team Limited - Counter Strike - Global Offensive
+02:25:00 - 04:37:15 : Team Limited - Counter Strike - Global Offensive
+04:35:00 - 06:19:44 : Team Limited - Counter Strike - Global Offensive
+06:20:00 - 07:26:51 : Let’s Play - Ashes of Singularity mit Réne
+07:25:00 - 08:32:17 : Knallhart Durchgenommen #11 - Thimbleweed Park
+08:35:00 - 09:41:42 : Knallhart Durchgenommen #12 - Thimbleweed Park
+09:40:00 - 10:44:18 : Last Call #12 - Nioh
+10:55:00 - 11:57:12 : New Game Plus #28 - Mario Kart 8 Deluxe
+12:00:00 - 13:00:59 : New Game Plus #29 - Tetris-Fieber, Dragon Quest & Mobile+
+13:00:00 - 15:51:11 : Beanstag #13 - Playerunknown's Battlegrounds
+15:50:00 - 17:38:00 : RANKED #36 - Team Limited: Counter Strike - Global Offensive
 17:45:00 - 18:30:00 : Game Two #22 - Gutes Gaming!
 18:30:00 - 18:42:52 : Ninotaku Anime News #115 - One Piece: Neue Ace-Story│Fairy Tail News │Tokyo Ghoul Movie Trailer - Premiere
 18:45:00 - 19:00:00 : VR∙Nerds TV # - Premiere
@@ -15,4 +16,4 @@
 20:05:00 - 21:05:00 : Knallhart Durchgenommen #1 - Guardians of the Galaxy: The Telltale Series - Premiere
 21:05:00 - 22:05:00 : Spiele mit Bart #3 - NightCry - Premiere
 22:05:00 - 23:29:59 : Nachspiel # - The Legend of Zelda: Breath of the Wild - Premiere
-23:30:00 - 01:51:34 : Jugendzimmer #7 - Command & Conquer
+23:30:00 - 23:57:00 : RBTV On Tour - Simon und Ian: Super Bomberman R World Tour
