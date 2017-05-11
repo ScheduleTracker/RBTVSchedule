@@ -10,7 +10,7 @@
 09:30:00 - 10:16:09 : MoinMoin #584 - Die Morning-Show mit Donnie
 10:15:00 - 10:58:46 : MoinMoin #585 - Die Morning-Show mit Gregor | Wie funktioniert eigentlich Waipu?
 11:00:00 - 11:47:25 : MoinMoin #586 - Die Morning-Show mit Andy
-12:00:00 - 12:45:00 : MoinMoin #587 - Die Morning-Show mit Simon und Ian
+12:00:00 - 13:00:00 : MoinMoin #587 - Die Morning-Show mit Simon und Ian
 12:45:00 - 13:30:00 : MoinMoin #588 - Die Morning-Show mit Florentin
 13:30:00 - 14:30:00 : Pen & Paper - PreShow
 14:45:00 - 17:00:00 : Pen & Paper - Dysnomia
