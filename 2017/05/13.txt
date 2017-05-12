@@ -10,10 +10,10 @@
 09:30:00 - 10:16:09 : MoinMoin #584 - Die Morning-Show mit Donnie
 10:15:00 - 10:58:46 : MoinMoin #585 - Die Morning-Show mit Gregor | Wie funktioniert eigentlich Waipu?
 11:00:00 - 11:47:25 : MoinMoin #586 - Die Morning-Show mit Andy
-11:45:00 - 12:47:19 : MoinMoin #587 - Die Morning-Show mit Simon und Ian
+11:50:00 - 12:52:19 : MoinMoin #587 - Die Morning-Show mit Simon und Ian
 12:50:00 - 13:36:35 : MoinMoin #588 - Die Morning-Show mit Florentin
 13:35:00 - 14:35:00 : Pen & Paper - PreShow
-14:45:00 - 17:00:00 : Pen & Paper - Dysnomia
+14:35:00 - 16:50:00 : Pen & Paper - Dysnomia
 17:45:00 - 18:08:29 : Urknall, Weltall und das Leben #10 - Wieviele Galaxien gibt es im Universum? • Extreme Deep Field, SDSS, - GOODS - Premiere
 18:20:00 - 18:24:45 : Vivi & Denny #17 - Das verbotene Geheimnis der Playstation 4 - Premiere
 18:30:00 - 18:39:23 : Nerdy Timber # - Arcadeautomat - Premiere
@@ -23,4 +23,4 @@
 21:00:00 - 22:00:00 : c't uplink # - Der Technik-Podcast - Premiere
 22:00:00 - 22:42:18 : Hoaxilla - Der skeptische Podcast #187 - Das Sonnenwunder von Fátima - Premiere
 22:40:00 - 23:36:07 : Chat Duell #3 - Game One vs. Game Two
-23:40:00 - 00:48:33 : Neue Deutsche Abendunterhaltung #12 - Die Show zum Draufkommen
+23:35:00 - 00:43:33 : Neue Deutsche Abendunterhaltung #12 - Die Show zum Draufkommen
