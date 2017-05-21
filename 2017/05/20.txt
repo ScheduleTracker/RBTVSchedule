@@ -6,10 +6,10 @@
 06:00:00 - 07:55:17 : Couch an Couch - Octodad
 07:55:00 - 08:57:17 : Royal Beef #5
 09:00:00 - 10:30:00 : Beansjam 2017: Guten Morgen! - Live
-10:30:00 - 11:00:00 : Doku: Super Game Jam Episode 1 - Premiere
+10:30:00 - 11:00:07 : Doku: Super Game Jam Episode 1 - Premiere
 11:00:00 - 12:00:00 : Beansjam 2017: Community-Zwischenstand - Live
 12:00:00 - 12:30:00 : Beansjam 2017: Talk & Zock - Live
-12:30:00 - 13:00:00 : Doku: Super Game Jam Episode 2 - Premiere
+12:30:00 - 13:01:00 : Doku: Super Game Jam Episode 2 - Premiere
 13:00:00 - 15:00:00 : Beansjam 2017: Es gibt Lunch! - Live
 15:00:00 - 17:30:00 : Beansjam 2017 meets Bundesliga-Finale - Live
 17:30:00 - 18:00:00 : Beansjam 2017: Talk & Zock - Live
@@ -18,5 +18,5 @@
 20:00:00 - 20:30:00 : Beansjam 2017: Interview mit Steve von Pixel Maniacs - Live
 20:30:00 - 21:00:00 : Beansjam 2017: Interview mit Slawa Deisling - Live
 21:00:00 - 22:30:00 : Beansjam 2017: Halbzeit! - Live
-22:30:00 - 23:00:00 : Doku: Super Game Jam Episode 3 - Premiere
+22:30:00 - 23:01:00 : Doku: Super Game Jam Episode 3 - Premiere
 23:00:00 - 00:00:00 : Beansjam 2017: Talk & Zock - Live
