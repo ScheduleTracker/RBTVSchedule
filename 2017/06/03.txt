@@ -9,7 +9,7 @@
 10:30:00 - 11:16:15 : MoinMoin #598 - Die Morning-Show mit Ilyass und Sebastian
 11:15:00 - 12:01:10 : MoinMoin #599 - Die Morning-Show mit Lars
 12:00:00 - 12:49:01 : MoinMoin #600 - Die 600. Morning-Show
-13:00:00 - 13:46:00 : MoinMoin #601 - Die Morning-Show mit Etienne
+13:00:00 - 13:47:06 : MoinMoin #601 - Die Morning-Show mit Etienne
 13:45:00 - 14:30:00 : MoinMoin #602 - Die Morning-Show mit Florentin
 14:30:00 - 16:30:00 : Kino+ #38 - Alles rund um Filme mit Daniel und Etienne
 16:30:00 - 17:30:00 : Verflixxte Klixx #26 - Die YouTube-Klicks-Rate-Show
