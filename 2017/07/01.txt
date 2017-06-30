@@ -8,8 +8,8 @@
 08:50:00 - 10:27:08 : Bohn Jour - Die Late Night Show zur Primetime
 10:30:00 - 11:17:13 : MoinMoin #617 - Die Morning-Show mit Donnie
 11:15:00 - 12:03:29 : MoinMoin #618 - Die Morning-Show mit Lars und Andreas
-12:00:00 - 12:48:59 : MoinMoin #619 - Die Morning-Show mit Andy und Mama Lauta
-12:45:00 - 13:32:34 : MoinMoin #620 - Die Morning-Show mit Etienne
+12:05:00 - 12:53:59 : MoinMoin #619 - Die Morning-Show mit Andy und Mama Lauta
+12:55:00 - 13:42:34 : MoinMoin #620 - Die Morning-Show mit Etienne
 13:45:00 - 14:30:00 : MoinMoin #621 - Die Morning-Show mit Aurel Mertz
 14:30:00 - 15:29:57 : Wir müssen reden #33 - Mit Gunnar, Krys und Donnie
 15:30:00 - 16:39:05 : Chat Duell #9 - RBTV vs. Twitch-Streamer: PhunkRoyal, fishc0p & LaraLoft
@@ -19,7 +19,8 @@
 18:55:00 - 19:00:00 : Headlinez # - von und mit Rayk Anders - Premiere
 19:00:00 - 19:15:00 : Die Grillshow #89 - Reinwämmsen Deluxe - Premiere
 19:15:00 - 19:30:00 : Lotte TV #4 - Premiere
+19:30:00 - 20:01:13 : 1 On 1 #1 - Interview mit Bigfoot
 20:00:00 - 21:40:25 : Almost Daily #304 - Hip Hop mit Niko Backspin und Rapper Ali As - Premiere
-21:00:00 - 22:00:00 : c't uplink #177 - Premiere
-22:00:00 - 22:39:35 : Hoaxilla - Der skeptische Podcast #184 - Bagdad-Batterie - Premiere
-22:40:00 - 00:19:47 : Jugendzimmer #12 - Ein pralles Paket!
+21:40:00 - 22:40:00 : c't uplink #177 - Premiere
+22:40:00 - 23:19:35 : Hoaxilla - Der skeptische Podcast #184 - Bagdad-Batterie - Premiere
+23:20:00 - 00:59:47 : Jugendzimmer #12 - Ein pralles Paket!
