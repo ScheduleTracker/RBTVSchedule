@@ -6,14 +6,14 @@
 05:40:00 - 06:50:06 : Knallhart Durchgenommen #4 - Dark Souls III: The Ringed City
 06:50:00 - 08:59:16 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
 09:00:00 - 10:43:26 : Bohn Jour - mit Etienne & Lars | Gäste: Rayk Anders & Jan "Poki" Müller-Michaelis
-11:15:00 - 12:00:00 : MoinMoin #632 - Die Morning-Show mit Etienne, Simon, Hauke, Fynn
-12:00:00 - 12:45:00 : MoinMoin #633 - Die Morning-Show mit Lars und Julia Krüger
-13:00:00 - 13:45:00 : MoinMoin #634 - Die Morning-Show mit Andy und Elektro Strothmann
-13:45:00 - 14:30:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
-14:30:00 - 15:30:00 : Wir müssen reden #34 - im Kliemannsland mit Gunnar und Hauke
-15:30:00 - 17:30:00 : Kino+ #2 - Kino+ mit Daniel
-17:30:00 - 18:30:00 : Neue Deutsche Abendunterhaltung #4 - Die letzte Show der Welt
-18:30:00 - 19:30:00 : Chat Duell #12 - RBTV vs. Spacefrogs & SnappyInc
+10:45:00 - 11:30:00 : MoinMoin #632 - Die Morning-Show mit Etienne, Simon, Hauke, Fynn
+11:30:00 - 12:15:00 : MoinMoin #633 - Die Morning-Show mit Lars und Julia Krüger
+12:30:00 - 13:15:00 : MoinMoin #634 - Die Morning-Show mit Andy und Elektro Strothmann
+13:15:00 - 14:00:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
+14:00:00 - 15:00:00 : Wir müssen reden #34 - im Kliemannsland mit Gunnar und Hauke
+15:00:00 - 17:00:00 : Kino+ #2 - Kino+ mit Daniel
+17:00:00 - 18:00:00 : Neue Deutsche Abendunterhaltung #4 - Die letzte Show der Welt
+18:00:00 - 19:00:00 : Chat Duell #12 - RBTV vs. Spacefrogs & SnappyInc
 19:00:00 - 19:15:00 : Die Grillshow # - Reinwämmsen Deluxe - Premiere
 19:15:00 - 19:30:00 : Lotte TV #6 - Premiere
 19:30:00 - 20:00:00 : 1 On 1 #6 - Premiere
