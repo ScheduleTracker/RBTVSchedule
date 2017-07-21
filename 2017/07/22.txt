@@ -1,16 +1,17 @@
-00:45:00 - 02:00:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
-01:30:00 - 02:30:34 : Knallhart Durchgenommen #49 - The Legend of Zelda: Breath of the Wild
-02:30:00 - 03:32:37 : Knallhart Durchgenommen #50 - The Legend of Zelda: Breath of the Wild
-03:30:00 - 04:31:20 : Knallhart Durchgenommen #51 - The Legend of Zelda: Breath of the Wild
-04:35:00 - 05:40:51 : Knallhart Durchgenommen #3 - Dark Souls III: The Ringed City
-05:40:00 - 06:50:06 : Knallhart Durchgenommen #4 - Dark Souls III: The Ringed City
-06:50:00 - 08:59:16 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
-09:00:00 - 10:43:26 : Bohn Jour - mit Etienne & Lars | Gäste: Rayk Anders & Jan "Poki" Müller-Michaelis
-11:30:00 - 12:15:00 : MoinMoin #633 - Die Morning-Show mit Lars und Julia Krüger
-12:30:00 - 13:14:44 : MoinMoin #634 - Die Morning-Show mit Andy und Elektro Strothmann
-13:15:00 - 14:30:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
-15:00:00 - 17:08:12 : Kino+ #2 - Kino+ mit Daniel
-17:00:00 - 18:13:45 : Neue Deutsche Abendunterhaltung #4 - Die letzte Show der Welt Live vom Kliemannsland
+00:40:00 - 01:55:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
+01:55:00 - 02:55:34 : Knallhart Durchgenommen #49 - The Legend of Zelda: Breath of the Wild
+02:55:00 - 03:57:37 : Knallhart Durchgenommen #50 - The Legend of Zelda: Breath of the Wild
+04:00:00 - 05:01:20 : Knallhart Durchgenommen #51 - The Legend of Zelda: Breath of the Wild
+05:00:00 - 06:05:51 : Knallhart Durchgenommen #3 - Dark Souls III: The Ringed City
+06:05:00 - 07:15:06 : Knallhart Durchgenommen #4 - Dark Souls III: The Ringed City
+07:15:00 - 09:24:16 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
+09:25:00 - 11:08:26 : Bohn Jour - mit Etienne & Lars | Gäste: Rayk Anders & Jan "Poki" Müller-Michaelis
+11:10:00 - 11:55:00 : MoinMoin #632
+11:55:00 - 12:40:00 : MoinMoin #633 - Die Morning-Show mit Lars und Julia Krüger
+12:40:00 - 13:24:44 : MoinMoin #634 - Die Morning-Show mit Andy und Elektro Strothmann
+13:20:00 - 14:35:00 : MoinMoin #635 - Die Morning-Show mit Flo, Gunnar, Andreas
+14:35:00 - 16:43:12 : Kino+ #2 - Kino+ mit Daniel
+16:45:00 - 17:58:45 : Neue Deutsche Abendunterhaltung #4 - Die letzte Show der Welt Live vom Kliemannsland
 18:00:00 - 19:07:01 : Chat Duell #12 - RBTV vs. Spacefrogs & SnappyInc
 18:55:00 - 19:00:00 : Headlinez # - von und mit Rayk Anders - Premiere
 19:00:00 - 19:23:27 : Die Grillshow #91 - Schawarma - Jubiläumsfolge - Premiere
