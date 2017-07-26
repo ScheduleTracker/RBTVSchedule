@@ -1,11 +1,11 @@
-00:05:00 - 01:29:24 : MoinMoin #639 - Die Morning-Show mit Andy
-01:30:00 - 02:29:06 : Knallhart Durchgenommen #56 - The Legend of Zelda: Breath of the Wild
-02:30:00 - 03:30:47 : Knallhart Durchgenommen #57 - The Legend of Zelda: Breath of the Wild
-03:30:00 - 04:40:12 : Knallhart Durchgenommen #9 - Dark Souls III: The Ringed City
-04:40:00 - 05:56:00 : Knallhart Durchgenommen #10 - Dark Souls III: The Ringed City
-05:55:00 - 08:05:18 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
-08:05:00 - 08:43:13 : Let’s Play - Overcooked mit Budi, Simon, Matteo und Niklas
-08:45:00 - 10:20:23 : Bohn Jour - Bohn Jour - Die Late-Night-Show zur Primetime mit Lars & Nils
+00:15:00 - 01:39:24 : MoinMoin #639 - Die Morning-Show mit Andy
+01:40:00 - 02:39:06 : Knallhart Durchgenommen #56 - The Legend of Zelda: Breath of the Wild
+02:40:00 - 03:40:47 : Knallhart Durchgenommen #57 - The Legend of Zelda: Breath of the Wild
+03:40:00 - 04:50:12 : Knallhart Durchgenommen #9 - Dark Souls III: The Ringed City
+04:50:00 - 06:06:00 : Knallhart Durchgenommen #10 - Dark Souls III: The Ringed City
+06:05:00 - 08:15:18 : Let’s Play - Salt and Sanctuary mit Eddy & Colin
+08:20:00 - 08:58:13 : Let’s Play - Overcooked mit Budi, Simon, Matteo und Niklas
+08:55:00 - 10:30:23 : Bohn Jour - Bohn Jour - Die Late-Night-Show zur Primetime mit Lars & Nils
 10:30:00 - 11:15:00 : MoinMoin #640 - Die Morning-Show mit Anja und Andreas - Live
 11:15:00 - 11:32:26 : Ninotaku Anime News #122 - No Game No Life News│Seven Deadly Sins Season 2 + Film│One Piece VR
 11:30:00 - 12:35:27 : 1 Runde mit - The End is Nigh
@@ -13,7 +13,7 @@
 13:40:00 - 14:44:01 : Wir müssen reden #34 - Mit Gunnar und Hauke auf dem Kliemannsland
 14:45:00 - 15:46:37 : Last Call #28 - Nioh
 15:45:00 - 16:46:17 : Chat Duell #13 - RBTV vs. Killerpilze
-16:55:00 - 18:50:00 : Couch an Couch - Nex Machina
+16:45:00 - 18:50:00 : Couch an Couch - Nex Machina
 18:55:00 - 19:00:00 : #beatyesterday #34 - Oberkörper Workout Outdoor - Premiere
 19:00:00 - 20:06:50 : Retro Klub #13 - X-COM Special - Premiere
 20:00:00 - 22:00:00 : Kino+ #2 - Die coole Kinosendung! - Premiere
