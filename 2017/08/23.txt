@@ -11,8 +11,8 @@
 12:30:00 - 12:53:42 : Mittelerde: Schatten des Krieges - Live
 13:00:00 - 13:25:13 : Job Stauffer - Telltale - Premiere
 13:30:00 - 13:53:32 : Monster Boy - Live
-14:00:00 - 14:30:00 : Project Cars 2 - Live
-14:30:00 - 15:00:00 : Neues von BlueByte - Live
+14:00:00 - 14:28:26 : Project Cars 2 - Live
+14:30:00 - 15:01:00 : Neues von BlueByte - Live
 15:00:00 - 15:30:00 : Destiny 2 - Live
 15:30:00 - 16:00:00 : Dungeons 3 - Live
 16:00:00 - 16:30:00 : ChromaGun - Live
@@ -26,4 +26,4 @@
 21:15:00 - 22:30:00 : Home-Budi spielt für euch - Live
 22:30:00 - 23:00:00 : LIVE von unserem Shop in Halle 5.2
 23:00:00 - 23:23:32 : Monster Boy
-23:30:00 - 00:00:00 : Project Cars 2
+23:30:00 - 23:58:26 : Project Cars 2
