@@ -1,18 +1,17 @@
-00:00:00 - 00:48:31 : MoinMoin #672 - Die Morning-Show mit Florentin
-00:45:00 - 02:46:55 : Let’s Play - Metroid Prime mit Etienne
-02:45:00 - 03:45:01 : Knallhart Durchgenommen #7 - Prey
-03:45:00 - 04:44:23 : Knallhart Durchgenommen #8 - Prey
-04:45:00 - 05:41:00 : Knallhart Durchgenommen #11 - Resident Evil 7
-05:40:00 - 06:21:08 : Knallhart Durchgenommen #12 - Resident Evil 7
-06:20:00 - 08:10:34 : Let’s Play - Left 4 Dead: Team BENS vs Team Dennis!
-08:15:00 - 10:22:16 : Bohn Jour
-10:20:00 - 11:15:12 : MoinMoin #668 - Die Morning-Show mit Donnie
-11:15:00 - 12:04:54 : MoinMoin #669 - Die Morning-Show mit Lars
-12:05:00 - 12:52:03 : MoinMoin #670 - Die Morning-Show mit Gregor!
-12:50:00 - 13:49:05 : MoinMoin #671 - Die Morning-Show mit Simon
-13:50:00 - 14:38:31 : MoinMoin #672 - Die Morning-Show mit Florentin
-14:35:00 - 15:45:53 : Wir müssen reden #36 - Mit Gunnar und Nils
-15:45:00 - 16:45:00 : Verflixxte Klixx #34 - Mit Lars und Florentin
+00:15:00 - 01:03:31 : MoinMoin #672 - Die Morning-Show mit Florentin
+01:30:00 - 03:31:55 : Let’s Play - Metroid Prime mit Etienne
+03:30:00 - 04:30:01 : Knallhart Durchgenommen #7 - Prey
+04:30:00 - 05:29:23 : Knallhart Durchgenommen #8 - Prey
+05:30:00 - 06:26:00 : Knallhart Durchgenommen #11 - Resident Evil 7
+06:25:00 - 07:06:08 : Knallhart Durchgenommen #12 - Resident Evil 7
+07:05:00 - 08:55:34 : Let’s Play - Left 4 Dead: Team BENS vs Team Dennis!
+09:00:00 - 11:07:16 : Bohn Jour
+11:05:00 - 12:00:12 : MoinMoin #668 - Die Morning-Show mit Donnie
+12:00:00 - 12:49:54 : MoinMoin #669 - Die Morning-Show mit Lars
+12:50:00 - 13:37:03 : MoinMoin #670 - Die Morning-Show mit Gregor!
+13:35:00 - 14:34:05 : MoinMoin #671 - Die Morning-Show mit Simon
+14:35:00 - 15:23:31 : MoinMoin #672 - Die Morning-Show mit Florentin
+15:25:00 - 16:35:53 : Wir müssen reden #36 - Mit Gunnar und Nils
 16:45:00 - 18:54:38 : Kino+ #8 - Spezial - Filmschurken
 18:50:00 - 18:56:33 : Headlinez #73 - von und mit Rayk Anders - Premiere
 19:00:00 - 23:00:00 : Final Table - Das Rocket Beans Pokerturnier - Live
