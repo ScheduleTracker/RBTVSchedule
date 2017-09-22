@@ -5,14 +5,14 @@
 05:25:00 - 06:24:43 : Knallhart Durchgenommen #15 - Jedi Knight II: Jedi Outcast mit Donnie
 06:20:00 - 07:18:43 : Knallhart Durchgenommen #16 - Jedi Outcast mit Donnie
 07:20:00 - 08:06:41 : Let’s Play - Inside mit Nils
-08:15:00 - 10:29:00 : Bohn Jour - mit Simon & Budi
-10:30:00 - 11:17:30 : MoinMoin #678 - Die Morning-Show mit Donnie
-11:15:00 - 12:02:08 : MoinMoin #679 - Die Morning-Show mit Lars
-12:00:00 - 12:47:30 : MoinMoin #680 - Die Morning-Show mit Ilyass
-12:50:00 - 13:43:43 : MoinMoin #681 - Die Morning-Show mit Andreas und Flo
-13:45:00 - 14:31:43 : MoinMoin #682 - Die Morning-Show mit Florentin
-14:30:00 - 15:29:57 : Pen & Paper - Die Pre-Show
-15:30:00 - 17:48:35 : Pen & Paper - Good Times Island
+08:10:00 - 10:24:00 : Bohn Jour - mit Simon & Budi
+10:20:00 - 11:07:30 : MoinMoin #678 - Die Morning-Show mit Donnie
+11:10:00 - 11:57:08 : MoinMoin #679 - Die Morning-Show mit Lars
+11:55:00 - 12:42:30 : MoinMoin #680 - Die Morning-Show mit Ilyass
+12:45:00 - 13:38:43 : MoinMoin #681 - Die Morning-Show mit Andreas und Flo
+13:40:00 - 14:26:43 : MoinMoin #682 - Die Morning-Show mit Florentin
+14:25:00 - 15:24:57 : Pen & Paper - Die Pre-Show
+15:25:00 - 17:43:35 : Pen & Paper - Good Times Island
 18:30:00 - 18:50:20 : Nerdy Timber #9 - Amons Maske - Premiere
 18:50:00 - 18:55:29 : Headlinez #75 - von und mit Rayk Anders - Premiere
 19:00:00 - 19:15:56 : Die Grillshow #97 - Pilz-Lasagne - Premiere
@@ -20,4 +20,4 @@
 20:00:00 - 21:25:28 : Almost Daily #312 - Thema: Kryptowährungen - Premiere
 21:25:00 - 22:06:12 : c't uplink #186 - Magazin für Computertechnik - Premiere
 22:25:00 - 23:09:36 : Hoaxilla - Der skeptische Podcast #182 - Lepra-Mythen - Premiere
-23:25:00 - 00:28:46 : Verflixxte Klixx #36 - Die YouTube-Klicks-Rateshow mit Lars und Florentin
+23:10:00 - 00:13:46 : Verflixxte Klixx #36 - Die YouTube-Klicks-Rateshow mit Lars und Florentin
