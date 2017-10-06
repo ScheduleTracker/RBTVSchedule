@@ -1,18 +1,18 @@
-00:05:00 - 00:58:18 : MoinMoin #691 - Die Morning-Show mit Flo und Anja
-00:55:00 - 02:45:00 : RANKED #27 - Team Limited: Counter Strike - Global Offensive
-02:45:00 - 03:44:29 : Knallhart Durchgenommen #4 - The Forest
-03:45:00 - 04:47:27 : Knallhart Durchgenommen #5 - The Forest
-04:50:00 - 05:54:04 : Knallhart Durchgenommen #14 - Thimbleweed Park
-05:50:00 - 06:54:00 : Knallhart Durchgenommen #15 - Thimbleweed Park
-06:55:00 - 09:01:19 : Let’s Play - Paragon mit Budi, Gunnar und Marco
-09:00:00 - 10:42:46 : Bohn Jour - Die Late Night Show zur Primetime mit Ede und Nils
-10:45:00 - 11:32:44 : MoinMoin #688 - Die Morning-Show mit Simon
-11:35:00 - 12:09:01 : MoinMoin #689 - Die Morning-Show mit Andy
-12:05:00 - 12:53:09 : MoinMoin #690 - Die Morning-Show mit Etienne
-12:55:00 - 13:48:18 : MoinMoin #691 - Die Morning-Show mit Flo und Anja
-13:50:00 - 14:44:30 : Retro Klub #21 - Spiele aus Mittelerde
-14:45:00 - 16:33:16 : 1 Runde mit - Fortnite Battle Royale
-16:30:00 - 18:38:49 : Kino+ #11 - Alles rund ums Kino
+00:20:00 - 01:13:18 : MoinMoin #691 - Die Morning-Show mit Flo und Anja
+01:10:00 - 03:00:00 : RANKED #27 - Team Limited: Counter Strike - Global Offensive
+03:00:00 - 03:59:29 : Knallhart Durchgenommen #4 - The Forest
+04:00:00 - 05:02:27 : Knallhart Durchgenommen #5 - The Forest
+05:05:00 - 06:09:04 : Knallhart Durchgenommen #14 - Thimbleweed Park
+06:05:00 - 07:09:00 : Knallhart Durchgenommen #15 - Thimbleweed Park
+07:10:00 - 09:16:19 : Let’s Play - Paragon mit Budi, Gunnar und Marco
+09:15:00 - 10:57:46 : Bohn Jour - Die Late Night Show zur Primetime mit Ede und Nils
+11:00:00 - 11:47:44 : MoinMoin #688 - Die Morning-Show mit Simon
+11:50:00 - 12:24:01 : MoinMoin #689 - Die Morning-Show mit Andy
+12:20:00 - 13:08:09 : MoinMoin #690 - Die Morning-Show mit Etienne
+13:10:00 - 14:03:18 : MoinMoin #691 - Die Morning-Show mit Flo und Anja
+14:05:00 - 14:59:30 : Retro Klub #21 - Spiele aus Mittelerde
+15:00:00 - 16:48:16 : 1 Runde mit - Fortnite Battle Royale
+16:45:00 - 18:53:49 : Kino+ #11 - Alles rund ums Kino
 18:50:00 - 18:57:17 : Headlinez #77 - von und mit Rayk Anders - Premiere
 19:00:00 - 19:11:32 : Die Grillshow #99 - Butter Ribs - Premiere
 19:15:00 - 19:55:50 : 1 On 1 # - mit einem radfahrenden Veganer-Studenten
