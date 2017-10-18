@@ -4,7 +4,7 @@
 06:05:00 - 07:03:22 : Knallhart Durchgenommen #18 - The Legend of Zelda: Breath of the Wild
 07:00:00 - 08:17:29 : Let’s Play - Pizza Connection 2 mit Gunnar & Flo
 08:20:00 - 10:23:11 : Let’s Play - Krogmann und Micha zocken Gothic II
-10:30:00 - 11:16:00 : MoinMoin #699 - Die Morning-Show mit Andy - Live
+10:30:00 - 11:16:03 : MoinMoin #699 - Die Morning-Show mit Andy - Live
 11:15:00 - 12:58:28 : New Game Plus #63 - South Park, Elex und Evil Within 2
 12:55:00 - 16:03:21 : Beanstag #33 - Astroneer
 16:00:00 - 18:30:00 : Knallhart Durchgenommen #5 - Mittelerde: Schatten des Krieges - Live
@@ -12,5 +12,5 @@
 20:00:00 - 21:00:00 : Chat Duell #1 - Live
 21:00:00 - 21:05:00 : Weekly Wahnsinn # - Partyspiele mit den Bohnen - Premiere
 21:05:00 - 23:00:00 : Playerunknown's Battlegrounds - High Noon mit Huhn - Live
-23:00:00 - 23:46:00 : MoinMoin #699 - Die Morning-Show mit Andy
+23:00:00 - 23:46:03 : MoinMoin #699 - Die Morning-Show mit Andy
 23:45:00 - 01:59:00 : RANKED #38 - Team Limited: Counter Strike - Global Offensive
