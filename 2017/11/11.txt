@@ -1,8 +1,16 @@
-10:30:00 - 11:15:00 : MoinMoin #711 - Die Morning-Show mit Donnie
-11:15:00 - 12:00:00 : MoinMoin #712 - Die Morning-Show mit Flo und René
-12:00:00 - 12:45:00 : MoinMoin #713 - Die Morning-Show mit Andy
-12:45:00 - 13:30:00 : MoinMoin #714 - Die Morning-Show mit Etienne
-13:30:00 - 14:15:00 : MoinMoin #715 - Die Morning-Show mit
+00:00:00 - 00:45:00 : MoinMoin #715 - Die Morning-Show mit
+00:45:00 - 02:04:39 : Erwachsene Männer hören Jan Tenner #7
+02:05:00 - 03:14:35 : Erwachsene Männer hören Jan Tenner #8
+03:15:00 - 05:25:00 : Knallhart Durchgenommen #9 - Red Dead Edemption
+05:25:00 - 06:26:09 : Knallhart Durchgenommen #58 - The Legend of Zelda: Breath of the Wild
+06:25:00 - 07:27:52 : Knallhart Durchgenommen #59 - The Legend of Zelda: Breath of the Wild
+07:25:00 - 08:28:36 : Let’s Play - Sherlock Holmes: The Devil's Daughter mit Gunnar & Nasti
+08:30:00 - 10:38:17 : Let’s Play - Gothic II mit Micha, Micha & Trixi
+10:45:00 - 11:30:00 : MoinMoin #711 - Die Morning-Show mit Donnie
+11:30:00 - 12:15:00 : MoinMoin #712 - Die Morning-Show mit Flo und René
+12:15:00 - 13:00:00 : MoinMoin #713 - Die Morning-Show mit Andy
+13:00:00 - 13:45:00 : MoinMoin #714 - Die Morning-Show mit Etienne
+13:45:00 - 14:30:00 : MoinMoin #715 - Die Morning-Show mit
 14:45:00 - 16:45:00 : Kino+ #16 - Alles rund ums Kino
 16:45:00 - 17:45:00 : Wir müssen reden #45 - Mit Gunnar und Niko Backspin
 17:45:00 - 18:45:00 : Chat Duell #3 - Team Playnation vs. Team Bohnennation
