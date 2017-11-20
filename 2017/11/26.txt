@@ -1,7 +1,7 @@
 00:15:00 - 01:15:00 : Chat Duell #5 - Frodo, David Hain & Robert Hofmann vs. Etienne,
-02:15:00 - 04:00:00 : Knallhart Durchgenommen #2 - Star Wars Battlefront II
-04:00:00 - 06:45:00 : Knallhart Durchgenommen #3 - Star Wars Battlefront II
-06:45:00 - 09:30:00 : Knallhart Durchgenommen #6 - Guardians of the Galaxy: The Telltale Series Kapitel 4
+01:15:00 - 03:00:00 : Knallhart Durchgenommen #2 - Star Wars Battlefront II
+03:00:00 - 05:45:00 : Knallhart Durchgenommen #3 - Star Wars Battlefront II
+05:45:00 - 08:30:00 : Knallhart Durchgenommen #6 - Guardians of the Galaxy: The Telltale Series Kapitel 4
 09:30:00 - 11:30:00 : Beanstag #38 - Natural Selection II
 11:30:00 - 13:30:00 : Kino+ #18 - Alles rund ums Kino
 13:30:00 - 15:30:00 : Micha Bros. #2 - Elex
@@ -13,3 +13,4 @@
 19:30:00 - 20:00:00 : Game Two #48 - TBA
 20:00:00 - 21:00:00 : Speedrundale #6 - Noch geheim! - Premiere
 21:00:00 - 22:00:00 : 1 Runde mit - Lego Marvel Super Heroes 2 - Premiere
+22:00:00 - 03:45:00 : Knallhart Durchgenommen # - Outcast: Second Contact
