@@ -1,12 +1,12 @@
-00:15:00 - 01:17:39 : Chat Duell #5 - Frodo, David Hain & Robert Hofmann vs. Etienne, Schröck & Andy S.
-01:15:00 - 03:01:02 : Knallhart Durchgenommen #2 - Star Wars Battlefront II
-03:00:00 - 04:02:03 : Erwachsene Männer hören Jan Tenner #28
-05:45:00 - 06:49:43 : 1 Runde mit - Just Dance 2018
-06:45:00 - 09:48:43 : Knallhart Durchgenommen #6 - Guardians of the Galaxy: The Telltale Series Kapitel 4
-09:30:00 - 11:55:28 : Beanstag #38 - Natural Selection II
-11:30:00 - 13:39:39 : Kino+ #18 - Alles rund ums Kino
-13:30:00 - 15:30:00 : Micha Bros. #2 - Elex
-15:30:00 - 18:03:22 : Band of Beans #4 - Call of Duty: World War II
+00:00:00 - 01:02:39 : Chat Duell #5 - Frodo, David Hain & Robert Hofmann vs. Etienne, Schröck & Andy S.
+01:00:00 - 02:46:02 : Knallhart Durchgenommen #2 - Star Wars Battlefront II
+02:45:00 - 04:25:01 : New Game Plus #73 - Skyrim, Hidden Agenda und vieles mehr!
+04:25:00 - 05:43:51 : 1 Runde mit - Age of Empires II: Team Flonnie vs. Marco - Die Schlacht geht weiter!
+05:45:00 - 08:48:43 : Knallhart Durchgenommen #6 - Guardians of the Galaxy: The Telltale Series Kapitel 4
+08:50:00 - 11:15:28 : Beanstag #38 - Natural Selection II
+11:15:00 - 13:24:39 : Kino+ #18 - Alles rund ums Kino
+13:25:00 - 15:25:00 : Micha Bros. #2 - Elex
+15:25:00 - 17:58:22 : Band of Beans #4 - Call of Duty: World War II
 18:00:00 - 18:25:00 : DICED # - Premiere
 18:30:00 - 18:45:00 : Ninotaku Anime News # - Premiere
 18:45:00 - 18:56:46 : VR∙Nerds TV #46 - Vive Focus - Premiere
@@ -14,4 +14,5 @@
 19:30:00 - 20:00:00 : Game Two #48 - Star Wars, Switch-Special und vieles mehr!
 20:00:00 - 21:00:00 : Speedrundale #6 - Rosenkreuzstilette Freudenstachel - Premiere
 21:00:00 - 22:05:37 : 1 Runde mit - Lego Marvel Super Heroes 2 - Premiere
-22:00:00 - 03:45:00 : Knallhart Durchgenommen # - Outcast: Second Contact
+22:05:00 - 23:07:39 : Chat Duell #5 - Frodo, David Hain & Robert Hofmann vs. Etienne, Schröck & Andy S.
+23:05:00 - 00:05:00 : Wir müssen reden #46 - Wir müssen reden #46
