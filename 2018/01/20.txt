@@ -1,5 +1,4 @@
 00:00:00 - 00:45:00 : MoinMoin #759 - Die Morning-Show mit Florentin
-10:00:00 - 10:45:00 : MoinMoin #755 - Die Morning-Show mit Andy
 10:45:00 - 11:30:00 : MoinMoin #756 - Die Morning-Show mit Anja und Andreas
 11:30:00 - 12:15:00 : MoinMoin #757 - Die Morning-Show mit Donnie
 12:15:00 - 13:00:00 : MoinMoin #758 - Die Morning-Show mit Hannes
