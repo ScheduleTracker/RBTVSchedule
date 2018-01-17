@@ -7,7 +7,7 @@
 11:30:00 - 12:16:59 : MoinMoin #757 - Die Morning-Show mit Donnie
 12:15:00 - 13:00:00 : MoinMoin #758 - Die Morning-Show mit Hannes
 13:00:00 - 13:45:00 : MoinMoin #759 - Die Morning-Show mit Florentin
-14:00:00 - 14:25:00 : Let’s Play  - Blade Runner 9732
+14:00:00 - 14:25:26 : Let’s Play  - Blade Runner 9732
 15:00:00 - 16:04:25 : Bada Binge #25 - Alles rund um Serien
 16:00:00 - 18:00:00 : Kino+ # - Alles rund ums Kino | Gast: Moritz Bleibtreu
 18:00:00 - 19:00:00 : Verflixxte Klixx # - mit Lars und Florentin
@@ -16,4 +16,4 @@
 21:00:00 - 22:00:00 : c't uplink # - Premiere
 22:00:00 - 22:52:39 : Hoaxilla - Der skeptische Podcast #174 - Premiere
 22:50:00 - 00:00:50 : Neue Deutsche Abendunterhaltung #33 - Die letzte Show der Welt | Gäste: Ariana Baborie & Laura Larsson vom Herrengedeck Podcast
-23:50:00 - 00:55:48 : Chat Duell # - Jan Köppen, Simon Beeck & Daniel Boschmann gegen RBTV
+23:50:00 - 00:55:48 : Chat Duell #11 - Jan Köppen, Simon Beeck & Daniel Boschmann gegen RBTV
