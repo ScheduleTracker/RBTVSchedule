@@ -5,7 +5,7 @@
 06:30:00 - 08:14:13 : Knallhart Durchgenommen #2 - Unreal
 08:15:00 - 09:25:13 : Almost Daily #64 - YouTube
 09:25:00 - 10:28:30 : Spiele mit Bart #14 - Gabriel Knight 2
-10:30:00 - 11:15:00 : MoinMoin #760 - Die Morning-Show mit Andy
+10:30:00 - 11:20:00 : MoinMoin #760 - Die Morning-Show mit Andy
 11:15:00 - 12:00:00 : MoinMoin #761 - Die Morning-Show mit Krogi
 12:00:00 - 12:45:00 : MoinMoin #762 - Die Morning-Show mit Donnie
 12:45:00 - 13:30:00 : MoinMoin #763 - Die Morning-Show mit Etienne
@@ -13,7 +13,8 @@
 14:15:00 - 16:10:00 : Rob Boss #2 - mit Nils
 16:15:00 - 18:15:00 : Kino+ #64
 18:15:00 - 18:30:00 : Nerdy Timber # - Nerdy Holzarbeiten - Premiere
-19:00:00 - 20:00:00 : Almost Magic # - Premiere
+18:30:00 - 19:00:00 : Die Grillshow # - Premiere
+19:00:00 - 20:00:00 : Almost Magic # - Rivalen von Ixalan - Premiere
 20:00:00 - 21:00:00 : Almost Daily #326 - Supermärkte - Premiere
 21:00:00 - 23:00:00 : New European Championship Wrestling # - Wrestling! - Premiere
 23:00:00 - 00:00:00 : Neue Deutsche Abendunterhaltung #34 - Die letzte Show der Welt | Gast: Stefan Heine, Curse
