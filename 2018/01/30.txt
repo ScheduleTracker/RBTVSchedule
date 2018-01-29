@@ -1,11 +1,11 @@
-00:00:00 - 00:47:41 : MoinMoin #765 - Die Morning Show mit Andy
-00:45:00 - 02:15:38 : Wir müssen reden #9 - mit Gunnar & Ben & Krys | Thema: Social Media
-02:15:00 - 04:22:15 : Kino+ #68
-04:20:00 - 06:26:11 : Knallhart Durchgenommen #6 - Mittelerde: Schatten des Krieges
-06:25:00 - 07:11:20 : Let’s Play  - A Hat in Time
-07:15:00 - 08:15:17 : Knallhart Durchgenommen #1 - Cuphead
-08:15:00 - 09:11:19 : Almost Daily #62 - Lieblingsfilme 2013
-09:10:00 - 10:13:30 : Spiele mit Bart #14 - Gabriel Knight 2
+00:05:00 - 00:52:41 : MoinMoin #765 - Die Morning Show mit Andy
+00:55:00 - 02:25:38 : Wir müssen reden #9 - mit Gunnar & Ben & Krys | Thema: Social Media
+02:25:00 - 04:32:15 : Kino+ #68
+04:30:00 - 06:36:11 : Knallhart Durchgenommen #6 - Mittelerde: Schatten des Krieges
+06:40:00 - 07:26:20 : Let’s Play  - A Hat in Time
+07:25:00 - 08:25:17 : Knallhart Durchgenommen #1 - Cuphead
+08:25:00 - 09:21:19 : Almost Daily #62 - Lieblingsfilme 2013
+09:20:00 - 10:23:30 : Spiele mit Bart #14 - Gabriel Knight 2
 10:30:00 - 11:15:00 : MoinMoin #766 - Die Morning Show mit Schröck - Live
 11:15:00 - 11:27:05 : Die Grillshow #112 - Winterburger
 11:25:00 - 11:50:00 : Nerdy Timber #12 - Nerdy Holzarbeiten
@@ -16,4 +16,4 @@
 19:00:00 - 20:00:00 : Bada Binge #26 - Alles rund um Serien - Premiere
 20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #35 - Die letzte Show der Welt | Gast: Katja Elsässer und Charly Arzberger - Live
 21:00:00 - 23:00:00 : Beanstag # - Monster Hunter: World - Live
-23:00:00 - 00:00:00 : Let's Sleep #15 - Stardew Valley - Premiere
+23:00:00 - 00:05:00 : Let's Sleep #15 - Stardew Valley - Premiere
