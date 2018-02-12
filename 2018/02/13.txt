@@ -1,7 +1,7 @@
-00:05:00 - 00:20:17 : Pocket Beans #1 - DIE MOBILE GAMING SHOW #1 | Arena of Valor | Summoners War
-00:20:00 - 02:51:00 : MoinMoin #775 - Die Morning Show mit Simon
-02:50:00 - 04:20:54 : Wir müssen reden #21 - Zukunftsvisionen
-04:20:00 - 06:57:56 : Knallhart Durchgenommen #5 - Outcast: Second Contact
+00:05:00 - 02:36:00 : MoinMoin #775 - Die Morning Show mit Simon
+02:35:00 - 04:05:54 : Wir müssen reden #21 - Zukunftsvisionen
+04:05:00 - 06:42:56 : Knallhart Durchgenommen #5 - Outcast: Second Contact
+06:45:00 - 07:02:43 : Gadget Inspectors # - Handyhüllen im Extremtest mit Krogi und Nils
 07:05:00 - 07:58:38 : Mate Knights #2
 08:00:00 - 09:27:06 : Almost Daily #75 - Stadt Land Fluss #02
 09:30:00 - 10:31:54 : Spiele mit Bart #2 - Spiele mit Bart: OverBlood
@@ -16,5 +16,5 @@
 19:00:00 - 20:00:00 : Bada Binge #27 - Alles rund um Serien - Premiere
 20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #11 - Die letzte Show der Welt - Live
 21:00:00 - 23:00:00 : Beanstag #46 - Hunt: Showdown - Live
-23:00:00 - 23:45:00 : MoinMoin #776 - Die Morning Show mit Andy
-23:45:00 - 01:12:21 : Wir müssen reden #22 - Übergewicht
+23:00:00 - 23:15:17 : Pocket Beans #1 - DIE MOBILE GAMING SHOW #1 | Arena of Valor | Summoners War
+23:15:00 - 00:00:00 : MoinMoin #776 - Die Morning Show mit Andy
