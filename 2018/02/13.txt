@@ -4,11 +4,11 @@
 07:05:00 - 07:58:38 : Mate Knights #2
 08:00:00 - 09:27:06 : Almost Daily #75 - Stadt Land Fluss #02
 09:30:00 - 10:31:54 : Spiele mit Bart #2 - Spiele mit Bart: OverBlood
-10:30:00 - 11:15:00 : MoinMoin #776 - Die Morning Show mit Andy - Premiere
-11:15:00 - 11:27:30 : Die Grillshow #114
-11:25:00 - 12:57:31 : Bohndesliga #22 - Der Bundesliga Talk zum 22. Spieltag
-13:00:00 - 14:00:55 : Knallhart Durchgenommen #76 - The Legend of Zelda: Breath of the Wild
-14:30:00 - 15:54:41 : Beans Castle #2 - Der zweite Pilot!
+10:30:00 - 12:30:00 : MoinMoin #776 - Die Morning Show mit Andy - Premiere
+12:30:00 - 12:42:30 : Die Grillshow #114
+12:40:00 - 14:12:31 : Bohndesliga #22 - Der Bundesliga Talk zum 22. Spieltag
+14:15:00 - 15:15:55 : Knallhart Durchgenommen #76 - The Legend of Zelda: Breath of the Wild
+15:15:00 - 16:39:41 : Beans Castle #2 - Der zweite Pilot!
 15:55:00 - 17:01:03 : Nerd Quiz #3 - mit Simon, Ilyass & Timo W.
 17:00:00 - 18:00:00 : Almost Plaily #53 - Stadt, Land, Fluss - Premiere
 18:00:00 - 19:06:41 : Windelweich Angehüpft #7 - Celeste Teil 1 - Premiere
@@ -16,4 +16,4 @@
 20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #11 - Die letzte Show der Welt - Live
 21:00:00 - 23:00:00 : Beanstag #46 - Hunt: Showdown - Live
 23:00:00 - 23:15:17 : Pocket Beans #1 - DIE MOBILE GAMING SHOW #1 | Arena of Valor | Summoners War
-23:15:00 - 00:00:00 : MoinMoin #776 - Die Morning Show mit Andy
+23:15:00 - 01:15:00 : MoinMoin #776 - Die Morning Show mit Andy
