@@ -1,16 +1,16 @@
 00:20:00 - 01:08:03 : MoinMoin #779 - Die Morning Show mit Florentin
 01:05:00 - 02:06:00 : Wir müssen reden #25 - Live-Call-In mit Gunnar und Simon
-01:50:00 - 03:41:48 : Kino+ #81
-03:40:00 - 05:34:03 : Let’s Play  - Zocken mit Denzel
-05:35:00 - 06:03:30 : Windelweich Angehüpft #2 - Super Mario Land 2 DX
-06:05:00 - 06:53:22 : Mate Knights #5
-06:50:00 - 07:54:07 : Almost Daily #79 - Montagsmaler #05
-07:55:00 - 08:58:06 : Spiele mit Bart #6 - Spiele mit Bart: OverBlood
-09:00:00 - 11:07:37 : MoinMoin #776 - Die Morning Show mit Andy
-11:05:00 - 11:50:42 : MoinMoin #777 - Die Morning Show mit Donnie
-11:55:00 - 13:09:50 : MoinMoin #778 - Die Morning Show mit Etienne
-13:10:00 - 13:58:03 : MoinMoin #779 - Die Morning Show mit Florentin
-13:55:00 - 15:01:17 : Verflixxte Klixx #51 - mit Lars und Florentin
+02:05:00 - 03:56:48 : Kino+ #81
+03:55:00 - 05:49:03 : Let’s Play  - Zocken mit Denzel
+05:50:00 - 06:38:22 : Mate Knights #5
+06:40:00 - 07:44:07 : Almost Daily #79 - Montagsmaler #05
+07:45:00 - 08:48:06 : Spiele mit Bart #6 - Spiele mit Bart: OverBlood
+08:45:00 - 10:52:37 : MoinMoin #776 - Die Morning Show mit Andy
+10:55:00 - 11:40:42 : MoinMoin #777 - Die Morning Show mit Donnie
+11:40:00 - 12:54:50 : MoinMoin #778 - Die Morning Show mit Etienne
+12:55:00 - 13:43:03 : MoinMoin #779 - Die Morning Show mit Florentin
+13:40:00 - 14:46:17 : Verflixxte Klixx #51 - mit Lars und Florentin
+14:50:00 - 14:58:12 : Space Tales: Tales from Space
 14:55:00 - 15:02:15 : Space Tales: Tales from Space
 15:00:00 - 23:00:00 : RBTV G8-Gipfel: Der zweite Civ-VI-Mega-Event - Live
 23:00:00 - 00:06:22 : Neue Deutsche Abendunterhaltung #11 - Die letzte Show der Welt
