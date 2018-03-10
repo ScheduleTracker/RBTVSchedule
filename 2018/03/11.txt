@@ -1,14 +1,13 @@
 00:10:00 - 01:29:34 : Anruf von Anonym
-01:30:00 - 01:56:55 : Social Eating #15 - Social Eating mit Dennis
-01:55:00 - 03:57:38 : Let’s Play  - Andy zockt Iconoclasts
-04:00:00 - 06:18:00 : Hängi Hauptquartier - Secret of Mana
-06:15:00 - 09:02:28 : Hängi Hauptquartier - mit Gregor
-09:05:00 - 10:22:57 : Hängi Hauptquartier - mit Budi, Simon und Ian
-10:20:00 - 13:17:43 : Zocken mit Denzel #6 - RimWorld
-13:20:00 - 14:23:12 : Zocken mit Denzel # - Into the Breach
-14:20:00 - 15:22:03 : Retro Klub #40 - Deutsch-Japanisch
-15:30:00 - 18:10:57 : Rage of Empires #16 - Immer Ärger mit dem Empire
-17:30:00 - 18:41:00 : Verflixxte Klixx #53 - mit Lars und Florentin
+01:30:00 - 03:32:38 : Let’s Play  - Andy zockt Iconoclasts
+03:30:00 - 05:48:00 : Hängi Hauptquartier - Secret of Mana
+05:50:00 - 08:37:28 : Hängi Hauptquartier - mit Gregor
+08:35:00 - 09:52:57 : Hängi Hauptquartier - mit Budi, Simon und Ian
+09:55:00 - 12:52:43 : Zocken mit Denzel #6 - RimWorld
+12:50:00 - 13:53:12 : Zocken mit Denzel # - Into the Breach
+13:55:00 - 14:57:03 : Retro Klub #40 - Deutsch-Japanisch
+14:55:00 - 17:35:57 : Rage of Empires #16 - Immer Ärger mit dem Empire
+17:40:00 - 18:51:00 : Verflixxte Klixx #53 - mit Lars und Florentin
 18:30:00 - 18:39:24 : Ninotaku Anime News #148 - Die Zukunft des Animes - Premiere
 18:45:00 - 18:57:13 : Die Grillshow #117 - Miesmuscheln - Premiere
 19:10:00 - 19:20:10 : Behind the Beans  #18
