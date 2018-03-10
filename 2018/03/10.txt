@@ -1,13 +1,13 @@
-01:15:00 - 02:02:47 : MoinMoin #794 - Die Morning Show mit Florentin
-02:05:00 - 04:26:40 : Kino+ #98 - mit Schröckert, Etienne & Andi
-04:30:00 - 06:33:18 : Zocken mit Denzel # - Kingdom Come: Deliverance
-06:30:00 - 08:25:17 : Couch an Couch - Octodad
-08:25:00 - 09:11:16 : MoinMoin #790 - Die Morning Show mit Andy
-09:15:00 - 10:02:23 : MoinMoin #791 - Die Morning Show mit Lars
-10:00:00 - 10:56:06 : MoinMoin #792 - Die Morning Show mit Donnie
-10:55:00 - 11:44:59 : MoinMoin #793 - Die Morning Show mit der reboot-Crew
-11:45:00 - 12:32:47 : MoinMoin #794 - Die Morning Show mit Florentin
-12:35:00 - 17:20:00 : Pen & Paper - Morriton Manor Stories: The Funeral
+01:10:00 - 01:57:47 : MoinMoin #794 - Die Morning Show mit Florentin
+02:00:00 - 04:21:40 : Kino+ #98 - mit Schröckert, Etienne & Andi
+04:20:00 - 06:23:18 : Zocken mit Denzel # - Kingdom Come: Deliverance
+06:25:00 - 08:20:17 : Couch an Couch - Octodad
+08:20:00 - 09:06:16 : MoinMoin #790 - Die Morning Show mit Andy
+09:05:00 - 09:52:23 : MoinMoin #791 - Die Morning Show mit Lars
+09:50:00 - 10:46:06 : MoinMoin #792 - Die Morning Show mit Donnie
+10:50:00 - 11:39:59 : MoinMoin #793 - Die Morning Show mit der reboot-Crew
+11:40:00 - 12:27:47 : MoinMoin #794 - Die Morning Show mit Florentin
+12:25:00 - 17:06:19 : Pen & Paper - Morriton Manor Stories: The Funeral
 17:00:00 - 20:00:00 : Age of Empires 2: Community-Turnier - Live
 20:00:00 - 21:11:48 : Almost Daily #331 - Die Ampel ist grün - Premiere
 21:10:00 - 22:18:06 : c't uplink #199 - Das Computer-Magazin - Premiere
