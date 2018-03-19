@@ -1,9 +1,8 @@
-00:00:00 - 01:05:00 : MoinMoin #800 - Schwarzlichtgolf mit Krogi und Andy
-00:45:00 - 02:15:00 : Bohndesliga #27 - Der Bundesliga Talk zum 27. Spieltag
-02:15:00 - 03:54:19 : Knallhart Durchgenommen #21 - Demon's Souls
-03:45:00 - 04:40:39 : Nerd Quiz #7 - mit Trant, Fabian & Timo
-04:40:00 - 06:40:00 : Let’s Play 2 - Civilization VI mit Dennis & Nils
-06:40:00 - 07:42:00 : Mate Knights #1 - Das Spiel um die Freundschaft mit Lars und Andreas vs. Uke und Ingo
+00:15:00 - 01:20:00 : MoinMoin #800 - Schwarzlichtgolf mit Krogi und Andy
+01:20:00 - 02:50:00 : Bohndesliga #27 - Der Bundesliga Talk zum 27. Spieltag
+02:50:00 - 04:29:19 : Knallhart Durchgenommen #21 - Demon's Souls
+04:30:00 - 05:25:39 : Nerd Quiz #7 - mit Trant, Fabian & Timo
+05:25:00 - 07:25:00 : Let’s Play 2 - Civilization VI mit Dennis & Nils
 07:40:00 - 08:49:08 : Knallhart Durchgenommen #5 - Demon's Souls
 08:50:00 - 09:35:25 : Almost Daily #105 - Montagsmaler #07
 09:35:00 - 10:30:03 : Spiele mit Bart #18 - Gabriel Knight 2
@@ -17,4 +16,4 @@
 20:00:00 - 21:00:00 : Stein-Match - Live
 21:00:00 - 21:15:00 : Pocket Beans # - Premiere
 21:15:00 - 23:00:00 : Beanstag #48 - Fortnite: Battle Royale - Live
-23:00:00 - 00:00:00 : Let's Sleep #10 - Undertale - Premiere
+23:00:00 - 00:08:06 : Let's Sleep #10 - Undertale - Premiere
