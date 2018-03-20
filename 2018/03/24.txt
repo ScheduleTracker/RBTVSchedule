@@ -1,15 +1,16 @@
-01:45:00 - 02:45:00 : Verflixxte Klixx #55 - mit Lars und Florentin
-02:45:00 - 03:15:00 : Game Two #63 - Kirby und Co!
-03:15:00 - 05:45:00 : Knallhart Durchgenommen #1 - A Way Out
-05:45:00 - 07:22:31 : Knallhart Durchgenommen #7 - Demon's Souls
-07:20:00 - 08:22:10 : Retro Klub #42
-08:30:00 - 09:29:35 : Almost Daily #109 - Hobbies
-09:30:00 - 10:25:53 : Spiele mit Bart #22 - Gabriel Knight 2
-11:35:00 - 12:20:00 : MoinMoin #801 - Die Morning-Show mit Lars
-12:20:00 - 13:05:00 : MoinMoin #802 - Die Morning-Show mit Donnie, Nilz und Maria
-13:05:00 - 13:50:00 : MoinMoin #803 - Live vom OMR-Festival mit Etienne
-13:50:00 - 14:35:00 : MoinMoin #804 - Live vom OMR-Festival mit Florentin
-14:35:00 - 16:35:00 : Kino+ #10 - Alles rund ums Kino
+01:15:00 - 03:15:00 : Rage of Empires #18 - Schauen und Bauen
+03:15:00 - 04:15:00 : Verflixxte Klixx #55 - mit Lars und Florentin
+04:15:00 - 04:45:00 : Game Two #63 - Kirby und Co!
+04:45:00 - 07:15:00 : Knallhart Durchgenommen #1 - A Way Out
+07:15:00 - 08:52:31 : Knallhart Durchgenommen #7 - Demon's Souls
+09:05:00 - 10:07:10 : Retro Klub #42
+10:15:00 - 11:14:35 : Almost Daily #109 - Hobbies
+11:15:00 - 12:00:00 : MoinMoin #801 - Die Morning-Show mit Lars
+12:00:00 - 12:45:00 : MoinMoin #802 - Die Morning-Show mit Donnie, Nilz und Maria
+12:45:00 - 13:30:00 : MoinMoin #803 - Live vom OMR-Festival mit Etienne
+13:30:00 - 14:15:00 : MoinMoin #804 - Live vom OMR-Festival mit Florentin
+14:15:00 - 15:00:00 : MoinMoin #804 - Live vom OMR-Festival mit Florentin
+15:00:00 - 17:00:00 : Kino+ #10 - Alles rund ums Kino
 17:00:00 - 19:00:00 : Rob Boss # - mit Etienne
 19:00:00 - 19:15:00 : Die Grillshow # - Premiere
 19:15:00 - 20:05:00 : Orkenspalter TV # - Premiere
