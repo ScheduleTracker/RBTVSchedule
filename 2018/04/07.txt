@@ -1,17 +1,19 @@
-00:00:00 - 00:45:00 : MoinMoin #812 - Die Morning-Show mit Florentin
-00:45:00 - 02:45:00 : Rage of Empires #19 - Age Of Empires 2 mit Florentin, Donnie & Marco
-02:45:00 - 03:45:00 : Verflixxte Klixx #56 - mit Lars und Florentin
-03:45:00 - 05:56:59 : Kino+ #198 - Alles rund ums Kino mit Daniel und Etienne I Gast: Dominik Porschen
-05:55:00 - 07:05:18 : Knallhart Durchgenommen #26 - Demon's Souls
+00:10:00 - 00:55:00 : MoinMoin #812 - Die Morning-Show mit Florentin
+00:55:00 - 02:55:00 : Rage of Empires #19 - Age Of Empires 2 mit Florentin, Donnie & Marco
+02:55:00 - 03:55:00 : Verflixxte Klixx #56 - mit Lars und Florentin
+03:55:00 - 06:06:59 : Kino+ #198 - Alles rund ums Kino mit Daniel und Etienne I Gast: Dominik Porschen
+06:05:00 - 07:15:18 : Knallhart Durchgenommen #26 - Demon's Souls
 07:15:00 - 07:53:29 : Almost Daily #116 - Die Geister müssen verrückt sein!
-07:50:00 - 09:53:19 : Build Schön  - mit Steffen
-10:00:00 - 10:48:17 : MoinMoin #809 - Die MorningShow mit Lars
+07:55:00 - 09:58:19 : Build Schön  - mit Steffen
+09:55:00 - 10:43:17 : MoinMoin #809 - Die MorningShow mit Lars
 10:45:00 - 11:42:08 : MoinMoin #810 - Die Morning-Show mit Donnie
-11:30:00 - 12:22:42 : MoinMoin #811 - Die Morning-Show mit Etienne
-12:15:00 - 13:00:00 : MoinMoin #812 - Die Morning-Show mit Florentin
-13:00:00 - 14:49:09 : Beanstag #50 - Fortnite zu Fourt
-14:45:00 - 16:56:59 : Kino+ #198 - Alles rund ums Kino mit Daniel und Etienne I Gast: Dominik Porschen
+11:40:00 - 12:32:42 : MoinMoin #811 - Die Morning-Show mit Etienne
+12:35:00 - 13:20:00 : MoinMoin #812 - Die Morning-Show mit Florentin
+13:20:00 - 13:38:57 : Behind the Beans  #22
+13:40:00 - 14:54:19 : Knallhart Durchgenommen #25 - Demon's Souls
+14:55:00 - 17:06:59 : Kino+ #198 - Alles rund ums Kino mit Daniel und Etienne I Gast: Dominik Porschen
 17:00:00 - 18:00:00 : Verflixxte Klixx #56 - mit Lars und Florentin
 18:00:00 - 18:15:00 : Die Grillshow # - Premiere
 18:15:00 - 19:05:00 : Orkenspalter TV # - Premiere
 19:00:00 - 23:00:00 : Final Table - Pokern mit Bohnen und Gästen - Live
+23:00:00 - 00:06:25 : Show Shuffle - Verstecken
