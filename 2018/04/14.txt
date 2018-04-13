@@ -1,15 +1,16 @@
 00:05:00 - 01:01:02 : MoinMoin #816 - Die Morning-Show aus dem Baumarkt mit Eddy und Florentin | Teil 1
-03:00:00 - 04:00:00 : Verflixxte Klixx #57 - mit Lars und Florentin
-04:00:00 - 06:02:58 : Kino+ #199 - Alles rund ums Kino mit Daniel und Etienne
-06:00:00 - 07:00:22 : Let’s Play  - Hardware Engineers
-07:00:00 - 07:20:57 : Behind the Beans  #22
-07:25:00 - 07:38:34 : Behind the Beans  #23
-07:35:00 - 08:59:13 : Almost Daily #122 - Mit Tommy Krappweis und Norman Coester
-09:00:00 - 10:08:20 : Build Schön  - RollerCoaster Tycoon 3 mit Steffen
-10:05:00 - 11:13:18 : MoinMoin #813 - Die MorningShow mit Andy Live aus dem Überquell Hamburg
-11:15:00 - 12:08:10 : MoinMoin #814 - Die Morning-Show mit Lars
-12:05:00 - 12:58:40 : MoinMoin #815 - Die Morning-Show mit Krogi & Dennis
-13:00:00 - 13:56:02 : MoinMoin #816 - Die Morning-Show aus dem Baumarkt mit Eddy und Florentin | Teil 1
-13:55:00 - 15:01:28 : Bada Binge #30 - Alles rund um Serien
-15:05:00 - 17:35:00 : 9/11 - Animal Squad #13 - Sachen zum Lachen in LA
+01:00:00 - 03:15:31 : Game Fights 3
+03:15:00 - 04:15:00 : Verflixxte Klixx #57 - mit Lars und Florentin
+04:15:00 - 06:17:58 : Kino+ #199 - Alles rund ums Kino mit Daniel und Etienne
+06:20:00 - 07:20:22 : Let’s Play  - Hardware Engineers
+07:20:00 - 07:40:57 : Behind the Beans  #22
+07:40:00 - 07:53:34 : Behind the Beans  #23
+07:50:00 - 08:58:20 : Build Schön  - RollerCoaster Tycoon 3 mit Steffen
+09:00:00 - 10:24:13 : Almost Daily #122 - Mit Tommy Krappweis und Norman Coester
+10:25:00 - 11:33:18 : MoinMoin #813 - Die MorningShow mit Andy Live aus dem Überquell Hamburg
+11:35:00 - 12:31:00 : MoinMoin #814 - Die Morning-Show mit Lars
+12:30:00 - 13:23:40 : MoinMoin #815 - Die Morning-Show mit Krogi & Dennis
+13:25:00 - 14:21:02 : MoinMoin #816 - Die Morning-Show aus dem Baumarkt mit Eddy und Florentin | Teil 1
+14:20:00 - 15:26:28 : Bada Binge #30 - Alles rund um Serien
+15:25:00 - 17:55:00 : 9/11 - Animal Squad #13 - Sachen zum Lachen in LA
 18:00:00 - 08:00:00 : Jugendzimmer # - Die Nacht der Abenteuer - Live
