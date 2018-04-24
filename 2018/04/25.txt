@@ -1,7 +1,7 @@
-00:00:00 - 00:35:00 : Hängi Hauptquartier - Slay the Spire
-00:45:00 - 01:55:00 : Neue Deutsche Abendunterhaltung # - Die letzte Show der Welt
-01:45:00 - 03:47:32 : Zocken mit Denzel # - Frostpunk
-03:45:00 - 04:56:26 : Almost Plaily #62 - Tiefe Taschen
+00:20:00 - 00:55:00 : Hängi Hauptquartier - Slay the Spire
+00:55:00 - 02:05:00 : Neue Deutsche Abendunterhaltung # - Die letzte Show der Welt
+02:05:00 - 04:07:32 : Zocken mit Denzel # - Frostpunk
+04:10:00 - 05:21:26 : Almost Plaily #62 - Tiefe Taschen
 05:00:00 - 06:04:48 : Bada Binge #31 - Alles rund um Serien
 06:00:00 - 06:37:39 : Let’s Play  - Miyubi
 06:35:00 - 08:29:14 : Knallhart Durchgenommen #2 - Demon's Souls
@@ -13,7 +13,7 @@
 12:15:00 - 12:50:00 : Hängi Hauptquartier - Slay the Spire
 13:00:00 - 14:04:48 : Bada Binge #31 - Alles rund um Serien
 14:00:00 - 15:10:00 : Neue Deutsche Abendunterhaltung # - Die letzte Show der Welt
-15:00:00 - 17:00:00 : Beanstag #53 - Fortnite
+15:00:00 - 17:00:00 : Beanstag #53 - Halo Online
 17:00:00 - 19:00:00 : Hängi Hauptquartier - Quake-Training mit René - Live
 19:00:00 - 20:00:00 : Hängi Hauptquartier - Company of Heroes - Live
 20:00:00 - 21:00:00 : reboot #7 - Detroit, Ditto, Labo & Geiles! - Premiere
