@@ -1,10 +1,11 @@
 01:15:00 - 02:15:00 : reboot #7 - Detroit, Ditto, Labo & Geiles!
 02:15:00 - 04:06:00 : Beanstag #52 - Halo Online
-06:15:00 - 06:43:27 : Let’s Play  - VR-Action mit Ede! Teil 2
-06:45:00 - 07:15:35 : Let’s Play  - VR-Action mit Ede! Teil 1
-07:30:00 - 08:32:04 : Let’s Play  - VR-Action mit Lars, Florentin und Sofia
-08:30:00 - 09:22:32 : Almost Daily #134 - 90s
-09:25:00 - 10:23:07 : Mate Knights #3
+04:05:00 - 06:05:00 : Hängi Hauptquartier - Quake-Training mit René
+06:05:00 - 07:05:00 : Hängi Hauptquartier - Company of Heroes
+07:05:00 - 07:33:27 : Let’s Play  - VR-Action mit Ede! Teil 2
+07:35:00 - 08:37:04 : Let’s Play  - VR-Action mit Lars, Florentin und Sofia
+08:35:00 - 09:27:32 : Almost Daily #134 - 90s
+09:30:00 - 10:29:07 : Mate Knights #3
 10:30:00 - 11:15:00 : MoinMoin #826 - Die Morning Show mit Etienne - Live
 11:15:00 - 11:30:00 : Behind the Beans Schau hinter die Bohne # - Schau hinter die Bohne - Premiere
 11:30:00 - 13:15:00 : Let’s Play 2 - God of War
@@ -14,3 +15,5 @@
 17:00:00 - 19:00:00 : Let’s Play  - Quake-Duell mit Ede und René - Live
 19:00:00 - 20:00:00 : Retro Klub #44 - Fast Food in Videospielem - Premiere
 20:00:00 - 22:00:00 : Kino+ #201 - Alles rund ums Kino mit Daniel und Etienne - Premiere
+22:00:00 - 22:45:00 : MoinMoin #826 - Die Morning Show mit Etienne
+22:45:00 - 00:45:00 : Let’s Play  - Quake-Duell mit Ede und René
