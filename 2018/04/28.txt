@@ -1,8 +1,16 @@
-00:00:00 - 00:45:00 : MoinMoin #827 - Die Morning Show mit Florentin
-00:45:00 - 02:45:00 : Let’s Play  - Nintendo Labo
-02:45:00 - 04:45:00 : Rage of Empires #22 - Da könnt ihr drauf bauen
-04:45:00 - 05:45:00 : Verflixxte Klixx #59 - mit Lars und Florentin
-05:45:00 - 08:15:00 : 9/11 - Animal Squad #14 - New York, Old Problems
+01:45:00 - 03:45:00 : Rage of Empires #22 - Da könnt ihr drauf bauen
+03:45:00 - 04:45:00 : Verflixxte Klixx #59 - mit Lars und Florentin
+04:45:00 - 07:15:00 : 9/11 - Animal Squad #14 - New York, Old Problems
+07:15:00 - 09:15:00 : Let’s Play  - Quake-Duell mit Ede und René
+10:00:00 - 10:47:25 : MoinMoin #823 - Die Mornigshow mit Sofia
+10:45:00 - 11:35:39 : MoinMoin #824 - Die Mornigshow mit Andreas und René
+11:35:00 - 12:20:00 : MoinMoin #825 - Die Morning Show mit Donnie
+12:20:00 - 13:05:00 : MoinMoin #826 - Die Morning Show mit Etienne
+13:05:00 - 13:50:00 : MoinMoin #827 - Die Morning Show mit Florentin
+13:50:00 - 14:49:37 : Chat Duell #3 - gegen Cinema Strikes Back
+15:00:00 - 16:00:00 : Verflixxte Klixx #59 - mit Lars und Florentin
+16:00:00 - 18:00:00 : Kino+ #201 - Alles rund ums Kino mit Daniel und Etienne
 18:00:00 - 18:15:00 : Die Grillshow # - Premiere
 18:15:00 - 19:00:00 : Orkenspalter TV # - Premiere
 19:00:00 - 23:00:00 : Final Table - Live
+23:00:00 - 00:14:17 : Neue Deutsche Abendunterhaltung #40 - Die letzte Show der Welt
