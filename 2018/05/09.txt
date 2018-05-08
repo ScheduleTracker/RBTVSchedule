@@ -2,10 +2,12 @@
 01:00:00 - 02:02:34 : Bada Binge #32 - Alles rund um Serien mit Daniel und Nils
 02:05:00 - 03:12:37 : Neue Deutsche Abendunterhaltung #41 - Stand Up - Spezial
 03:10:00 - 04:10:22 : Let’s Play  - Hardware Engineers
-04:10:00 - 05:55:00 : Beanstag #53 - Darwin Project
-05:55:00 - 06:52:04 : Almost Daily #144 - Wer Bin Ich
-06:55:00 - 08:54:00 : Knallhart Durchgenommen #6 - Far Cry 5
-08:50:00 - 09:52:48 : Almost Daily #334 - Roller-Gang, Russen-Schläger und Einbrecher
+04:10:00 - 04:25:12 : Good Geek #5 - mit Etienne & Sofia
+04:25:00 - 06:10:00 : Beanstag #53 - Darwin Project
+06:10:00 - 07:07:04 : Almost Daily #144 - Wer Bin Ich
+07:10:00 - 09:09:00 : Knallhart Durchgenommen #6 - Far Cry 5
+09:05:00 - 10:07:48 : Almost Daily #334 - Roller-Gang, Russen-Schläger und Einbrecher
+10:10:00 - 10:25:56 : Die Grillshow #116 - Wildgulasch
 10:30:00 - 11:15:00 : MoinMoin #834 - Die Morning Show mit Alwin und der Blitz - Live
 12:45:00 - 13:47:34 : Bada Binge #32 - Alles rund um Serien mit Daniel und Nils
 13:45:00 - 14:52:37 : Neue Deutsche Abendunterhaltung #41 - Stand Up - Spezial
