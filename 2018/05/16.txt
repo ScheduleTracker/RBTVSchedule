@@ -1,6 +1,6 @@
 00:45:00 - 01:45:00 : Neue Deutsche Abendunterhaltung #41 - Die letzte Show der Welt | Gast: Einfach Inka
 01:45:00 - 03:45:00 : Beanstag #54 - State of Decay 2
-06:40:00 - 06:55:34 : Behind the Beans  #27
+07:25:00 - 07:40:34 : Behind the Beans  #27
 07:45:00 - 09:58:03 : Knallhart Durchgenommen #3 - Demon's Souls
 09:55:00 - 10:30:49 : Almost Daily #148 - Montagsmaler
 10:30:00 - 11:15:00 : MoinMoin #838 - Die Morning-Show mit Donnie - Live
@@ -12,3 +12,5 @@
 16:15:00 - 17:02:57 : Bumm bei BEANS #1 - Beim Auftakt zu Gast: Wiegald Bohning
 17:00:00 - 20:00:00 : Hängi Hauptquartier - Forgotten Anne - Live
 20:00:00 - 23:00:00 : 9/11 - Animal Squad #15 - Tierisches Vergnügen im Big Apple - Live
+23:00:00 - 23:45:00 : MoinMoin #838 - Die Morning-Show mit Donnie
+23:45:00 - 02:45:00 : Hängi Hauptquartier - Forgotten Anne
