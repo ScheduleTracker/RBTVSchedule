@@ -1,15 +1,15 @@
-01:10:00 - 01:57:19 : MoinMoin #840 - Die Morning-Show mit Gregor
-02:00:00 - 04:32:59 : Rage of Empires # - Coaching-Special
-04:30:00 - 06:37:00 : Let’s Play  - Quake-Duell mit Ede und René
-06:40:00 - 08:55:18 : Let’s Play 3 - Civilization VI mit Dennis und Nils
-08:55:00 - 11:08:06 : Let’s Play 5 - Civilization VI mit Dennis & Nils
-11:10:00 - 14:33:38 : 9/11 - Animal Squad #15 - Tierisches Vergnügen im Big Apple
-14:30:00 - 16:16:32 : Beanstag #54 - State of Decay 2
-16:20:00 - 18:31:04 : Kino+ #204 - Alles rund ums Kino mit Daniel und Etienne
+01:25:00 - 02:12:19 : MoinMoin #840 - Die Morning-Show mit Gregor
+02:15:00 - 04:47:59 : Rage of Empires # - Coaching-Special
+04:45:00 - 06:52:00 : Let’s Play  - Quake-Duell mit Ede und René
+06:55:00 - 09:10:18 : Let’s Play 3 - Civilization VI mit Dennis und Nils
+09:10:00 - 11:23:06 : Let’s Play 5 - Civilization VI mit Dennis & Nils
+11:25:00 - 14:48:38 : 9/11 - Animal Squad #15 - Tierisches Vergnügen im Big Apple
+14:45:00 - 16:31:32 : Beanstag #54 - State of Decay 2
+16:35:00 - 18:46:04 : Kino+ #204 - Alles rund ums Kino mit Daniel und Etienne
 18:30:00 - 18:45:14 : Nerdy Timber #16 - Premiere
 19:00:00 - 19:17:57 : Die Grillshow #127 - Peanutbutter Jelly Burger - Premiere
 19:15:00 - 20:03:52 : Orkenspalter TV #9 - Neues aus der Welt der Comics und Videospiele - Premiere
 20:00:00 - 21:21:21 : Almost Daily #338 - Fetischismus und Facebook mit Manuel Möglich - Premiere
-21:00:00 - 21:52:09 : c't uplink #205 - Beamer und TVs für die WM, Raspi als Internet-Filter und DSGVO für Dummies - Premiere
-22:00:00 - 22:42:36 : Hoaxilla - Der skeptische Podcast #164 - "Black Knight" Satellit - Premiere
-22:40:00 - 23:45:41 : Neue Deutsche Abendunterhaltung #42 - Die letzte Show der Welt | Gast: Einfach Inka
+21:20:00 - 22:12:09 : c't uplink #205 - Beamer und TVs für die WM, Raspi als Internet-Filter und DSGVO für Dummies - Premiere
+22:10:00 - 22:52:36 : Hoaxilla - Der skeptische Podcast #164 - "Black Knight" Satellit - Premiere
+22:55:00 - 00:00:41 : Neue Deutsche Abendunterhaltung #42 - Die letzte Show der Welt | Gast: Einfach Inka
