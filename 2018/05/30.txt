@@ -1,8 +1,8 @@
-00:30:00 - 00:46:26 : Pocket Beans #8 - Mobiler Spaß mit Budi und Viet
-00:45:00 - 01:33:40 : MoinMoin #846 - Die Morning Show mit Nasti und Tim
-01:30:00 - 04:34:15 : Zocken mit Denzel # - State of Decay 2
-04:30:00 - 06:26:00 : Let’s Play  - Yoku's Island Express
-06:25:00 - 07:25:00 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt I Hazel Brugger & Thomas Spitzer
+00:50:00 - 01:06:26 : Pocket Beans #8 - Mobiler Spaß mit Budi und Viet
+01:10:00 - 01:58:40 : MoinMoin #846 - Die Morning Show mit Nasti und Tim
+01:45:00 - 04:49:15 : Zocken mit Denzel # - State of Decay 2
+04:30:00 - 06:26:27 : Let’s Play  - Yoku's Island Express
+06:25:00 - 07:26:27 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt I Hazel Brugger & Thomas Spitzer
 07:25:00 - 09:30:15 : Knallhart Durchgenommen #9 - Demon's Souls
 09:30:00 - 10:35:30 : Almost Daily #157 - Themensalat #3
 10:30:00 - 11:15:00 : MoinMoin #847 - Die Morning Show mit Donnie - Live
@@ -11,7 +11,7 @@
 12:20:00 - 12:32:00 : Gadget Inspectors # - Gadgets: Ayo Brille, Naptime Brille, Vitastiq und Upright Go
 12:30:00 - 13:36:28 : Verflixxte Klixx #60 - Auf neuem Sendeplatz!
 13:45:00 - 14:49:23 : Almost Plaily #67 - Fiese Freunde Fette Feten mit Sofia, Flo, Fabian Kr. & Gäste Hunter & Cron
-15:00:00 - 16:00:00 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt I Hazel Brugger & Thomas Spitzer
+15:00:00 - 16:01:27 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt I Hazel Brugger & Thomas Spitzer
 16:00:00 - 18:00:00 : Knallhart Durchgenommen #2 - Detroit: Become Humon - Live
 18:00:00 - 20:00:00 : Zocken mit Denzel # - Dennis liebt Spiele und Spiele lieben ihn - Live
 20:00:00 - 21:00:00 : reboot #10 - The Crew 2, Detroit und Mario & Rabbids - Premiere
