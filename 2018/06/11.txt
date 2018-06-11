@@ -1,15 +1,14 @@
 00:00:00 - 01:30:00 : E3 2018 - Microsoft Die Pressekonferenz - Live
-01:30:00 - 03:00:00 : Hängi Hauptquartier - Unrevel Two - Live
+01:30:00 - 02:53:06 : Hängi Hauptquartier - Unrevel Two - Live
 03:00:00 - 03:30:00 : E3 2018 - Bethesda: Der Vorabtalk - Live
-03:30:00 - 05:30:00 : E3 2018 - Bethesda: Die Pressekonferenz - Live
+03:30:00 - 05:30:00 : E3 2018 - Bethesda: Die Pressekonferenz und Devolver - Live
 05:30:00 - 07:32:28 : Let’s Play  - Warcraft mit Florentin
 07:30:00 - 09:22:03 : Knallhart Durchgenommen #11 - Demon's Souls
 09:25:00 - 10:26:36 : Almost Daily #163 - Staubfänger
 10:30:00 - 12:00:00 : E3 2018 - Der Talk am Montagmorgen - Live
-12:00:00 - 12:30:00 : E3 2018 - Microsoft: Der Vorabtalk
-12:30:00 - 16:28:30 : E3 2018 - Microsoft: Die Pressekonferenz
+12:00:00 - 15:58:30 : E3 2018 - Microsoft: Die Pressekonferenz
 14:30:00 - 15:00:00 : E3 2018 - Bethesda: Der Vorabtalk
-15:00:00 - 17:00:00 : E3 2018 - Bethesda: Die Pressekonferenz
+15:00:00 - 17:00:00 : E3 2018 - Bethesda: Die Pressekonferenz und Devolver
 17:00:00 - 19:00:00 : WM-Studio - Der Auftakt - Live
 19:00:00 - 21:00:00 : E3 2018 - Square Enix: Die Pressekonferenz - Live
 21:00:00 - 22:00:00 : E3 2018 - So war Square und so wird Ubi - Live
