@@ -5,7 +5,7 @@
 07:05:00 - 08:09:03 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt | Gast: Phil Häusser
 08:10:00 - 09:15:00 : Verflixxte Klixx #62 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
 09:30:00 - 10:25:45 : Almost Daily #165 - Mein Früheres Ich
-10:30:00 - 12:20:00 : E3 2018 - Der Talk am Dienstagmorgen - Live
+10:30:00 - 12:18:34 : E3 2018 - Der Talk am Dienstagmorgen - Live
 12:35:00 - 14:20:32 : E3 2018 - Die PC-Pressekonferenz
 14:20:00 - 15:13:39 : E3 2018 - Das war die PC-Show und so wird Sony
 15:15:00 - 17:30:06 : E3 2018 - Sony: Die Pressekonferenz
@@ -14,4 +14,4 @@
 20:00:00 - 21:00:00 : E3 2018 - Der Messedienstag - Live
 21:00:00 - 22:00:00 : Chat Duell # - E3-Spezial - Live
 23:00:00 - 23:17:23 : Pocket Beans #9
-23:15:00 - 01:05:00 : E3 2018 - Der Talk am Dienstagmorgen
+23:15:00 - 01:03:34 : E3 2018 - Der Talk am Dienstagmorgen
