@@ -13,5 +13,5 @@
 18:00:00 - 20:00:00 : E3 2018 - Nintendo: Die Pressekonferenz - Live
 20:00:00 - 21:00:00 : E3 2018 - Der Messedienstag - Live
 21:00:00 - 22:00:00 : Chat Duell # - E3-Spezial - Live
-23:00:00 - 23:17:23 : Pocket Beans #9
-23:15:00 - 01:03:34 : E3 2018 - Der Talk am Dienstagmorgen
+22:00:00 - 22:17:23 : Pocket Beans #9
+22:15:00 - 00:03:34 : E3 2018 - Der Talk am Dienstagmorgen

@@ -1,15 +1,15 @@
-00:45:00 - 01:45:00 : E3 2018 - Der Messedienstag
-01:45:00 - 02:45:00 : Chat Duell # - E3-Spezial
-02:45:00 - 05:43:06 : Almost Plaily #68 - Scotland Yard mit den BENS
-05:40:00 - 07:15:16 : Almost Plaily #69 - Montagsmaler
-07:20:00 - 09:21:54 : Knallhart Durchgenommen #17 - Demon's Souls
-09:20:00 - 10:23:08 : Almost Daily #166 - Passwort
+00:05:00 - 01:05:00 : E3 2018 - Der Messedienstag
+01:05:00 - 02:05:00 : Chat Duell # - E3-Spezial
+02:05:00 - 05:03:06 : Almost Plaily #68 - Scotland Yard mit den BENS
+05:05:00 - 06:40:16 : Almost Plaily #69 - Montagsmaler
+06:40:00 - 08:41:54 : Knallhart Durchgenommen #17 - Demon's Souls
+08:40:00 - 09:43:08 : Almost Daily #166 - Passwort
 10:30:00 - 12:00:00 : E3 2018 - Der Talk am Mittwochmorgen - Live
 12:15:00 - 12:45:00 : E3 2018 - Nintendo: Der Vorabtalk
 12:45:00 - 14:45:00 : E3 2018 - Nintendo: Die Pressekonferenz
 14:45:00 - 15:45:00 : E3 2018 - Der Messedienstag
 15:45:00 - 16:45:00 : Chat Duell # - E3-Spezial
-17:00:00 - 19:00:00 : Hängi Hauptquartier - Hitman: Sniper Assassin - Live
+17:00:00 - 19:00:00 : Hängi Hauptquartier - Dauntless und Hitman: Sniper Assassin - Live
 19:00:00 - 21:00:00 : E3 2018 - Der Messemittwoch - Live
 21:00:00 - 23:00:00 : Game Fights 5 - E3-Spezial - Live
 23:00:00 - 00:30:00 : E3 2018 - Der Talk am Mittwochmorgen
