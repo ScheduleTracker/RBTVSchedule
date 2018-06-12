@@ -1,6 +1,6 @@
 00:00:00 - 01:45:32 : E3 2018 - Die PC-Pressekonferenz - Live
 02:00:00 - 02:53:39 : E3 2018 - Das war die PC-Show und so wird Sony - Live
-03:00:00 - 05:00:00 : E3 2018 - Sony: Die Pressekonferenz - Live
+03:00:00 - 05:15:06 : E3 2018 - Sony: Die Pressekonferenz - Live
 05:00:00 - 07:08:54 : E3 2018 - Der Talk am Montagmorgen
 07:05:00 - 08:09:03 : Neue Deutsche Abendunterhaltung #44 - Die letzte Show der Welt | Gast: Phil Häusser
 08:10:00 - 09:15:00 : Verflixxte Klixx #62 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
@@ -8,7 +8,7 @@
 10:30:00 - 12:00:00 : E3 2018 - Der Talk am Dienstagmorgen - Live
 12:00:00 - 13:45:32 : E3 2018 - Die PC-Pressekonferenz
 13:45:00 - 14:38:39 : E3 2018 - Das war die PC-Show und so wird Sony
-15:15:00 - 17:15:00 : E3 2018 - Sony: Die Pressekonferenz
+15:15:00 - 17:30:06 : E3 2018 - Sony: Die Pressekonferenz
 17:30:00 - 18:00:00 : E3 2018 - Nintendo: Der Vorabtalk - Live
 18:00:00 - 20:00:00 : E3 2018 - Nintendo: Die Pressekonferenz - Live
 20:00:00 - 21:00:00 : E3 2018 - Der Messedienstag - Live
