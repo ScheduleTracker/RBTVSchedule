@@ -12,7 +12,7 @@
 14:00:00 - 16:00:00 : Kino+ #208 - Alles rund ums Kino mit Daniel und Etienne
 16:00:00 - 18:00:00 : Rage of Empires #28 - Im Perium geht's rund - Live
 18:00:00 - 19:00:00 : WM-Studio - Live
-19:00:00 - 20:30:00 : Let’s Play  - Mario Tennis: Spiel, Satz und Krieg - Live
-20:30:00 - 23:00:00 : Film Fights  - Live
-23:00:00 - 23:45:00 : MoinMoin #860 - Die Morning-Show mit Florentin
-23:45:00 - 01:45:00 : Rage of Empires #28 - Im Perium geht's rund
+19:00:00 - 20:00:00 : Let’s Play  - Mario Tennis: Spiel, Satz und Krieg - Live
+20:00:00 - 22:30:00 : Film Fights  - Live
+22:30:00 - 23:15:00 : MoinMoin #860 - Die Morning-Show mit Florentin
+23:15:00 - 01:15:00 : Rage of Empires #28 - Im Perium geht's rund
