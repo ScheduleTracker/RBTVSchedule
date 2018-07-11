@@ -3,7 +3,7 @@
 06:15:00 - 08:45:00 : Im Namen des Chats | Rollenspiel-Court-Show mit Florentin Will
 09:00:00 - 09:47:03 : MoinMoin #871 - Die Morning-Show mit Simon
 09:45:00 - 10:33:09 : MoinMoin #872 - Die Morning-Show mit Hannes
-10:30:00 - 12:00:00 : MoinMoin #873 - Die Morning-Show mit Colin
+10:30:00 - 12:15:00 : MoinMoin #873 - Die Morning-Show mit Colin
 11:15:00 - 12:00:00 : MoinMoin #874 - Die Morning-Show mit Etienne
 12:00:00 - 12:45:00 : MoinMoin #875 - Die Morning-Show mit Florentin
 12:45:00 - 14:45:00 : Let’s Play  - Warcraft mit Warrentin
@@ -16,4 +16,4 @@
 20:00:00 - 21:00:00 : Almost Daily # - Der Talk am Goldenen Tisch - Premiere
 21:00:00 - 22:00:00 : c't uplink #211 - Premiere
 22:00:00 - 22:45:00 : Hoaxilla - Der skeptische Podcast #170 - Premiere
-22:45:00 - 03:45:00 : Knallhart Durchgenommen #12 - Dark Souls Remastered
+22:45:00 - 03:30:00 : Knallhart Durchgenommen #12 - Dark Souls Remastered
