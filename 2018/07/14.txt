@@ -1,10 +1,9 @@
-03:45:00 - 04:45:00 : WM-Studio - König Fußball ist im Haus
-04:45:00 - 06:15:00 : Let’s Play  - LEGO Die Unglaublichen
-06:15:00 - 08:45:00 : Im Namen des Chats | Rollenspiel-Court-Show mit Florentin Will
-09:00:00 - 09:47:03 : MoinMoin #871 - Die Morning-Show mit Simon
-09:45:00 - 10:33:09 : MoinMoin #872 - Die Morning-Show mit Hannes
-10:30:00 - 12:16:42 : MoinMoin #873 - Die Morning-Show mit Colin
-11:15:00 - 12:21:15 : MoinMoin #874 - Die Morning-Show mit Etienne und Nils
+03:45:00 - 05:15:00 : Let’s Play  - LEGO Die Unglaublichen
+05:15:00 - 07:45:00 : Im Namen des Chats | Rollenspiel-Court-Show mit Florentin Will
+07:45:00 - 08:32:03 : MoinMoin #871 - Die Morning-Show mit Simon
+08:30:00 - 09:18:09 : MoinMoin #872 - Die Morning-Show mit Hannes
+09:20:00 - 11:06:42 : MoinMoin #873 - Die Morning-Show mit Colin
+11:05:00 - 12:11:15 : MoinMoin #874 - Die Morning-Show mit Etienne und Nils
 12:00:00 - 12:45:00 : MoinMoin #875 - Die Morning-Show mit Florentin
 12:45:00 - 14:45:00 : Let’s Play  - Warcraft mit Warrentin
 14:45:00 - 16:53:00 : Kino+ #211 - Alles rund ums Kino mit Daniel und Dominik Porschen | Gäste Robert Hofmann & David Hain
