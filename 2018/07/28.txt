@@ -6,8 +6,8 @@
 11:15:00 - 12:06:05 : MoinMoin #881 - Die Morning-Show mit Mark und Andreas
 12:10:00 - 12:57:04 : MoinMoin #882 - Die Morning-Show mit Simon
 12:55:00 - 13:47:38 : MoinMoin #883 - Die Morning-Show mit Donnie
-13:50:00 - 14:35:00 : MoinMoin #884 - Die Morning-Show mit Gunnar und Andy
-14:35:00 - 15:20:00 : MoinMoin #884 - Die Morning-Show mit Gunnar und Andy
+13:50:00 - 14:50:00 : MoinMoin #884 - Die Morning-Show mit Gunnar und Andy
+14:35:00 - 15:35:00 : MoinMoin #884 - Die Morning-Show mit Gunnar und Andy
 15:20:00 - 16:01:58 : Buch Klub #24 - mit Tommy Krappweis | Sportlerkind
 16:00:00 - 16:59:42 : Almost Plaily #73 - Coup
 17:00:00 - 19:00:00 : Rage of Empires #33 - In Westen was Neues
