@@ -1,15 +1,15 @@
-00:00:00 - 02:00:00 : Zugzwang - Etienne spielt Schach gegen den Chat
-01:00:00 - 03:02:14 : Let’s Play  - Far Cry 5: Lost on Mars
-02:00:00 - 03:06:19 : Let’s Play 3 - The Crew 2
-02:00:00 - 03:01:22 : Let’s Play 4 - The Crew 2
-03:00:00 - 04:55:17 : Couch an Couch - Octodad
-04:55:00 - 05:59:29 : Nachspiel #6 - Detroit: Die Nachbesprechung
-06:00:00 - 07:59:04 : Speedrundale # - Training mit Sia und Simon
-07:55:00 - 08:56:28 : Hängi Hauptquartier - Dennis und Krani spielen gegen euch Schach
-09:00:00 - 12:04:27 : Zocken mit Denzel #1 - Lands of Lore: The Throne of Chaos
-12:05:00 - 13:07:42 : Windelweich Angehüpft # - Crash Bandicoot erreicht neue Ufer
-13:05:00 - 16:23:52 : Rülps - Das Kneipenquiz #4 - 30 Fragen - 30 Antworten
-16:25:00 - 18:38:06 : Kino+ #213 - Alles rund ums Kino mit Daniel und Etienne
+00:05:00 - 01:11:19 : Let’s Play 3 - The Crew 2
+01:10:00 - 02:11:22 : Let’s Play 4 - The Crew 2
+02:15:00 - 04:15:00 : Zugzwang - Etienne spielt Schach gegen den Chat
+04:15:00 - 04:24:35 : Behind the Beans Timo holt die Antworten #37 - Timo holt die Antworten
+04:20:00 - 04:36:09 : Behind the Beans Timo holt die Antworten #36 - Timo holt die Antworten
+04:40:00 - 05:44:29 : Nachspiel #6 - Detroit: Die Nachbesprechung
+05:45:00 - 07:44:04 : Speedrundale # - Training mit Sia und Simon
+07:40:00 - 08:41:28 : Hängi Hauptquartier - Dennis und Krani spielen gegen euch Schach
+08:45:00 - 11:49:27 : Zocken mit Denzel #1 - Lands of Lore: The Throne of Chaos
+11:50:00 - 12:52:42 : Windelweich Angehüpft # - Crash Bandicoot erreicht neue Ufer
+12:50:00 - 16:08:52 : Rülps - Das Kneipenquiz #4 - 30 Fragen - 30 Antworten
+16:10:00 - 18:23:06 : Kino+ #213 - Alles rund ums Kino mit Daniel und Etienne
 18:30:00 - 18:45:00 : Ninotaku Anime News # - Premiere
 18:45:00 - 19:00:00 : VR∙Nerds TV # - Premiere
 19:00:00 - 20:04:09 : Retro Klub #55 - Mega Man X Legacy Collection mit Sia - Premiere
