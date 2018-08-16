@@ -29,5 +29,6 @@
 20:30:00 - 21:15:00 : MoinMoin #902 - gamescom - Auftakt mit Simon
 21:30:00 - 22:00:00 : Starlink aus Halle 7
 22:00:00 - 22:30:00 : Mount & Blade II: Bannerlord von der Budi-Bühne
+22:30:00 - 23:00:00 : Dying Light 2 von der Budi-Bühne
 23:00:00 - 23:30:00 : Night Call aus Halle 7
 23:30:00 - 00:00:00 : Tropico 6 von der Budi-Bühne
