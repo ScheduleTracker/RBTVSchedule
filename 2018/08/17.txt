@@ -3,7 +3,7 @@
 03:20:00 - 05:50:09 : Hängi Hauptquartier - mit Florentin
 05:50:00 - 08:19:00 : Knallhart Durchgenommen #1 - The Legend of Zelda: Breath of the Wild
 08:20:00 - 10:25:47 : Press Select #10
-10:30:00 - 11:15:00 : MoinMoin #900 - Die Morning-Show mit Florentin - Live
+10:30:00 - 11:16:39 : MoinMoin #900 - Die Morning-Show mit Florentin - Live
 11:15:00 - 12:15:00 : Hängi Hauptquartier - mit Budi - Live
 12:15:00 - 15:06:25 : ShowShuffle - Tischtennis mit Budi, Nils, Etienne und Timo
 16:00:00 - 18:00:00 : Hängi Hauptquartier - Mit Nils und Dennis - Live
@@ -12,5 +12,5 @@
 20:05:00 - 20:35:00 : Game Two #79 - We Happy Few und viele mehr - Premiere
 20:35:00 - 22:00:00 : Game Talk # - Die gamescom-Vorschau - Live
 22:00:00 - 22:10:00 : RBTV On Tour - Ilyass auf der Quakecon - Premiere
-22:05:00 - 22:50:00 : MoinMoin #900 - Die Morning-Show mit Florentin
+22:05:00 - 22:51:39 : MoinMoin #900 - Die Morning-Show mit Florentin
 22:50:00 - 00:50:00 : Hängi Hauptquartier - Mit Nils und Dennis
