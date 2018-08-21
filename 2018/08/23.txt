@@ -9,7 +9,8 @@
 04:30:00 - 05:00:00 : Anno 1800 von der Budi-Bühne
 05:00:00 - 06:00:00 : Recap am Mittwoch aus Halle 7
 06:00:00 - 06:30:00 : Gamescom TV - Folge 2
-10:30:00 - 11:15:00 : MoinMoin #903 - gamescom - Live
+10:30:00 - 11:10:00 : MoinMoin #903 - gamescom - Live
+11:10:00 - 11:30:00 : The Division 2 von der Budi-Bühne - Premiere
 11:30:00 - 12:00:00 : Google Play Mobile Gaming Grounds # - Der Donnerstagsauftakt - Live
 12:00:00 - 12:30:00 : One Piece: World Seeker auf der Budi-Bühne - Live
 12:30:00 - 13:00:00 : Neues von Com2uS auf der Budi-Bühne - Live
@@ -26,7 +27,7 @@
 18:30:00 - 19:00:00 : Google Play Mobile Gaming Grounds # - Das Donnerstagsfinale - Live
 19:00:00 - 20:00:00 : Recap am Donnerstag aus Halle 7 - Live
 20:00:00 - 20:30:00 : Gamescom TV - Folge 3 - Premiere
-20:30:00 - 21:15:00 : MoinMoin #903 - gamescom
+20:30:00 - 21:10:00 : MoinMoin #903 - gamescom
 21:30:00 - 22:00:00 : Google Play Mobile Gaming Grounds # - Der Donnerstagsauftakt
 22:00:00 - 22:30:00 : Google Play Mobile Gaming Grounds # - Das Donnerstagsfinale
 22:30:00 - 23:00:00 : One Piece: World Seeker auf der Budi-Bühne
