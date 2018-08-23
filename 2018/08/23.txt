@@ -25,7 +25,7 @@
 11:30:00 - 11:56:07 : Google Play Mobile Gaming Grounds # - Mobile Gaming Grounds - Bomber Friends, Hungry Shark evolution, Dragonball Legends - Live
 12:00:00 - 12:30:00 : One Piece: World Seeker auf der Budi-Bühne - Live
 12:30:00 - 13:00:00 : Neues von Com2uS auf der Budi-Bühne - Live
-13:00:00 - 13:30:00 : Call of Cthulhu aus Halle 7 - Live
+13:00:00 - 13:36:20 : Call of Cthulhu aus Halle 7 - Live
 13:30:00 - 14:00:00 : Total War: Three Kingdoms aus Halle 7 - Live
 14:00:00 - 14:30:00 : Talk mit Telltales Brodie Andersen - Live
 14:30:00 - 15:00:00 : Talk mit unseren Freunden von der Indie Arena Booth - Live
@@ -43,4 +43,4 @@
 22:00:00 - 22:30:00 : Google Play Mobile Gaming Grounds # - Das Donnerstagsfinale
 22:30:00 - 23:00:00 : One Piece: World Seeker auf der Budi-Bühne
 23:00:00 - 23:30:00 : Neues von Com2uS auf der Budi-Bühne
-23:30:00 - 00:00:00 : Call of Cthulhu aus Halle 7
+23:30:00 - 00:06:20 : Call of Cthulhu aus Halle 7
