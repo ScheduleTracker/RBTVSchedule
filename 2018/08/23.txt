@@ -24,14 +24,14 @@
 11:10:00 - 11:31:58 : The Division 2 von der Budi-Bühne - Premiere
 11:30:00 - 11:56:07 : Google Play Mobile Gaming Grounds # - Mobile Gaming Grounds - Bomber Friends, Hungry Shark evolution, Dragonball Legends - Live
 12:00:00 - 12:28:03 : One Piece World Seeker - Interview mit Florian Eichenauer (Product Manager) - Live
-12:30:00 - 13:00:00 : Neues von Com2uS auf der Budi-Bühne - Live
+12:30:00 - 12:52:54 : Neues von Com2uS auf der Budi-Bühne - Live
 13:00:00 - 13:36:20 : Call of Cthulhu aus Halle 7 - Live
-13:30:00 - 14:01:00 : Total War: Three Kingdoms aus Halle 7 - Live
+13:30:00 - 13:54:44 : Total War: Three Kingdoms - Interview - Live
 14:00:00 - 14:30:00 : Talk mit Telltales Brodie Andersen - Live
 14:30:00 - 15:00:00 : Talk mit unseren Freunden von der Indie Arena Booth - Live
 15:00:00 - 15:45:00 : Adobe Live @ gamescom 18 - Live
 16:00:00 - 16:30:00 : Metro Exodus aus Halle 7 - Live
-16:30:00 - 17:01:00 : Shadow of the Tomb Raider - Interview mit Daniel Bisson (Game Director) - Premiere
+16:30:00 - 16:58:00 : Shadow of the Tomb Raider - Interview mit Daniel Bisson (Game Director) - Premiere
 17:00:00 - 17:30:00 : Talk mit Lee Jacobson von Robot Cache - Live
 17:30:00 - 18:00:00 : Talk mit Bethesdas Pete Hines - Live
 18:00:00 - 18:30:00 : Cornylethics: Spaß beim Headis - Live
@@ -42,5 +42,5 @@
 21:30:00 - 21:56:07 : Google Play Mobile Gaming Grounds # - Mobile Gaming Grounds - Bomber Friends, Hungry Shark evolution, Dragonball Legends
 22:00:00 - 22:30:00 : Google Play Mobile Gaming Grounds # - Das Donnerstagsfinale
 22:30:00 - 22:58:03 : One Piece World Seeker - Interview mit Florian Eichenauer (Product Manager)
-23:00:00 - 23:30:00 : Neues von Com2uS auf der Budi-Bühne
+23:00:00 - 23:22:54 : Neues von Com2uS auf der Budi-Bühne
 23:30:00 - 00:06:20 : Call of Cthulhu aus Halle 7
