@@ -14,7 +14,7 @@
 10:00:00 - 10:30:00 : Gamescom TV - Folge 4
 10:30:00 - 11:15:00 : MoinMoin #905 - MIAU! Das große Kater-Spezial - Live
 11:30:00 - 12:00:00 : Google Play Mobile Gaming Grounds # - Der Samstagsauftakt - Live
-12:00:00 - 12:30:00 : Talk mit Bethesdas Tim Willits - Premiere
+12:00:00 - 12:24:59 : Talk mit Bethesdas Tim Willits - Premiere
 12:30:00 - 13:00:00 : Quiz-Action von der Messe! - Live
 13:00:00 - 14:00:00 : PUBG live! - Live
 14:00:00 - 14:30:00 : Live aus dem Retro-Bereich in Halle 10 - Live
@@ -29,6 +29,6 @@
 20:30:00 - 21:15:00 : MoinMoin #905 - MIAU! Das große Kater-Spezial
 21:30:00 - 22:00:00 : Google Play Mobile Gaming Grounds # - Der Samstagsauftakt
 22:00:00 - 22:30:00 : Google Play Mobile Gaming Grounds # - Das Samstagsfinale
-22:30:00 - 23:00:00 : Talk mit Bethesdas Tim Willits
+22:30:00 - 22:54:59 : Talk mit Bethesdas Tim Willits
 23:00:00 - 23:30:00 : Quiz-Action von der Messe!
 23:30:00 - 00:30:00 : PUBG live!
