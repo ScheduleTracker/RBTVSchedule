@@ -1,8 +1,7 @@
-03:45:00 - 04:45:00 : Verflixxte Klixx #72 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
-04:45:00 - 06:45:00 : Kino+ #219 - Alles rund ums Kino mit Daniel und Etienne
-06:45:00 - 07:45:00 : Hängi Hauptquartier - mit Donnie
-07:45:00 - 08:44:05 : Knallhart Durchgenommen #13 - The Legend of Zelda: Breath of the Wild
-08:45:00 - 09:41:02 : Knallhart Durchgenommen #14 - The Legend of Zelda: Breath of the Wild
+01:30:00 - 05:30:00 : Knallhart Durchgenommen #1 - Spider-Man
+05:30:00 - 06:30:00 : Verflixxte Klixx #72 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
+06:30:00 - 08:30:00 : Kino+ #219 - Alles rund ums Kino mit Daniel und Etienne
+08:30:00 - 09:30:00 : Hängi Hauptquartier - mit Donnie
 09:40:00 - 10:25:54 : Tilt #2 - mit Colin und Ian
 10:30:00 - 11:15:00 : MoinMoin #915 - Die Morning-Show mit Florentin - Live
 12:00:00 - 14:00:00 : Kino+ #219 - Alles rund ums Kino mit Daniel und Etienne
@@ -11,5 +10,5 @@
 19:00:00 - 19:45:00 : Royal Beef #2 - Nerven liegen BLANK! - Premiere
 20:00:00 - 20:30:00 : Game Two #82 - Dragon Quest, Monster Hunter und mehr - Premiere
 20:30:00 - 22:00:00 : Die Anrufbeantworter - Live
-22:30:00 - 23:15:00 : MoinMoin #915 - Die Morning-Show mit Florentin
-23:15:00 - 02:15:00 : Knallhart Durchgenommen #2 - Spider-Man
+22:00:00 - 22:45:00 : MoinMoin #914 - Die Morning-Show mit Etienne und Florentin draußen
+22:45:00 - 01:45:00 : Knallhart Durchgenommen #2 - Spider-Man
