@@ -1,4 +1,4 @@
-04:00:00 - 07:00:00 : Zweilight Zone # - Transference
+05:00:00 - 08:00:00 : Zweilight Zone # - Transference
 08:00:00 - 09:00:00 : Almost Plaily #79
 09:00:00 - 10:01:34 : Knallhart Durchgenommen #20 - The Legend of Zelda: Breath of the Wild
 10:00:00 - 10:35:14 : Tilt # - Tilt Spezial: Viertelfinale des RBTV Flipperturniers #1 | UNCUT | 10.01.2016
@@ -10,4 +10,5 @@
 17:00:00 - 20:00:00 : Knallhart Durchgenommen #5 - Shadow of the Tomb Raider - Live
 20:00:00 - 21:30:00 : ShowShuffle - - Live
 21:30:00 - 23:00:00 : Hängi Hauptquartier - Action-Andreas und Cpt. Krogmann: Weg mit dem Zeugenschutzprogramm - Live
-23:15:00 - 00:15:00 : Hängi Hauptquartier - Verlesen
+23:00:00 - 23:45:00 : MoinMoin #923 - Die Morning-Show mit Donnie
+23:45:00 - 00:45:00 : Hängi Hauptquartier - Verlesen
