@@ -1,7 +1,7 @@
 01:10:00 - 01:50:04 : MoinMoin #924 - Reiten lernen und Pferde zähmen
 01:50:00 - 08:47:58 : Knallhart Durchgenommen #17 - Dark Souls Remastered
 08:50:00 - 10:53:27 : Knallhart Durchgenommen #8 - Shadow of the Tomb Raider
-10:30:00 - 11:16:00 : MoinMoin #925 - Die Morning-Show mit Florentin - Live
+10:30:00 - 11:16:32 : MoinMoin #925 - Die Morning-Show mit Florentin - Live
 11:15:00 - 12:29:54 : Game Talk #7 - Tokyo Game Show Spezial - Live
 12:30:00 - 13:51:40 : Hängi Hauptquartier - mit Florentin & Fabian Kr. - Live
 14:00:00 - 15:01:47 : Let’s Play  - Lunch Madness mit Olli & Max | Counter-Strike: Global Offensive - Live
@@ -10,5 +10,5 @@
 19:00:00 - 20:00:00 : Royal Beef #4 - Vier Spieler, vier Feinde, vier Folgen - Premiere
 20:00:00 - 20:30:00 : Game Two #84 - Transference: D2: Forsaken und vieles mehr - Premiere
 20:30:00 - 23:00:00 : Knallhart Durchgenommen #18 - Dark Souls Remastered: Das Finale! - Live
-23:00:00 - 23:46:00 : MoinMoin #925 - Die Morning-Show mit Florentin
+23:00:00 - 23:46:32 : MoinMoin #925 - Die Morning-Show mit Florentin
 23:45:00 - 00:47:40 : Let’s Play  - Mario Tennis: Spiel, Satz und Krieg
