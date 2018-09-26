@@ -1,6 +1,6 @@
 00:00:00 - 00:45:00 : MoinMoin #929 - Die Morning-Show mit Schröck und Alwin
 00:45:00 - 02:55:55 : Let’s Play 2 - Firewall Zero Hour: Unser PSVR-Squad in Action
-02:55:00 - 06:28:56 : Knallhart Durchgenommen #1 - Life is Strange 2
+02:55:00 - 06:54:56 : Knallhart Durchgenommen #1 - Life is Strange 2
 05:25:00 - 06:25:00 : Verflixxte Klixx #72 - Die You-Tube-Klicks-Rate-Show mit Lars und Florentin
 06:25:00 - 08:25:00 : Kino+ #222 - Alles rund ums Kino mit Daniel
 08:25:00 - 09:11:27 : Tilt #7 - mit Colin & Michael Krogmann
@@ -10,8 +10,7 @@
 13:15:00 - 14:15:00 : Verflixxte Klixx #72 - Die You-Tube-Klicks-Rate-Show mit Lars und Florentin
 15:00:00 - 17:00:00 : Knallhart Durchgenommen #2 - Bad Mojo - Live
 17:00:00 - 19:00:00 : Rage of Empires #44 - DAS RTS-Format - Live
-19:00:00 - 19:45:00 : Royal Beef #5 - Die zweite Hälfte des Horrors beginnt - Premiere
-19:45:00 - 20:01:53 : Die Grillshow #139 - Die Beef Maschine
+19:00:00 - 20:00:00 : Royal Beef #5 - Die zweite Hälfte des Horrors beginnt - Premiere
 20:00:00 - 20:30:00 : Game Two #85 - FIFA 19, Valkyria Chronicles 4 - Premiere
 20:30:00 - 22:30:00 : Everything Fights - Live
 22:30:00 - 23:15:00 : MoinMoin #930 - Die Morning-Show mit Florentin
