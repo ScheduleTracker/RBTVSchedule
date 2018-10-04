@@ -1,11 +1,11 @@
-01:45:00 - 02:30:00 : MoinMoin #935 - Die Morning-Show mit Budi und Simon
-02:30:00 - 04:15:00 : Knallhart Durchgenommen #5 - Assassin's Creed Odyssey
-04:15:00 - 06:30:00 : Knallhart Durchgenommen #3 - Bloodborne
-06:30:00 - 08:00:00 : Bohndesliga #8 - 7. Spieltag der Fußball-Bundesliga in der Analyse
-08:00:00 - 09:30:00 : Game Talk #9
+03:00:00 - 03:45:00 : MoinMoin #935 - Die Morning-Show mit Budi und Simon
+04:00:00 - 05:45:00 : Knallhart Durchgenommen #5 - Assassin's Creed Odyssey
+05:45:00 - 08:00:00 : Knallhart Durchgenommen #3 - Bloodborne
+08:00:00 - 09:30:00 : Bohndesliga #8 - 7. Spieltag der Fußball-Bundesliga in der Analyse
 09:30:00 - 10:30:00 : Rülps - Das Kneipenquiz #
 10:30:00 - 11:15:00 : MoinMoin #936 - Die Morning-Show mit Lars und Timon Krause - Live
 11:15:00 - 13:00:00 : Knallhart Durchgenommen #6 - Assassin's Creed Odyssey - Live
+13:00:00 - 14:30:00 : Game Talk #9
 15:30:00 - 17:00:00 : Zocken mit Denzel # - Total War: Warhammer 2 - Powered by Intel Optane - Live
 17:00:00 - 18:00:00 : Almost Plaily #82 - Improzimmer mit Florentin, Katjana, Lars, Andreas, Lisa & Fabian Kr. - Premiere
 18:00:00 - 20:00:00 : Last Call #3 - NieR Automata - Live
