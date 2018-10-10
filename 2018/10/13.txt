@@ -12,7 +12,7 @@
 10:00:00 - 11:30:00 : BeansJam Mobile: Budi und Sandro sagen Moin Moin - Live
 11:30:00 - 11:45:00 : BJ Mobile: toco toco - Daisuke Ishiwatari - Premiere
 11:45:00 - 12:30:00 : BeansJam Mobile - Live
-12:30:00 - 12:55:00 : Let’s Play  - Quill: Kreativquatsch in VR - Episode 1 - Premiere
+12:30:00 - 12:56:12 : Let’s Play  - Quill: Kreativquatsch in VR - Episode 1 - Premiere
 12:55:00 - 13:30:00 : BeansJam Mobile - Live
 13:30:00 - 15:00:00 : BJ Mobile: Branching Paths - Doku über Japans Indie-Szene - Premiere
 15:00:00 - 16:00:00 : BeansJam Mobile: Ilyass und Sandro führen euch euch durch den Nachmittag - Live
@@ -22,7 +22,7 @@
 18:00:00 - 19:00:00 : BeansJam Mobile: Budi is back - Live
 19:00:00 - 19:15:00 : BJ Mobile: toco toco - Katsura Hashino - Premiere
 19:15:00 - 19:35:00 : BeansJam Mobile - Live
-19:35:00 - 20:00:00 : Let’s Play  - Quill: Kreativquatsch in VR - Episode 2 - Premiere
+19:35:00 - 20:00:34 : Let’s Play  - Quill: Kreativquatsch in VR - Episode 2 - Premiere
 20:00:00 - 21:00:00 : BeansJam Mobile: Halbzeit - wie weit sind die Entwickler bisher? - Live
 21:00:00 - 21:30:00 : BJ Mobile: Super Game Jam - Episode 2 - Premiere
 21:30:00 - 23:00:00 : BeansJam Mobile: Abendliche Entwicklerei mit Budi - Live
