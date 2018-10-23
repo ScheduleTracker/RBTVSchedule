@@ -5,7 +5,7 @@
 06:30:00 - 08:04:59 : Bohndesliga #9 - 8. Spieltag der Fußball-Bundesliga in der Analyse
 08:05:00 - 09:32:19 : Game Talk #10 - - Powered by Intel Optane
 09:30:00 - 10:32:25 : Nerd Quiz #1 - Budi gegen Tobi Escher gegen Steffen
-10:30:00 - 11:15:00 : MoinMoin #946 - Die Morning-Show mit Andreas und dem Bücherschrank - Live
+10:30:00 - 11:25:47 : MoinMoin #946 - Die Morning-Show mit Andreas und dem Bücherschrank - Live
 11:15:00 - 13:26:22 : After Dark #1 - Visage mit Simon
 13:40:00 - 14:02:53 : Endgegner: FILMWISSEN | Können Florentin und Andi den Endgegner Daniel Schröckert stürzen?
 14:00:00 - 15:00:00 : Hängi Hauptquartier - Pokern lernen mit Andreas und Lars - Live
@@ -13,5 +13,5 @@
 17:00:00 - 18:00:00 : Almost Plaily #84 - Stadt, Land, Fluss mit Mark, Andy, Flo & Andreas S. - Premiere
 18:00:00 - 20:00:00 : Zocken mit Denzel # - Total War: Warhammer 2 - Powered by Intel Optane - Live
 20:00:00 - 23:00:00 : Beanstag #61 - Black Ops 4: Powered by Intel Optane - Live
-23:00:00 - 23:45:00 : MoinMoin #946 - Die Morning-Show mit Andreas und dem Bücherschrank
+23:00:00 - 23:55:47 : MoinMoin #946 - Die Morning-Show mit Andreas und dem Bücherschrank
 23:45:00 - 01:56:22 : After Dark #1 - Visage mit Simon
