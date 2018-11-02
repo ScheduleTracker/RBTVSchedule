@@ -1,8 +1,9 @@
-01:05:00 - 04:04:34 : Classix #2 - King´s Field IV
-04:00:00 - 04:57:11 : Classix #3 - King´s Field IV
-05:00:00 - 06:58:45 : Classix #4 - King´s Field IV
-07:00:00 - 08:48:49 : Classix #5 - King´s Field IV
-08:45:00 - 10:12:44 : Classix #6 - King's Field IV
+00:50:00 - 03:49:34 : Classix #2 - King´s Field IV
+03:50:00 - 04:47:11 : Classix #3 - King´s Field IV
+04:45:00 - 05:15:08 : DICED #95 - DICED goes Great-Britain
+05:15:00 - 07:13:45 : Classix #4 - King´s Field IV
+07:15:00 - 09:03:49 : Classix #5 - King´s Field IV
+09:00:00 - 10:27:44 : Classix #6 - King's Field IV
 10:30:00 - 11:15:00 : MoinMoin #955 - Die Morning-Show mit Sandro - Live
 11:15:00 - 12:15:00 : Hängi Hauptquartier - Pokern lernen mit Andreas und Lars - Live
 17:00:00 - 18:30:00 : Bohndesliga #11 - 10. Spieltag der Fußball-Bundesliga in der Analyse - Live
