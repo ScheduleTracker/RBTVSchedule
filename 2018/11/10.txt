@@ -1,9 +1,8 @@
 00:30:00 - 03:44:00 : Let’s Play 1 - Battlefield V mit Simon
 03:40:00 - 06:14:10 : Rage of Empires #49 - DAS RTS-Format - Presented by Intel Optane
-05:40:00 - 08:10:48 : Let’s Play  - Overkill's The Walking Dead
-08:15:00 - 09:20:54 : Verflixxte Klixx #78 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
-09:20:00 - 10:20:27 : Knallhart Durchgenommen #55 - The Legend of Zelda: Breath of the Wild
-10:15:00 - 11:10:09 : MoinMoin #954 - Beim Classico in Barcelona - Sandros AMA
+06:10:00 - 08:40:48 : Let’s Play  - Overkill's The Walking Dead
+08:45:00 - 09:50:54 : Verflixxte Klixx #78 - Die You-Tube-Klicks-Rateshow mit Lars und Florentin
+09:50:00 - 10:45:09 : MoinMoin #954 - Beim Classico in Barcelona - Sandros AMA
 10:45:00 - 11:35:03 : MoinMoin #955 - Außenpolitik-Spezial: Waffen, Krieg und Lobbyismus
 11:30:00 - 12:18:33 : MoinMoin #956 - Fischfinger futtern bei Tony Hawk - English the 2nd
 12:15:00 - 13:19:54 : MoinMoin #957 - T.E.A.R.S. 2 kommt - Pen and Paper Infos
@@ -17,5 +16,5 @@
 19:00:00 - 19:12:18 : Die Grillshow #145 - Jalapeno Chicken - Premiere
 19:15:00 - 20:01:02 : Orkenspalter TV #6 - Englischsprachige PnP-Systeme, Comic Saga, Lets Play Numenera
 20:00:00 - 21:03:35 : Almost Daily #354 - Die neue Staffel NDA - Premiere
-21:00:00 - 22:00:00 : c't uplink #225 - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
+21:00:00 - 22:12:47 : c't uplink #216 - IFA in Berlin und 100 Tage DSGVO
 22:15:00 - 02:26:33 : Pen & Paper - T.E.A.R.S. - Episode 1: Der Beginn der Reise
