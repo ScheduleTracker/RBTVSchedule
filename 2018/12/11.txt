@@ -1,8 +1,7 @@
-01:00:00 - 01:45:00 : MoinMoin #980 - Die Morning-Show mit Alwin
-01:45:00 - 03:45:00 : Let’s Play 4 - Football Manager 2019
-03:45:00 - 05:15:00 : Bohndesliga #14 - 14. Spieltag der Fußball-Bundesliga in der Analyse
-05:15:00 - 06:45:00 : Let’s Play  - Just Dance: Viet bittet zum Tanz
-06:45:00 - 07:42:12 : Nerd Quiz #8 - Gregor gegen Fabian gegen Trant (Etienne-Special)
+00:15:00 - 02:15:00 : Let’s Play 4 - Football Manager 2019
+02:15:00 - 03:45:00 : Bohndesliga #14 - 14. Spieltag der Fußball-Bundesliga in der Analyse
+03:45:00 - 05:15:00 : Let’s Play  - Just Dance: Viet bittet zum Tanz
+05:15:00 - 06:12:12 : Nerd Quiz #8 - Gregor gegen Fabian gegen Trant (Etienne-Special)
 07:45:00 - 09:03:38 : Knallhart Durchgenommen #69 - The Legend of Zelda: Breath of the Wild
 09:00:00 - 10:07:12 : Knallhart Durchgenommen #70 - The Legend of Zelda: Breath of the Wild
 10:30:00 - 11:15:00 : MoinMoin #981 - Die Morning-Show mit Nasti und Tim - Live
