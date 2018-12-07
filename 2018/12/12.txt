@@ -7,6 +7,6 @@
 10:30:00 - 11:15:00 : MoinMoin #982 - Die Morning-Show mit Donnie - Live
 15:00:00 - 17:00:00 : Knallhart Durchgenommen #4 - Darksiders III - Live
 17:00:00 - 20:00:00 : Zocken mit Denzel # - Das Beste aus der Welt der Spiele! - Live
-20:00:00 - 23:00:00 : Let’s Play 2 - Red Dead Online - Live
-23:00:00 - 23:45:00 : MoinMoin #982 - Die Morning-Show mit Donnie
-23:45:00 - 01:45:00 : Knallhart Durchgenommen #4 - Darksiders III
+20:00:00 - 22:00:00 : Let’s Play 2 - Red Dead Online - Live
+22:00:00 - 22:45:00 : MoinMoin #982 - Die Morning-Show mit Donnie
+22:45:00 - 00:45:00 : Knallhart Durchgenommen #4 - Darksiders III
