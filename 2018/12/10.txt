@@ -3,8 +3,8 @@
 04:50:00 - 06:55:00 : Classix #23 - King's Field IV mit Colin, Dennis & Dennis
 06:55:00 - 09:01:44 : Classix #24 - King's Field IV mit Colin & Dennis
 09:00:00 - 10:22:03 : Almost Daily #358 - Weihnachten mit Christian Pokerbeats Huber #2
-10:30:00 - 11:15:00 : MoinMoin #980 - Die Morning-Show mit Alwin und Methodisch Inkorrekt - Live
-11:15:00 - 13:33:35 : Pen & Paper - Good Times Island
+10:30:00 - 11:25:31 : MoinMoin #980 - Die Morning-Show mit Alwin und Methodisch Inkorrekt - Live
+11:30:00 - 13:36:35 : Pen & Paper - Good Times Island
 13:30:00 - 13:49:48 : Die Grillshow #145 - Bier Brauen für Einsteiger, Bier brauen mit der Brumas BrauEule
 13:50:00 - 13:57:42 : Nerdy Timber #21 - Drücke NICHT den Knopf, Nintendo LABO Arcade
 14:00:00 - 16:00:00 : Let’s Play 4 - Football Manager 2019 - Live
@@ -13,4 +13,4 @@
 20:00:00 - 20:57:12 : Nerd Quiz #8 - Gregor gegen Fabian gegen Trant (Etienne-Special) - Premiere
 21:00:00 - 21:30:00 : Endgegner # - Endgegner: Fußball | Können Nils und Etienne den Endgegner Tobias Escher stürzen? - Premiere
 21:25:00 - 23:27:00 : After Dark #2 - Call of Cthulhu - Live
-23:30:00 - 00:15:00 : MoinMoin #980 - Die Morning-Show mit Alwin und Methodisch Inkorrekt
+23:30:00 - 00:25:31 : MoinMoin #980 - Die Morning-Show mit Alwin und Methodisch Inkorrekt
