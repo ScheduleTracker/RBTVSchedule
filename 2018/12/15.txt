@@ -9,7 +9,7 @@
 10:45:00 - 11:30:00 : MoinMoin #982 - Die Morning-Show mit Donnie
 11:30:00 - 13:00:00 : MoinMoin #983 - Die Morning-Show mit Colin
 12:15:00 - 13:00:00 : MoinMoin #984 - Die Morning-Show mit Florentin
-13:30:00 - 14:45:00 : Pen & Paper - T.E.A.R.S. - Preshow
+13:15:00 - 14:30:00 : Pen & Paper - T.E.A.R.S. - Preshow
 14:30:00 - 18:00:00 : Pen & Paper - T.E.A.R.S.
 18:00:00 - 23:00:00 : Pen & Paper - T.E.A.R.S. - Live
 23:00:00 - 23:58:11 : Spiele mit Bart #3 - NightCry
