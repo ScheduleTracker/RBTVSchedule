@@ -8,10 +8,9 @@
 10:30:00 - 11:15:00 : MoinMoin #990 - Schlagerspezial - Premiere
 11:15:00 - 11:34:48 : Die Grillshow #145 - Bier Brauen für Einsteiger, Bier brauen mit der Brumas BrauEule
 11:35:00 - 14:26:25 : ShowShuffle - Tischtennis mit Budi, Nils, Etienne und Timo
-14:25:00 - 15:24:59 : Classix # - Leisure Suit Larry mit Simon
-15:25:00 - 16:43:16 : Steinmatch - Die Lego-Show
-16:45:00 - 17:36:51 : Almost Döhli aus Halle 7
-17:35:00 - 18:39:33 : Die 10 besten Clips des Jahres 2017
-18:40:00 - 19:40:00 : Simonster - Premiere
-18:40:00 - 20:03:26 : Wo sind denn alle? - Versteckspiel bei Rocket Beans TV
-20:00:00 - 00:19:07 : Almost Daily #100 - 100
+14:25:00 - 15:43:16 : Steinmatch - Die Lego-Show
+15:45:00 - 16:36:51 : Almost Döhli aus Halle 7
+16:35:00 - 17:39:33 : Die 10 besten Clips des Jahres 2017
+17:40:00 - 19:03:26 : Wo sind denn alle? - Versteckspiel bei Rocket Beans TV
+19:05:00 - 20:05:00 : Simonster - Premiere
+20:05:00 - 00:24:07 : Almost Daily #100 - 100
