@@ -1,8 +1,8 @@
 00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien im neuen Jahr - Premiere
 03:00:00 - 05:00:00 : Let’s Play  - Football Manager 2019
-05:15:00 - 08:15:00 : After Dark #5 - Call of Cthulhu
-08:15:00 - 09:19:45 : Knallhart Durchgenommen #1 - Thimbleweed Park
-09:20:00 - 10:25:10 : Knallhart Durchgenommen #2 - Thimbleweed Park
+05:00:00 - 08:00:00 : After Dark #5 - Call of Cthulhu
+08:00:00 - 09:04:45 : Knallhart Durchgenommen #1 - Thimbleweed Park
+09:05:00 - 10:10:10 : Knallhart Durchgenommen #2 - Thimbleweed Park
 10:30:00 - 11:15:00 : MoinMoin #995 - Die Morning-Show mit Mark - Live
 11:15:00 - 13:00:00 : Hängi Hauptquartier - Neues Jahr neuer Strich! - Live
 17:00:00 - 19:30:00 : Almost Plaily #94 - Star Wars Trivial Pursuit mit Stefan Titze, Eddy, Schröckert & Andi - Premiere
