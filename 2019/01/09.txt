@@ -3,7 +3,7 @@
 07:35:00 - 08:37:54 : Nachspiel #7 - God of War: Wir halten Kriegsgericht
 08:30:00 - 09:34:34 : Knallhart Durchgenommen #3 - Thimbleweed Park
 09:35:00 - 10:37:51 : Knallhart Durchgenommen #4 - Thimbleweed Park
-10:30:00 - 11:15:00 : MoinMoin #996 - Die Morning-Show mit Donnie - Live
+10:30:00 - 11:15:20 : MoinMoin #996 - Die Morning-Show mit Donnie - Live
 11:15:00 - 11:56:48 : Let’s Play  - Skater XL: Krogi Skatet
 11:55:00 - 13:00:23 : Simonster - Subnautica
 13:00:00 - 14:02:45 : Simonster - Subnautica
@@ -11,5 +11,5 @@
 15:00:00 - 18:00:00 : Simonster - Subnautica - Live
 18:00:00 - 20:00:00 : RBTV On Tour - Krogi und Dennis im siebten VR-Himmel - Premiere
 20:00:00 - 22:30:00 : Let’s Play  - Sea of Thieves - Live
-22:30:00 - 23:15:00 : MoinMoin #996 - Die Morning-Show mit Donnie
+22:30:00 - 23:15:20 : MoinMoin #996 - Die Morning-Show mit Donnie
 23:15:00 - 02:15:00 : Simonster - Subnautica
