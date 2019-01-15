@@ -3,7 +3,7 @@
 05:15:00 - 07:15:00 : Knallhart Durchgenommen #14 - Bloodborne
 07:15:00 - 08:15:00 : Simonster - Subnautica
 08:15:00 - 08:28:55 : Pocket Beans #1 - I am Ping Pong King, Homo Machina, Implosion: Never lose hope, Skidstorm
-08:30:00 - 09:26:00 : MoinMoin #999 - Auf dem Bau in der USA, Erster Praktikant bei Game One, Buchautor - Wer ist Gunnar Krupp
+08:30:00 - 09:26:00 : MoinMoin #999 - Auf dem Bau in den USA, Erster Praktikant bei Game One, Buchautor - Wer ist Gunnar Krupp
 09:15:00 - 10:53:33 : MoinMoin #1000 - Die Top 20 absurder Momente & Neues Intro
 10:45:00 - 11:30:00 : MoinMoin #1001 - Die Morning-Show mit Simon
 11:30:00 - 12:15:00 : MoinMoin #1002 - Die Morning-Show mit Etienne
@@ -12,8 +12,7 @@
 13:30:00 - 17:26:11 : Pen & Paper - BEARDS 5 - komplette Show
 17:30:00 - 18:01:48 : Pen & Paper - Was wäre wenn B.E.A.R.D.S 5
 19:00:00 - 19:15:00 : Die Grillshow # - Frisches Brutzliges Freunde - Premiere
-19:15:00 - 20:00:00 : Nerdy Timber # - Paul tut wieder Dinge - Premiere
+19:15:00 - 19:29:15 : Nerdy Timber #22 - Splatoon 2: Minigun - Premiere
 20:00:00 - 21:00:00 : Almost Daily #361 - Der Talk am goldenen Tisch - Premiere
-21:15:00 - 22:45:00 : New European Championship Wrestling #22 - It's Blut, Schweiß, Tränen, Wrestling Again! - Premiere
-22:45:00 - 23:45:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
-23:45:00 - 00:30:00 : Hoaxilla - Der skeptische Podcast # - Skepsis wird wieder vertont! - Premiere
+21:15:00 - 23:01:37 : New European Championship Wrestling #22 - It's Blut, Schweiß, Tränen, Wrestling Again! - Premiere
+23:00:00 - 00:00:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
