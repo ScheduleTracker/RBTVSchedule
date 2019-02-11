@@ -1,10 +1,9 @@
-00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 03:45:00 : MoinMoin #1014 - Die Morning-Show mit Andy
-03:45:00 - 05:45:00 : Let’s Play 4 - Fallout: New California
-05:45:00 - 07:15:00 : Bohndesliga #21 - 21. Spieltag der Fußball-Bundesliga in der Analyse
-07:15:00 - 08:45:00 : Game Talk #17 - Golden Games & Golden Boys
-08:45:00 - 09:43:47 : Simonster - Subnautica
-09:45:00 - 10:24:55 : Speedrundale #28 - Minit mit Greg
+00:00:00 - 03:59:44 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
+04:00:00 - 04:45:00 : MoinMoin #1014 - Die Morning-Show mit Andy
+04:45:00 - 06:15:00 : Bohndesliga #21 - 21. Spieltag der Fußball-Bundesliga in der Analyse
+06:15:00 - 07:45:00 : Game Talk #17 - Golden Games & Golden Boys
+07:45:00 - 08:43:47 : Simonster - Subnautica
+08:40:00 - 09:19:55 : Speedrundale #28 - Minit mit Greg
 10:30:00 - 11:15:00 : MoinMoin #1015 - Die Morning-Show mit Budi und Linda Breitlauch - Live
 11:15:00 - 14:00:00 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski - Live
 17:00:00 - 18:00:00 : Almost Plaily #99 - Ja, Herr und Meister! mit Gunnar, Nasti, Ilyass & Fabian Kr. - Premiere
