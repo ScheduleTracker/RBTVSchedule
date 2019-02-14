@@ -4,7 +4,7 @@
 06:00:00 - 07:30:00 : Bohndesliga #22 - 22. Spieltag der Fußball-Bundesliga in der Analyse
 07:30:00 - 09:30:00 : After Dark # - Schauriges mit Schröck
 09:30:00 - 10:25:06 : Let’s Play 1 - Red Matter
-10:30:00 - 11:15:00 : MoinMoin #1015 - Die Morning-Show mit Mark - Live
+10:30:00 - 11:15:00 : MoinMoin #1025 - Die Morning-Show mit Ilyass - Live
 14:00:00 - 16:00:00 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski - Live
 16:00:00 - 17:00:00 : Simonster - Subnautica - Premiere
 17:00:00 - 18:00:00 : Almost Plaily #100 - Premiere
@@ -12,5 +12,5 @@
 20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #10 - Die letzte Folge dieser Staffel! - Live
 21:00:00 - 21:15:00 : Pocket Beans #8 - Premiere
 21:15:00 - 23:00:00 : Beanstag #70 - Anthem - Live
-23:00:00 - 23:45:00 : MoinMoin #1015 - Die Morning-Show mit Mark
+23:00:00 - 23:45:00 : MoinMoin #1025 - Die Morning-Show mit Ilyass
 23:45:00 - 01:45:00 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski
