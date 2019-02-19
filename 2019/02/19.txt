@@ -4,7 +4,7 @@
 07:15:00 - 09:22:59 : After Dark #1 - Observer mit Schröck und Gregor
 09:20:00 - 10:18:56 : After Dark #10 - Resident Evil 2
 10:30:00 - 11:29:03 : MoinMoin #1025 - So entsteht unsere Gaming-Show fürs ZDF - Live
-12:55:00 - 15:59:24 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski - Live
+12:55:00 - 15:59:24 : Zocken mit Denzel #4 - Stonekeep - Live
 16:00:00 - 17:04:24 : Simonster - Subnautica - Premiere
 17:00:00 - 18:08:02 : Almost Plaily #100 - Das große Jubiläums-Special mit Florentin, Lars, Luca & Fabian Kr. - Premiere
 18:05:00 - 20:05:00 : Let’s Play  - Battlefleet Gothic: Armada 2 - Live
@@ -12,4 +12,4 @@
 21:00:00 - 21:15:00 : Pocket Beans #8 - Premiere
 21:15:00 - 23:00:00 : Let’s Play  - Anthem - Live
 23:00:00 - 23:59:03 : MoinMoin #1025 - So entsteht unsere Gaming-Show fürs ZDF
-23:45:00 - 02:49:24 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski
+23:45:00 - 02:49:24 : Zocken mit Denzel #4 - Stonekeep
