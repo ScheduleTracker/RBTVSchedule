@@ -3,7 +3,7 @@
 05:45:00 - 07:15:46 : Bohndesliga #22 - 22. Spieltag der Fußball-Bundesliga in der Analyse
 07:15:00 - 09:22:59 : After Dark #1 - Observer mit Schröck und Gregor
 09:20:00 - 10:18:56 : After Dark #10 - Resident Evil 2
-10:30:00 - 11:29:03 : MoinMoin #1025 - Die Morning-Show mit Ilyass - Live
+10:30:00 - 11:29:03 : MoinMoin #1025 - Ilyass‘ neues Herzensprojekt „Stories of Games” - Live
 11:30:00 - 13:56:41 : Game Fights 10 - Die große Gaming-Debatt(l)e
 14:00:00 - 16:00:00 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski - Live
 16:00:00 - 17:00:00 : Simonster - Subnautica - Premiere
@@ -12,5 +12,5 @@
 20:00:00 - 21:00:00 : Neue Deutsche Abendunterhaltung #10 - Die letzte Folge dieser Staffel! - Live
 21:00:00 - 21:15:00 : Pocket Beans #8 - Premiere
 21:15:00 - 23:00:00 : Let’s Play  - Anthem - Live
-23:00:00 - 23:59:03 : MoinMoin #1025 - Die Morning-Show mit Ilyass
+23:00:00 - 23:59:03 : MoinMoin #1025 - Ilyass‘ neues Herzensprojekt „Stories of Games”
 23:45:00 - 01:45:00 : Zocken mit Denzel # - Spielspaß mit Dennis Richtarski
