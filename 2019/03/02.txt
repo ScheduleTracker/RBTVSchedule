@@ -1,13 +1,14 @@
 01:00:00 - 03:00:00 : Let’s Play 1 - Der Herr der Ringe: Die Schlacht um Mittelerde 2
-05:00:00 - 07:00:00 : Rage of Empires #63 - DAS RTS-Format
-07:00:00 - 08:00:00 : Simonster - Subnautica
-08:00:00 - 10:00:00 : Let’s Play  - Beat Saber: Mixed-Reality-Sause mit Krogi und Freunden
-10:00:00 - 10:45:00 : MoinMoin #1029 - Die Morning-Show mit Mark
-11:00:00 - 11:45:00 : MoinMoin #1030 - Die Morning-Show mit Gregor
-11:45:00 - 12:30:00 : MoinMoin #1031 - Die Morning-Show mit Donnie und Micki Beisenherz
-12:30:00 - 14:00:00 : MoinMoin #1032 - Die Morning-Show mit Etienne und Colin
-13:15:00 - 14:00:00 : MoinMoin #1033 - Die Morning-Show mit Florentin
-14:00:00 - 15:07:00 : Retro Klub #82 - Xbox Classic-Nostalgie auf XboxOne mit Simon #1
+03:00:00 - 04:45:00 : Hängi Hauptquartier - mit Viet & Friends
+04:45:00 - 06:45:00 : Rage of Empires #63 - DAS RTS-Format
+06:45:00 - 07:45:00 : Simonster - Subnautica
+07:45:00 - 09:45:00 : Let’s Play  - Beat Saber: Mixed-Reality-Sause mit Krogi und Freunden
+09:45:00 - 10:30:00 : MoinMoin #1029 - Die Morning-Show mit Mark
+10:30:00 - 11:15:00 : MoinMoin #1030 - Die Morning-Show mit Gregor
+11:15:00 - 12:00:00 : MoinMoin #1031 - Die Morning-Show mit Donnie und Micki Beisenherz
+12:00:00 - 13:30:00 : MoinMoin #1032 - Die Morning-Show mit Etienne und Colin
+13:45:00 - 14:30:00 : MoinMoin #1033 - Die Morning-Show mit Florentin
+14:30:00 - 14:56:35 : Endgegner #2 - Endgegner: Fußball | Können Nils und Etienne den Endgegner Tobias Escher stürzen?
 15:00:00 - 15:55:25 : Pen & Paper - Dysnomia - PreShow
 16:00:00 - 18:55:26 : Pen & Paper - Dysnomia
 19:00:00 - 19:15:00 : Die Grillshow # - Frisches Brutzliges Freunde - Premiere
