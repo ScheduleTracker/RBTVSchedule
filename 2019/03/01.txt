@@ -6,10 +6,11 @@
 10:30:00 - 11:19:11 : MoinMoin #1033 - Die Morning-Show mit Florentin - Live
 11:15:00 - 13:00:00 : Let’s Play 4 - 7 Billion Humans mit Florentin und Max - Live
 13:00:00 - 15:00:00 : Let’s Play 1 - Der Herr der Ringe: Die Schlacht um Mittelerde - Live
+15:00:00 - 17:03:35 : Kino+ #242 - Kino+ #242
 17:00:00 - 19:00:00 : Rage of Empires #63 - DAS RTS-Format - Live
 19:00:00 - 20:00:00 : Let’s Play  - ToeJam & Earl: Back in the Groove! - Live
 20:00:00 - 20:30:00 : Game Two #105 - Premiere
 20:35:00 - 20:59:00 : Creative Clash #2 - Prolog #2 - Premiere
-21:00:00 - 23:00:00 : Let’s Play  - Beat Saber: Mixed-Reality-Sause mit Krogi und Freunden - Live
-23:00:00 - 23:30:00 : RBTV On Tour - Unser Besuch bei den "Dreams"-Machern Media Molecule - Premiere
-23:30:00 - 00:19:11 : MoinMoin #1033 - Die Morning-Show mit Florentin
+21:00:00 - 22:30:00 : Let’s Play  - Beat Saber: Mixed-Reality-Sause mit Krogi und Freunden - Live
+22:30:00 - 23:00:00 : RBTV On Tour - Unser Besuch bei den "Dreams"-Machern Media Molecule - Premiere
+23:00:00 - 23:49:11 : MoinMoin #1033 - Die Morning-Show mit Florentin
