@@ -3,7 +3,7 @@
 05:30:00 - 07:07:05 : Bohndesliga #24 - 24. Spieltag der Fußball-Bundesliga in der Analyse
 07:05:00 - 08:33:47 : Zocken mit Denzel # - Slaves to Armok II: Dwarf Fortress
 08:35:00 - 10:30:39 : Zocken mit Bohnen
-10:30:00 - 11:30:00 : MoinMoin #1035 - Die Morning-Show mit Schröck und Dennis - Live
+10:30:00 - 11:33:38 : MoinMoin #1035 - Die Morning-Show mit Schröck und Dennis - Live
 11:30:00 - 14:00:00 : Zocken mit Denzel # - Das Spielen ist noch nicht vorbei! - Live
 14:00:00 - 14:16:20 : BestOfBeans #11 - Die besten Clips des Bohnen-Januars/Februars 19 - Premiere
 14:15:00 - 15:25:31 : Almost Daily #350 - Kleinigkeiten - Wenn ich mini wäre
@@ -12,5 +12,5 @@
 18:00:00 - 20:00:00 : Knallhart Durchgenommen #10 - NieR Automata mit Budi und Simon - Live
 20:00:00 - 21:00:00 : ShowShuffle: Anruf von Anonym - Live
 21:00:00 - 23:00:00 : Beanstag #71 - Trials Rising - Live
-23:00:00 - 00:00:00 : MoinMoin #1035 - Die Morning-Show mit Schröck und Dennis
+23:00:00 - 00:03:38 : MoinMoin #1035 - Die Morning-Show mit Schröck und Dennis
 23:45:00 - 02:15:00 : Zocken mit Denzel # - Das Spielen ist noch nicht vorbei!
