@@ -1,7 +1,6 @@
 00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
 03:00:00 - 05:00:00 : Let’s Play 9 - Fallout: New Vegas
 05:00:00 - 06:30:00 : Bohndesliga #27 - 27. Spieltag der Fußball-Bundesliga in der Analyse
-06:30:00 - 08:00:00 : Let’s Play  - TBA
 08:00:00 - 08:30:00 : Endgegner # - Stephen King
 08:30:00 - 10:00:00 : After Dark #4 - Observer
 10:00:00 - 10:19:23 : DICED #1 - Die Tabletopshow geht an den Start
@@ -10,4 +9,4 @@
 17:00:00 - 18:00:00 : Almost Plaily #106 - Forbidden Sky mit Lars, Mark, Lisa & Fabian Kr. - Premiere
 18:00:00 - 20:00:00 : Knallhart Durchgenommen #11 - NieR Automata mit Budi und Simon - Live
 20:00:00 - 21:30:00 : Show Shuffle: Turbo Duo - Live
-21:30:00 - 23:30:17 : Knallhart Durchgenommen #9 - Kingdom Hearts III - Premiere
+21:30:00 - 23:30:17 : Knallhart Durchgenommen #8 - Kingdom Hearts III - Premiere
