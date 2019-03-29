@@ -1,9 +1,9 @@
 00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
 03:00:00 - 05:00:00 : Let’s Play 9 - Fallout: New Vegas
 05:00:00 - 06:30:00 : Bohndesliga #27 - 27. Spieltag der Fußball-Bundesliga in der Analyse
-08:00:00 - 08:30:00 : Endgegner # - Stephen King
-08:30:00 - 10:00:00 : After Dark #4 - Observer
-10:00:00 - 10:19:23 : DICED #1 - Die Tabletopshow geht an den Start
+06:30:00 - 08:00:00 : Let’s Play  - Warcraft 1&2 - Die Neuauflagen
+08:15:00 - 08:45:00 : Endgegner # - Stephen King
+09:00:00 - 10:30:00 : After Dark #4 - Observer
 10:30:00 - 11:15:00 : MoinMoin #1055 - Die Morning Show mit Lars - Live
 15:00:00 - 17:00:00 : Simonster - Subnautica - Live
 17:00:00 - 18:00:00 : Almost Plaily #106 - Forbidden Sky mit Lars, Mark, Lisa & Fabian Kr. - Premiere
