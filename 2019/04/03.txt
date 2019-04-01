@@ -1,11 +1,10 @@
 00:20:00 - 01:05:00 : MoinMoin #1055 - Die Morning Show mit Lars
 01:05:00 - 03:05:00 : Simonster - Subnautica
-03:00:00 - 04:00:00 : Almost Plaily #106 - Forbidden Sky mit Lars, Mark, Lisa & Fabian Kr.
-03:15:00 - 05:15:00 : Knallhart Durchgenommen #11 - NieR Automata mit Budi und Simon
-05:15:00 - 06:45:00 : Show Shuffle: Turbo Duo
-06:45:00 - 08:45:17 : Knallhart Durchgenommen #8 - Kingdom Hearts III
-08:45:00 - 10:19:42 : Der große Anno-Talk mit Dennis & Friends
-09:45:00 - 10:25:49 : Endgegner #4 - Endgegner: Stephen King | Von Friedhof der Kuscheltiere bis Es | Dominik Hammes  vs. Simon & Schröck
+03:05:00 - 04:05:00 : Almost Plaily #106 - Forbidden Sky mit Lars, Mark, Lisa & Fabian Kr.
+04:00:00 - 06:00:00 : Knallhart Durchgenommen #11 - NieR Automata mit Budi und Simon
+06:00:00 - 07:30:00 : Show Shuffle: Turbo Duo
+07:30:00 - 09:30:17 : Knallhart Durchgenommen #8 - Kingdom Hearts III
+09:30:00 - 10:10:49 : Endgegner #4 - Endgegner: Stephen King | Von Friedhof der Kuscheltiere bis Es | Dominik Hammes  vs. Simon & Schröck
 10:30:00 - 11:15:00 : MoinMoin #1056 - Die Morning Show mit Nasti und Tim - Live
 11:15:00 - 13:00:00 : Hängi Hauptquartier - mit Lisa und Max - Live
 14:00:00 - 16:00:00 : Knallhart Durchgenommen #13 - Monster Boy and The Cursed Kingdom - Live
