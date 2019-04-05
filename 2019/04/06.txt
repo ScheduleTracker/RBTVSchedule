@@ -1,11 +1,11 @@
-00:45:00 - 01:30:00 : MoinMoin #1058 - Die Morning Show mit Florentin
-01:30:00 - 03:15:00 : Let’s Play #8 - 7 Billion Humans mit Florentin und Max
-03:15:00 - 05:15:00 : Rage of Empires #68 - DAS RTS-Format
-05:15:00 - 06:15:00 : Pen & Paper - Die Preshow
-06:15:00 - 09:30:00 : Pen & Paper - Projekt Pilos
-09:30:00 - 10:23:37 : MoinMoin #1055 - Das passiert, wenn du 30 wirst - Abhandlung übers Altern
-10:20:00 - 11:12:38 : MoinMoin #1056 - Fanfiction: Hatte Donnie was mit Tim?
-11:15:00 - 12:17:34 : MoinMoin #1057 - Die Morning Show mit Eddy und Simon
+00:00:00 - 00:45:00 : MoinMoin #1058 - Die Morning Show mit Florentin
+00:45:00 - 02:30:00 : Let’s Play #8 - 7 Billion Humans mit Florentin und Max
+02:30:00 - 04:30:00 : Rage of Empires #68 - DAS RTS-Format
+04:30:00 - 05:30:00 : Pen & Paper - Die Preshow
+05:30:00 - 08:45:00 : Pen & Paper - Projekt Pilos
+08:45:00 - 09:38:37 : MoinMoin #1055 - Das passiert, wenn du 30 wirst - Abhandlung übers Altern
+09:35:00 - 10:27:38 : MoinMoin #1056 - Fanfiction: Hatte Donnie was mit Tim?
+10:30:00 - 11:32:34 : MoinMoin #1057 - Die Morning Show mit Eddy und Simon
 12:00:00 - 12:45:00 : MoinMoin #1058 - Die Morning Show mit Florentin
 12:45:00 - 13:49:56 : Almost Daily #371 - Thema: Almost Daily
 13:50:00 - 18:25:08 : Pen & Paper - T.E.A.R.S. 2: Teil 2
