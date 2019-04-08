@@ -1,11 +1,12 @@
-00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 05:00:00 : Let’s Play #10 - Fallout: New Vegas
-05:00:00 - 06:30:00 : Bohndesliga #28 - 28. Spieltag der Fußball-Bundesliga in der Analyse
-06:30:00 - 08:00:00 : Game Talk #23 - Der verspielte Talk bei RBTV
-08:00:00 - 09:45:00 : Let’s Play # - Borderlands GOTY im Multiplayer
-09:45:00 - 10:15:00 : Endgegner # - Wrestling
+00:00:00 - 03:32:33 : DashFM #89 - Gewichtung auf schwer - Premiere
+03:15:00 - 05:15:00 : Let’s Play #10 - Fallout: New Vegas
+05:15:00 - 06:45:00 : Bohndesliga #28 - 28. Spieltag der Fußball-Bundesliga in der Analyse
+06:45:00 - 08:15:00 : Game Talk #23 - Der verspielte Talk bei RBTV
+08:15:00 - 10:00:00 : Let’s Play # - Borderlands GOTY im Multiplayer
+10:00:00 - 10:30:00 : Endgegner # - Wrestling
 10:30:00 - 11:15:00 : MoinMoin #1060 - Die Morning Show mit Simon - Live
 11:15:00 - 12:00:00 : Hängi Hauptquartier - Community-Voting für neue Emojis im Twitch und Youtube Chat - Live
+12:00:00 - 13:40:37 : Speedrundale #70 - Zelda II: The Adventure of Link Speedrun von Mr. Tiger
 17:00:00 - 18:00:00 : Almost Plaily #107 - Say anything mit Florentin, Mark, Lisa & Fabian Kr. - Premiere
 18:00:00 - 19:00:00 : Let’s Play # - Phoenix Wright: Ace Attorney Trilogy - Live
 19:00:00 - 20:00:00 : Bada Binge #9 - Premiere
