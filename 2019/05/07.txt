@@ -1,10 +1,9 @@
 00:00:00 - 03:30:54 : DashFM #93 - Meckern, Mosern und Humor - Premiere
-03:00:00 - 04:30:00 : Bohndesliga #32 - 32. Spieltag der Fußball-Bundesliga in der Analyse
-04:30:00 - 06:00:00 : Game Talk #25 - Der verspielte Talk bei RBTV
-06:00:00 - 06:30:00 : Endgegner #9 - Herr der Ringe
-06:30:00 - 08:30:00 : After Dark # - Close to the Sun
-08:30:00 - 09:08:54 : Let’s Play # - Crash Team Racing Nitro-Fueled
-09:05:00 - 10:12:52 : Almost Daily #373 - LAN Partys
+03:30:00 - 05:00:00 : Bohndesliga #32 - 32. Spieltag der Fußball-Bundesliga in der Analyse
+05:00:00 - 06:30:00 : Game Talk #25 - Der verspielte Talk bei RBTV
+06:30:00 - 07:00:00 : Endgegner #9 - Herr der Ringe
+07:00:00 - 09:00:00 : After Dark # - Close to the Sun
+09:00:00 - 10:07:52 : Almost Daily #373 - LAN Partys
 10:30:00 - 11:15:00 : MoinMoin #1077 - Die Morning Show mit Gregor - Live
 16:00:00 - 18:00:00 : Let’s Play #1 - Fade to Silence - Live
 18:00:00 - 20:00:00 : Bada Binge Spezial Game of Thrones Recap #4 - Premiere
