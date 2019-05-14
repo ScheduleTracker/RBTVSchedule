@@ -1,18 +1,23 @@
-00:00:00 - 00:45:00 : MoinMoin #1085 - Die Morning Show mit Florentin
-00:45:00 - 01:45:00 : Hängi Hauptquartier - René referiert über Cloud-Gaming
-02:30:00 - 04:30:00 : Zocken mit Denzel # - Videospielen vom Feinsten
-04:30:00 - 06:30:00 : Knallhart Durchgenommen #18 - Sekiro
-06:30:00 - 08:30:00 : Rage of Empires #73 - DAS RTS-Format
-08:30:00 - 09:25:00 : Reality Bytes #2 - Das Turnier geht weiter: Musikspiel-Battle in VR - Das Turnier geht weiter: Musikspiel-Battle in VR
-09:25:00 - 10:25:00 : Bad Deals
-11:00:00 - 11:47:31 : MoinMoin #1081 - Zuckerwatte bald verboten? Alles zur Europawahl
-12:00:00 - 12:45:00 : MoinMoin #1082 - Die Morning Show mit Andreas, Viet und Markus
-12:45:00 - 13:30:00 : MoinMoin #1083 - Die Morning Show mit Donnie
-13:30:00 - 14:15:00 : MoinMoin #1084 - Die Morning Show mit Simon
-14:15:00 - 15:00:00 : MoinMoin #1085 - Die Morning Show mit Florentin
+00:15:00 - 01:15:00 : Hängi Hauptquartier - Der Buschfunk - Mirko und Rafael zocken!
+01:15:00 - 02:15:00 : Hängi Hauptquartier - René referiert über Cloud-Gaming
+02:15:00 - 04:15:00 : Zocken mit Denzel # - Videospielen vom Feinsten
+04:15:00 - 06:15:00 : Knallhart Durchgenommen #18 - Sekiro
+06:15:00 - 08:15:00 : Rage of Empires #73 - DAS RTS-Format
+08:15:00 - 09:10:00 : Reality Bytes #2 - Das Turnier geht weiter: Musikspiel-Battle in VR - Das Turnier geht weiter: Musikspiel-Battle in VR
+09:10:00 - 10:10:00 : Bad Deals
+10:15:00 - 11:02:31 : MoinMoin #1081 - Zuckerwatte bald verboten? Alles zur Europawahl
+11:15:00 - 12:00:00 : MoinMoin #1082 - Die Morning Show mit Andreas, Viet und Markus
+12:15:00 - 13:00:00 : MoinMoin #1083 - Die Morning Show mit Donnie
+13:00:00 - 13:45:00 : MoinMoin #1084 - Die Morning Show mit Simon
+13:45:00 - 14:30:00 : MoinMoin #1085 - Die Morning Show mit Florentin
+14:30:00 - 15:40:45 : Almost Daily #36 - Stadt Land Fluss
+15:40:00 - 16:51:58 : Almost Daily #34 - Wer Bin Ich
+16:50:00 - 17:29:00 : Almost Daily #52 - Scharade
+17:30:00 - 18:21:03 : Almost Daily #173 - Jenga 01
+18:20:00 - 19:00:15 : Almost Daily #41 - Montagsmaler
 19:00:00 - 19:15:00 : Die Grillshow # - Frisches Brutzliges Freunde - Premiere
 19:15:00 - 19:53:58 : Orkenspalter TV #32 - Der Gratis Comic Tag & Mháire testet LARP-Waffen
 20:00:00 - 21:09:01 : Almost Daily #378 - Der Talk am goldenen Tisch - Premiere
-21:00:00 - 22:45:00 : New European Championship Wrestling # - It's Blut, Schweiß, Tränen, Wrestling Again! - Premiere
-22:45:00 - 23:45:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
-23:45:00 - 00:45:00 : Hoaxilla - Der skeptische Podcast # - Skepsis wird wieder vertont! - Premiere
+21:10:00 - 22:55:00 : New European Championship Wrestling # - It's Blut, Schweiß, Tränen, Wrestling Again! - Premiere
+22:55:00 - 23:55:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
+23:55:00 - 00:55:00 : Hoaxilla - Der skeptische Podcast # - Skepsis wird wieder vertont! - Premiere

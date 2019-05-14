@@ -1,6 +1,5 @@
-00:30:00 - 01:15:00 : MoinMoin #1083 - Die Morning Show mit Donnie
-01:15:00 - 03:15:00 : Knallhart Durchgenommen #16 - Monster Boy and the Cursed Kingdom
-03:15:00 - 05:15:00 : Let’s Play #1 - Rage 2
+01:15:00 - 03:15:00 : Let’s Play #1 - Rage 2
+03:15:00 - 05:15:00 : Hängi Hauptquartier - Bärenbrüder zocken
 05:15:00 - 07:45:00 : Let’s Play # - Mordhau
 07:45:00 - 09:45:00 : Knallhart Durchgenommen #16 - Kingdom Hearts III
 09:45:00 - 10:20:32 : Let’s Play # - Rundgang auf der TwitchCon
@@ -11,3 +10,4 @@
 19:15:00 - 20:00:00 : Pfiffige Ziffern # - Premiere
 20:00:00 - 22:00:00 : Kino+ #252 - Alles rund ums Kino mit Daniel - Premiere
 22:00:00 - 23:30:00 : Knallhart Durchgenommen #4 - Life is Strange 2 - Premiere
+23:30:00 - 00:15:00 : MoinMoin #1084 - Die Morning Show mit Simon
