@@ -1,14 +1,14 @@
 00:15:00 - 01:15:12 : Hängi Hauptquartier - Der Buschfunk - Mirko und Rafael zocken!
-02:15:00 - 04:15:00 : Zocken mit Denzel # - Videospielen vom Feinsten
-04:15:00 - 06:15:00 : Knallhart Durchgenommen #18 - Sekiro
-06:15:00 - 08:15:00 : Rage of Empires #73 - DAS RTS-Format
-08:15:00 - 09:10:00 : Reality Bytes #2 - Das Turnier geht weiter: Musikspiel-Battle in VR - Das Turnier geht weiter: Musikspiel-Battle in VR
-09:10:00 - 10:10:00 : Bad Deals
-10:30:00 - 11:17:31 : MoinMoin #1081 - Zuckerwatte bald verboten? Alles zur Europawahl
-11:30:00 - 12:16:48 : MoinMoin #1082 - Wer hat die seltensten Pokemon-Karten?
-12:15:00 - 13:28:20 : MoinMoin #1083 - Unfall vor Live Show! #lachschaden
-13:00:00 - 14:17:09 : MoinMoin #1084 - Die Morning Show mit Simon
-13:45:00 - 14:30:00 : MoinMoin #1085 - Die Morning Show mit Florentin
+01:15:00 - 03:15:00 : Zocken mit Denzel # - Videospielen vom Feinsten
+03:15:00 - 05:15:00 : Knallhart Durchgenommen #17 - Sekiro
+05:15:00 - 07:15:00 : Rage of Empires #73 - DAS RTS-Format
+07:15:00 - 08:10:00 : Reality Bytes #2 - Das Turnier geht weiter: Musikspiel-Battle in VR - Das Turnier geht weiter: Musikspiel-Battle in VR
+08:10:00 - 09:10:00 : Bad Deals
+09:10:00 - 09:57:31 : MoinMoin #1081 - Zuckerwatte bald verboten? Alles zur Europawahl
+09:55:00 - 10:41:48 : MoinMoin #1082 - Wer hat die seltensten Pokemon-Karten?
+10:45:00 - 11:58:20 : MoinMoin #1083 - Unfall vor Live Show! #lachschaden
+11:55:00 - 13:12:09 : MoinMoin #1084 - Die Morning Show mit Simon
+13:15:00 - 14:00:00 : MoinMoin #1085 - Die Morning Show mit Florentin
 14:30:00 - 15:40:45 : Almost Daily #36 - Stadt Land Fluss
 15:40:00 - 16:51:58 : Almost Daily #34 - Wer Bin Ich
 16:50:00 - 17:29:00 : Almost Daily #52 - Scharade
@@ -19,5 +19,4 @@
 19:45:00 - 19:55:00 : Gadget Inspectors # - VR Gadgets - Premiere
 20:00:00 - 21:09:01 : Almost Daily #378 - Metal - Premiere
 21:10:00 - 23:09:20 : New European Championship Wrestling #26 - No Regrets 19 - Premiere
-22:55:00 - 23:55:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
-23:55:00 - 00:55:00 : Hoaxilla - Der skeptische Podcast # - Skepsis wird wieder vertont! - Premiere
+23:05:00 - 00:05:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
