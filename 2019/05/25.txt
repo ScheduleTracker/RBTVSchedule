@@ -7,7 +7,7 @@
 11:15:00 - 13:09:28 : MoinMoin #1087 - Löffel Messer Gäbel: Hacksteaks & Rostbratwürtschen
 13:10:00 - 14:01:09 : MoinMoin #1088 - Die Morning Show mit Donnie
 13:55:00 - 14:43:39 : MoinMoin #1089 - Hinter den Kulissen vom Hurricane Festival
-14:15:00 - 15:06:00 : MoinMoin #1090 - Die Morning Show mit Florentin
+14:15:00 - 15:04:03 : MoinMoin #1090 - Die Morning Show mit Florentin
 15:00:00 - 15:32:05 : Let’s Play #1 - Shenmue mit Gregor und Simon
 15:30:00 - 16:06:27 : Let’s Play #2 - Shenmue mit Gregor und Simon
 16:05:00 - 16:40:03 : Let’s Play #3 - Shenmue mit Gregor und Simon
@@ -19,4 +19,4 @@
 19:15:00 - 20:00:00 : Orkenspalter TV # - Was geht bei Pen and Paper, LARP, Comics usw. - Premiere
 20:00:00 - 21:00:00 : Almost Daily # - Der Talk am goldenen Tisch - Premiere
 21:00:00 - 23:12:38 : Kino+ Spezial #8 - Kino+ Spezial | 25 Jahre Arthaus – Wir stellen unsere Lieblingsfilme vor - Premiere
-23:00:00 - 00:00:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
+23:10:00 - 00:10:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
