@@ -1,0 +1,16 @@
+00:00:00 - 02:30:00 : E3 - Live aus Hamburg und Los Angeles - Live
+02:30:00 - 04:00:00 : E3 - Pressekonferenz von Bethesda - Live
+04:00:00 - 06:00:00 : E3 - Live aus Hamburg und Los Angeles
+06:00:00 - 07:30:00 : E3 - Pressekonferenz von Microsoft
+07:30:00 - 08:00:00 : E3 - Live aus Hamburg und Los Angeles
+08:00:00 - 09:30:00 : E3 - Pressekonferenz von Bethesda
+09:30:00 - 10:08:54 : Let’s Play # - Crash Team Racing Nitro-Fueled
+10:15:00 - 10:30:00 : Ninotaku Anime News # - Das Animeupdate
+10:30:00 - 11:15:00 : MoinMoin #1100 - E3-Montag - Premiere
+11:15:00 - 12:45:00 : E3 - Pressekonferenz von Microsoft
+12:45:00 - 14:15:00 : E3 - Pressekonferenz von Bethesda
+14:15:00 - 16:45:00 : E3 - Live aus Hamburg und Los Angeles
+16:45:00 - 18:45:00 : E3 - Live aus Hamburg und Los Angeles
+19:00:00 - 20:30:00 : E3 - Die PC-Gaming-Show - Live
+20:30:00 - 22:00:00 : E3 - Live aus Hamburg und Los Angeles - Live
+22:00:00 - 00:00:00 : E3 - Die Pressekonferenz von Ubisoft - Live
