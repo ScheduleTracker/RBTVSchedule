@@ -11,7 +11,7 @@
 10:45:00 - 11:30:00 : MoinMoin #1102 - E3-Mittwoch
 11:30:00 - 12:15:00 : MoinMoin #1103 - E3-Donnerstag
 12:15:00 - 13:00:00 : MoinMoin #1104 - Moin Moin zum MoFa-Rennen
-13:00:00 - 14:31:00 : E3 - Pressekonferenz von Microsoft
+13:00:00 - 14:43:46 : E3 - Pressekonferenz von Microsoft
 14:30:00 - 16:00:00 : E3 - Pressekonferenz von Bethesda
 16:00:00 - 17:00:00 : E3 - Die PC-Gaming-Show
 17:30:00 - 19:00:00 : E3 - Pressekonferenz von AMD
