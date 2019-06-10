@@ -1,9 +1,9 @@
 00:00:00 - 01:10:53 : MoinMoin #1101 - E3-Dienstag
 00:45:00 - 02:45:00 : E3 - Nintendo Direct & Treehouse
 02:45:00 - 04:42:28 : E3 - Die PC-Gaming-Show
-03:45:00 - 05:15:00 : E3 - Pressekonferenz von AMD
-05:15:00 - 06:45:00 : E3 - Pressekonferenz von Square Enix
-06:45:00 - 07:45:00 : E3 - Live aus Hamburg und Los Angeles inkl. Limited Run Games-PK
+04:45:00 - 06:15:00 : E3 - Pressekonferenz von AMD
+06:15:00 - 07:45:00 : E3 - Pressekonferenz von Square Enix
+07:45:00 - 08:45:00 : E3 - Live aus Hamburg und Los Angeles inkl. Limited Run Games-PK
 08:45:00 - 10:15:00 : E3 - Live aus Hamburg und Los Angeles
 10:15:00 - 10:29:26 : Die Grillshow #161 - Grillstar Saisoneröffnung 2019
 10:30:00 - 11:15:00 : MoinMoin #1102 - E3-Mittwoch - Premiere
