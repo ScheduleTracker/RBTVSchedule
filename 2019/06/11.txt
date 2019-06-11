@@ -1,6 +1,6 @@
 00:00:00 - 01:21:57 : E3 - Pressekonferenz von AMD - Live
 01:30:00 - 03:00:00 : E3 - Recap AMD PK, Infos aus LA, weitere Games & unsere Highlights, Ausblick Square - Live
-03:00:00 - 05:00:00 : E3 - Pressekonferenz von Square Enix - Live
+03:00:00 - 05:21:21 : E3 - Pressekonferenz von Square Enix & Recap - Live
 05:30:00 - 08:42:36 : DashFM #96 - Zukunfts-Allerlei - Premiere
 08:40:00 - 10:02:17 : E3 - Die Pressekonferenz von Ubisoft
 10:05:00 - 10:31:52 : E3 - Ubisoft Recap & Ausblick AMD
@@ -8,6 +8,6 @@
 11:40:00 - 13:37:28 : E3 - Die PC-Gaming-Show
 13:35:00 - 14:38:15 : E3 - Recap PC Gaming, Limited Run Games-PK, Microsoft Interview, Ausblick Ubisoft
 14:40:00 - 16:02:17 : E3 - Die Pressekonferenz von Ubisoft
-16:00:00 - 18:00:00 : E3 - Pressekonferenz von Square Enix
+16:00:00 - 18:21:21 : E3 - Pressekonferenz von Square Enix & Recap
 18:00:00 - 20:00:00 : E3 - Nintendo Direct & Treehouse - Live
 20:00:00 - 00:00:00 : E3 - Live aus Hamburg und Los Angeles - Live
