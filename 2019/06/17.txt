@@ -5,7 +5,7 @@
 09:35:00 - 09:57:29 : VR∙Nerds TV #107 - Face your Fears 2
 09:55:00 - 10:07:47 : Die Grillshow #179 - Currywurst Calzone
 10:10:00 - 10:33:59 : Endgegner #13 - Marvel
-10:30:00 - 11:15:00 : MoinMoin #1105 - Die Morning-Show mit Sofia - Live
+10:30:00 - 11:20:43 : MoinMoin #1105 - Die Morning-Show mit Sofia - Live
 11:15:00 - 11:46:00 : DICED #111 - Die neue Staffel startet
 11:45:00 - 14:23:38 : Let’s Play #7 - Der Herr der Ringe: Die Schlacht um Mittelerde
 14:25:00 - 14:45:30 : Creative Clash #3 - Adobe Rush
@@ -15,5 +15,5 @@
 18:30:00 - 20:00:00 : Game Talk #28 - Der verspielte Talk bei RBTV - Live
 20:00:00 - 20:30:00 : Endgegner #14 - Filmwissen #2 - Premiere
 20:30:00 - 22:30:43 : Let’s Play #6 - Battletoads mit Budi und Ian - Premiere
-22:30:00 - 23:15:00 : MoinMoin #1105 - Die Morning-Show mit Sofia
-23:15:00 - 23:52:38 : Endgegner #11 - Metal
+22:30:00 - 23:20:43 : MoinMoin #1105 - Die Morning-Show mit Sofia
+23:20:00 - 23:57:38 : Endgegner #11 - Metal
