@@ -1,6 +1,3 @@
-00:45:00 - 02:45:00 : Let’s Play #9 - Der Herr der Ringe: Die Schlacht um Mittelerde
-02:45:00 - 03:45:00 : Let’s Play # - Crash Team Racing: Nitro-Fueled - Der Abenteuer-Modus
-03:45:00 - 05:45:00 : Film Fights 12 - Die Film-Debatte für Fortgeschrittene
 05:45:00 - 07:44:45 : Let’s Play # - Team Sonic Racing
 07:45:00 - 08:59:58 : Hängi Hauptquartier - mit Kiara & Viet
 09:00:00 - 09:50:43 : MoinMoin #1105 - Meine größten Fehler beim Autokauf
@@ -8,6 +5,7 @@
 10:35:00 - 11:21:28 : MoinMoin #1107 - Abschied - Marco verlässt Rocket Beans TV
 11:25:00 - 12:15:49 : MoinMoin #1108 - 15000 Euro für eine Kaffeemaschine? Zu Besuch bei Onetake Coffee
 12:15:00 - 13:00:00 : MoinMoin #1109 - Die Morning-Show mit Florentin
+13:00:00 - 15:00:00 : Film Fights 12 - Die Film-Debatte für Fortgeschrittene
 15:30:00 - 16:02:50 : Let’s Play #15 - Shenmue mit Gregor und Simon
 16:00:00 - 16:36:18 : Let’s Play #16 - Shenmue mit Gregor und Simon
 16:40:00 - 17:15:55 : Let’s Play #17 - Shenmue mit Gregor und Simon
@@ -16,7 +14,7 @@
 18:20:00 - 18:59:53 : Let’s Play #20 - Shenmue mit Gregor und Simon
 19:00:00 - 19:26:25 : Die Grillshow #180 - Burger Battle - Premiere
 19:15:00 - 20:00:00 : Orkenspalter TV #35 - Was geht bei Pen and Paper, LARP, Comics usw. - Premiere
-20:00:00 - 21:11:00 : Almost Daily #382 - Der Mond, Batman und Robin Hood
+20:00:00 - 21:13:02 : Almost Daily #382 - Der Mond, Batman und Robin Hood
 21:00:00 - 22:49:06 : New European Championship Wrestling #27 - EXTREME 19 - Teil 1 - Premiere
 22:50:00 - 23:50:00 : c't uplink #280 - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
 23:50:00 - 00:43:03 : Hoaxilla - Der skeptische Podcast #231 - Der Piltdown-Mensch - Premiere
