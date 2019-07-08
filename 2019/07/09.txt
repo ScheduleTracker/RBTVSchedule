@@ -1,10 +1,14 @@
 00:00:00 - 04:04:36 : DashFM #100 - Spezial-Stream - Premiere
 04:05:00 - 05:30:35 : Zocken mit Denzel # - Mad TV
-05:30:00 - 07:20:00 : Zocken mit Denzel # - Minecraft
-07:30:00 - 09:30:00 : After Dark #5 - Alien: Isolation
-09:30:00 - 10:25:03 : Chat Duell #3 - RBTV vs. Y-Kollektiv
+05:30:00 - 07:20:46 : Zocken mit Denzel # - Minecraft
+07:20:00 - 07:53:05 : Endgegner #9 - Herr der Ringe
+07:50:00 - 08:29:13 : After Dark # - Pacify
+08:30:00 - 09:00:58 : Pfiffige Ziffern #5 - Die Amazon-Preise-Rateshow
+09:00:00 - 09:36:11 : Speedrundale #81 - Asterix & Obelix (Any %) Speedrun von Traviktox
+09:35:00 - 10:30:03 : Chat Duell #3 - RBTV vs. Y-Kollektiv
 10:30:00 - 11:15:00 : MoinMoin #1121 - Die Morning-Show mit Gregor - Live
 11:15:00 - 12:15:00 : Hängi Hauptquartier - Der Buschfunk - Luca und Tobi zocken! - Live
+12:15:00 - 14:15:00 : After Dark #5 - Alien: Isolation
 15:00:00 - 17:00:00 : Knallhart Durchgenommen #28 - Sekiro: Shadows Die Twice - Live
 17:00:00 - 18:30:00 : Zocken mit Denzel # - Minecraft - Live
 18:30:00 - 20:00:00 : Reality Bytes #6 - TBA - TBA - Live
