@@ -1,9 +1,8 @@
 00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 04:30:00 : Game Talk #31 - Euer gutes Gaming-Gespräch
-04:30:00 - 06:30:00 : After Dark #
-06:30:00 - 07:30:00 : Chat Duell #6 - Themenfolge: Game of Thrones
-07:30:00 - 08:31:13 : Let’s Play # - Dota Underlords mit Viet und Steffen
-08:30:00 - 10:28:33 : Let’s Play # - Raft mit Nils
+03:00:00 - 03:45:00 : MoinMoin #1135 - Die Morning-Show mit Sofia
+03:45:00 - 05:15:00 : Game Talk #31 - Euer gutes Gaming-Gespräch
+05:15:00 - 06:15:00 : Chat Duell #6 - Themenfolge: Game of Thrones
+06:15:00 - 08:13:33 : Let’s Play # - Raft mit Nils
 10:30:00 - 12:00:00 : MoinMoin #1136 - die Morning-Show mit Colin - Live
 17:00:00 - 20:00:00 : Zocken mit Denzel # - Live
 20:00:00 - 20:30:00 : Du bist! #6 - Belratti mit Mark, Lars, Lisa & Fabian Kr. - Premiere
