@@ -1,8 +1,9 @@
-00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 03:45:00 : MoinMoin #1135 - Die Morning-Show mit Sofia
-03:45:00 - 05:15:00 : Game Talk #31 - Euer gutes Gaming-Gespräch
-05:15:00 - 06:15:00 : Chat Duell #6 - Themenfolge: Game of Thrones
-06:15:00 - 08:13:33 : Let’s Play # - Raft mit Nils
+01:25:00 - 02:10:00 : MoinMoin #1135 - Die Morning-Show mit Sofia
+02:10:00 - 03:40:00 : Game Talk #31 - Euer gutes Gaming-Gespräch
+03:40:00 - 04:40:00 : Chat Duell #6 - Themenfolge: Game of Thrones
+04:40:00 - 06:38:33 : Let’s Play # - Raft mit Nils
+06:40:00 - 07:45:57 : Almost Daily #386 - Schlafen, Hungern & Fliegen
+07:45:00 - 08:22:38 : Endgegner #11 - Metal
 08:15:00 - 10:14:23 : Zocken mit Denzel # - The Surge 2
 10:15:00 - 10:26:11 : Ninotaku Anime News #183 - One Piece X Dr Stone, Neuer My Hero Academia-Manga, Evangelion 3.0 + 1.0
 10:30:00 - 12:00:00 : MoinMoin #1136 - die Morning-Show mit Colin - Live
