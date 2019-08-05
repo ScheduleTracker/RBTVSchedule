@@ -2,7 +2,7 @@
 03:00:00 - 05:16:55 : Rage of Empires #29 - Eroberung vom Planet der Affen
 05:15:00 - 07:21:23 : Rage of Empires #30 - Lasst uns froh und munter bauen!
 07:20:00 - 09:52:49 : Rage of Empires #32 - Die Ruhe nach dem Sturm
-10:30:00 - 11:50:05 : MoinMoin #1140 - Die Morning-Show mit Simon & Ian - Live
+10:30:00 - 11:50:05 : MoinMoin #1140 - Vom Kampf im Straßenverkehr und Festival-Geschichten - Live
 11:45:00 - 12:45:02 : Speedrundale #84 - Yooka-Laylee von Hedweg
 12:45:00 - 16:04:16 : Pen & Paper - T.E.A.R.S.PUNK: Quest for Chaos - Teil 2
 16:05:00 - 16:21:53 : Die Grillshow #185 - Cordon Bloener
@@ -10,5 +10,5 @@
 17:00:00 - 20:00:00 : Zocken mit Denzel # - Live
 20:00:00 - 21:00:00 : Chat Duell #7 - RBTV vs Grischistudios - Live
 21:00:00 - 23:00:00 : Jugendzimmer # - Das große Sommer-Skaten - Live
-23:00:00 - 00:20:05 : MoinMoin #1140 - Die Morning-Show mit Simon & Ian
+23:00:00 - 00:20:05 : MoinMoin #1140 - Vom Kampf im Straßenverkehr und Festival-Geschichten
 23:45:00 - 02:45:00 : Zocken mit Denzel #
