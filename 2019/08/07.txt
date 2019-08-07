@@ -3,7 +3,7 @@
 05:10:00 - 06:19:02 : Almost Daily #388 - Bauchgefühle
 06:20:00 - 08:19:42 : Creepjack #23 - Warcraft 3 mit Florentin & Marco
 08:10:00 - 10:33:14 : Creepjack #24 - Warcraft 3 mit Florentin & Marco
-10:30:00 - 11:15:00 : MoinMoin #1142 - die Morning-Show mit Lars - Live
+10:30:00 - 11:20:17 : MoinMoin #1142 - die Morning-Show mit Lars - Live
 11:15:00 - 12:15:00 : Hängi Hauptquartier - Der Buschfunk - Mirko und Hannes zocken! - Live
 12:15:00 - 13:15:00 : Hängi Hauptquartier - Bastelstunde mit Laura & Lydia - Live
 13:15:00 - 14:40:47 : MeMote #6 - Super Mario Maker 2
@@ -11,5 +11,5 @@
 15:30:00 - 17:00:00 : Let’s Play #1 - Metal Wolf Chaos XD mit Nils - Live
 17:00:00 - 20:00:00 : Zocken mit Denzel # - Minecraft - Live
 20:00:00 - 22:00:00 : Let’s Play # - Age of Wonders: Planetfall - Live
-22:00:00 - 22:45:00 : MoinMoin #1142 - die Morning-Show mit Lars
+22:00:00 - 22:50:17 : MoinMoin #1142 - die Morning-Show mit Lars
 22:45:00 - 00:15:00 : Let’s Play #1 - Metal Wolf Chaos XD mit Nils
