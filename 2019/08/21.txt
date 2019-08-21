@@ -12,10 +12,10 @@
 11:30:00 - 11:45:00 : Der Start mit Dennis und Nils - Live
 11:45:00 - 12:00:00 : Im Gespräch mit Victor Kislyi von Wargaming - Live
 12:00:00 - 12:30:00 : Call of Duty: Modern Warfare - Live
-12:30:00 - 13:00:00 : NBA 2K20 mit Eddy - Live
+12:30:00 - 13:00:00 : FIFA 20 mit Lars & Sandro - Live
 13:00:00 - 13:30:00 : Doom: Eternal mit Kiara, Dennis und Nils - Live
 13:30:00 - 14:00:00 : Im Gespräch mit Suda51 - Live
-14:00:00 - 14:30:00 : Monster Hunter: Iceborne mit Eddy und Gregor - Live
+14:00:00 - 14:30:00 : Monster Hunter: Iceborne mit Gregor - Live
 14:30:00 - 15:00:00 : Mount & Blade II: Bannerlord mit Dennis und Nils - Live
 15:00:00 - 15:30:00 : Dragon Ball Z: Kakarot mit Gregor und Viet - Live
 15:30:00 - 16:00:00 : Vampire: The Masquerade - Bloodlines 2 mit Gregor und Dennis - Live
@@ -30,5 +30,5 @@
 22:20:00 - 22:35:00 : Der Start mit Dennis und Nils
 22:35:00 - 22:50:00 : Im Gespräch mit Victor Kislyi von Wargaming
 22:50:00 - 23:20:00 : Call of Duty: Modern Warfare
-23:20:00 - 23:50:00 : NBA 2K20 mit Eddy
+23:20:00 - 23:50:00 : FIFA 20 mit Lars & Sandro
 23:50:00 - 00:20:00 : Doom: Eternal mit Kiara, Dennis und Nils
