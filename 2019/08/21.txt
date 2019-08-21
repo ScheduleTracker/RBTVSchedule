@@ -11,8 +11,8 @@
 10:15:00 - 11:30:00 : Debatt(l)e Royale - Live
 11:30:00 - 11:45:00 : Der Start mit Dennis und Nils - Live
 11:45:00 - 12:00:00 : Im Gespräch mit Victor Kislyi von Wargaming - Live
-12:00:00 - 12:30:00 : Call of Duty: Modern Warfare - Live
-12:30:00 - 13:00:00 : FIFA 20 mit Lars & Sandro - Live
+12:15:00 - 12:40:00 : Call of Duty: Modern Warfare - Live
+12:40:00 - 13:00:00 : FIFA 20 mit Lars & Sandro - Live
 13:00:00 - 13:30:00 : Doom: Eternal mit Kiara, Dennis und Nils - Live
 13:30:00 - 14:00:00 : Im Gespräch mit Suda51 - Live
 14:00:00 - 14:30:00 : Monster Hunter: Iceborne mit Gregor - Live
@@ -29,6 +29,6 @@
 21:05:00 - 22:20:00 : Debatt(l)e Royale
 22:20:00 - 22:35:00 : Der Start mit Dennis und Nils
 22:35:00 - 22:50:00 : Im Gespräch mit Victor Kislyi von Wargaming
-22:50:00 - 23:20:00 : Call of Duty: Modern Warfare
-23:20:00 - 23:50:00 : FIFA 20 mit Lars & Sandro
+22:50:00 - 23:15:00 : Call of Duty: Modern Warfare
+23:20:00 - 23:40:00 : FIFA 20 mit Lars & Sandro
 23:50:00 - 00:20:00 : Doom: Eternal mit Kiara, Dennis und Nils
