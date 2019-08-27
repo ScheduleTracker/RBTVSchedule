@@ -1,8 +1,7 @@
-00:10:00 - 02:29:15 : Rage of Empires #45 - Das RTS Format, heute mit Nili-Power
-02:30:00 - 04:30:57 : Rage of Empires #46 - DAS RTS-Format
-04:30:00 - 06:37:15 : Rage of Empires #47 - Powered by Intel Optane
-06:40:00 - 08:41:09 : Rage of Empires #48 - DAS RTS-Format - Presented by Intel Optane
-08:40:00 - 11:14:10 : Rage of Empires #49 - DAS RTS-Format - Presented by Intel Optane
+00:20:00 - 02:39:15 : Rage of Empires #45 - Das RTS Format, heute mit Nili-Power
+02:40:00 - 04:40:57 : Rage of Empires #46 - DAS RTS-Format
+04:40:00 - 06:47:15 : Rage of Empires #47 - Powered by Intel Optane
+06:50:00 - 08:51:09 : Rage of Empires #48 - DAS RTS-Format - Presented by Intel Optane
 10:30:00 - 11:15:00 : MoinMoin #1160 - Die Morning-Show mit Sofia - Live
 17:00:00 - 18:30:00 : Bohndesliga #4 - 3. Spieltag der Fußball-Bundesliga in der Analyse - Live
 19:00:00 - 20:00:00 : Game Talk #36 - Dein Gaming-Talk am Montagabend - Live
