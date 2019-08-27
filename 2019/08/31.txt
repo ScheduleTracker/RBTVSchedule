@@ -1,15 +1,13 @@
-01:00:00 - 03:00:00 : Zocken mit Denzel #
-03:00:00 - 05:00:00 : Knallhart Durchgenommen #5 - Control
-05:00:00 - 08:00:00 : Let’s Play # - World of Warcraft Classic
-08:00:00 - 10:00:00 : Alles mögliche Fights 4
-09:00:00 - 09:52:34 : MoinMoin #1155 - Urlaub früher vs Urlaub heute, Ärger im Nachtzug
-09:45:00 - 10:30:00 : MoinMoin #1156 - Die Morning-Show mit Mark
-10:30:00 - 11:15:00 : MoinMoin #1157 - Die Morning-Show mit Nils?
-11:15:00 - 12:00:00 : MoinMoin #1158 - Die Morning-Show mit Etienne
-12:15:00 - 13:00:00 : MoinMoin #1159 - Die Morning-Show mit Florentin
-13:00:00 - 15:11:00 : Knallhart Durchgenommen #3 - Sekiro: Shadows Die Twice
-15:15:00 - 16:21:53 : Knallhart Durchgenommen #4 - Sekiro: Shadows Die Twice
-16:20:00 - 18:59:46 : Knallhart Durchgenommen #5 - Sekiro: Shadows Die Twice
+01:25:00 - 03:25:00 : Zocken mit Denzel #
+03:25:00 - 05:25:00 : Knallhart Durchgenommen #5 - Control
+05:25:00 - 08:25:00 : Let’s Play # - World of Warcraft Classic
+08:25:00 - 10:25:00 : Alles mögliche Fights 4
+10:25:00 - 11:10:00 : MoinMoin #1156 - Die Morning-Show mit Mark
+11:10:00 - 11:55:00 : MoinMoin #1157 - Die Morning-Show mit Nils?
+11:55:00 - 12:40:00 : MoinMoin #1158 - Die Morning-Show mit Etienne
+12:40:00 - 13:25:00 : MoinMoin #1159 - Die Morning-Show mit Florentin
+13:25:00 - 15:36:00 : Knallhart Durchgenommen #3 - Sekiro: Shadows Die Twice
+15:35:00 - 16:41:53 : Knallhart Durchgenommen #4 - Sekiro: Shadows Die Twice
 19:00:00 - 19:15:00 : Die Grillshow # - Frisches Brutzliges Freunde - Premiere
 19:15:00 - 19:55:00 : Orkenspalter TV # - Folge der VorWoche
 19:55:00 - 20:00:00 : Content Bros # - Jay & Tim & die Popkultur in irrer Grafik - Premiere
