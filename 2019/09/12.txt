@@ -4,7 +4,7 @@
 03:25:00 - 04:37:11 : Zocken mit Denzel #21 - Stonekeep
 04:40:00 - 04:56:08 : Luksan Wunder #4 - Sketch me If you can!
 04:55:00 - 05:51:10 : Hängi Hauptquartier - Der Buschfunk - Mirko und Gast zocken!
-05:50:00 - 06:01:13 : Die Grillshow #181 - Paprika Schiffchen
+05:50:00 - 06:06:43 : VR∙Nerds TV #116 - Touring Karts VR - Wie Mario Kart?
 06:00:00 - 08:00:00 : Spiele mit Bart #4 - Akte X - Das Spiel mit besonders schönem Bart
 08:00:00 - 10:30:00 : Let’s Play #1 - Borderlands 3
 10:30:00 - 11:15:00 : MoinMoin #1168 - Die Morning-Show mit Etienne - Live
@@ -12,5 +12,5 @@
 17:00:00 - 19:00:00 : Creepjack #34 - Warcraft mit Florentin und Jannes - Live
 19:00:00 - 20:00:00 : Verflixxte Klixx #95 - Die YouTube-Klicks-Rateshow mit Lars und Florentin - Live
 20:00:00 - 22:00:00 : Kino+ # - Alles rund ums Kino mit Daniel - Live
-23:00:00 - 23:45:00 : MoinMoin #1168 - Die Morning-Show mit Etienne
-23:45:00 - 05:30:00 : Let’s Play #2 - BESN & Borderlands 3
+22:00:00 - 22:45:00 : MoinMoin #1168 - Die Morning-Show mit Etienne
+22:45:00 - 04:30:00 : Let’s Play #2 - BESN & Borderlands 3
