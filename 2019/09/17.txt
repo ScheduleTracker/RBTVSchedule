@@ -1,9 +1,6 @@
 00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 03:45:00 : MoinMoin #1170 - Die Morning-Show mit Budi
-03:45:00 - 05:15:00 : Bohndesliga #5 - 4. Spieltag der Fußball-Bundesliga in der Analyse
-05:15:00 - 06:45:00 : Game Talk #34 - Dein Gaming-Talk am Montagabend
-06:45:00 - 07:15:21 : Let’s Play # - Children of Morta: Das Action-Rollenspiel angespielt!
-07:15:00 - 07:32:00 : Let’s Play # - Luigi's Mansion 3
+03:00:00 - 04:30:00 : Bohndesliga #5 - 4. Spieltag der Fußball-Bundesliga in der Analyse
+06:00:00 - 07:30:00 : Game Talk #34 - Dein Gaming-Talk am Montagabend
 07:30:00 - 09:30:00 : Knallhart Durchgenommen # - Catherine: Full Body mit Kiara und Viet
 09:30:00 - 10:30:00 : Nerd Quiz #2
 10:30:00 - 11:15:00 : MoinMoin #1171 - Die Morning-Show mit Andreas - Live
