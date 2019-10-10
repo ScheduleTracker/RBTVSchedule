@@ -7,10 +7,10 @@
 10:40:00 - 11:28:34 : MoinMoin #1184 - Was zum Geier? Urlaub in Kirgistan & Der Bartgeier als Umweltpolizei
 11:30:00 - 12:19:09 : MoinMoin #1185 - Die große Rocket Beans Doppelgängershow
 12:15:00 - 13:03:52 : MoinMoin #1186 - Ich reite einen Elefanten in Frankreich
-13:00:00 - 13:54:10 : MoinMoin #1187 - Die wahre Bedeutung von Songtexten
-13:45:00 - 14:30:00 : MoinMoin #1188 - Die Morning-Show mit Florentin
-14:30:00 - 16:00:21 : Knallhart Durchgenommen #15 - Sekiro: Shadows Die Twice
-16:00:00 - 18:01:24 : Knallhart Durchgenommen #16 - Sekiro: Shadows Die Twice
+13:05:00 - 13:59:10 : MoinMoin #1187 - Die wahre Bedeutung von Songtexten
+14:00:00 - 14:45:00 : MoinMoin #1188 - Die Morning-Show mit Florentin
+15:30:00 - 17:00:21 : Knallhart Durchgenommen #15 - Sekiro: Shadows Die Twice
+17:00:00 - 19:01:24 : Knallhart Durchgenommen #16 - Sekiro: Shadows Die Twice
 19:00:00 - 19:15:00 : Die Grillshow # - Frisches Brutzliges Freunde - Premiere
 19:15:00 - 19:47:24 : Orkenspalter TV #43 - Die neue DnD5-Einsteigerbox & Der Große Indienschwindel
 19:55:00 - 19:59:28 : Content Bros #12 - Das Ende - Premiere
@@ -18,4 +18,4 @@
 21:00:00 - 21:15:00 : Luksan Wunder # - Sketch me If you can! - Premiere
 21:15:00 - 22:15:00 : c't uplink # - Eine neue Runde Videopodcast mit Computerexpertise - Premiere
 22:15:00 - 23:03:01 : Hoaxilla - Der skeptische Podcast #96 - Das Turiner Grabtuch - Premiere
-23:15:00 - 03:14:56 : Knallhart Durchgenommen #1 - Life is Strange 2
+23:00:00 - 02:59:56 : Knallhart Durchgenommen #1 - Life is Strange 2
