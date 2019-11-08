@@ -6,7 +6,7 @@
 11:55:00 - 12:45:20 : MoinMoin #1204 - Kleine Jungs, große Bagger
 12:45:00 - 13:34:07 : MoinMoin #1205 - Q&A - Zu alt für Instagram, Musikprogramme & Hintern zeigen
 13:35:00 - 14:42:36 : MoinMoin #1206 - Rosinen, Blumenkohl & Harzer Käse - Hui oder Pfui: Was schmeckt euch?
-14:45:00 - 15:32:41 : MoinMoin #1207 - Pen & Paper Pangasius Mitspieler 3 + kleines Q&A
+14:40:00 - 15:27:41 : MoinMoin #1207 - Pen & Paper Pangasius Mitspieler 3 + kleines Q&A
 15:30:00 - 17:01:20 : Knallhart Durchgenommen #23 - Sekiro: Shadows Die Twice
 17:00:00 - 19:05:49 : Knallhart Durchgenommen #24 - Sekiro: Shadows Die Twice
 19:00:00 - 19:11:00 : Die Grillshow #198 - Butter Chicken - Premiere
@@ -15,5 +15,5 @@
 20:00:00 - 21:07:38 : Almost Daily # - Der Talk am goldenen Tisch - Premiere
 21:00:00 - 21:16:02 : Luksan Wunder #13 - Sketch me If you can! - Premiere
 21:15:00 - 22:05:48 : c't uplink #300 - Galaxy Fold, Windows 10 1909 und Raspi-4-Overclocking - Premiere
-22:15:00 - 23:15:00 : Hoaxilla - Der skeptische Podcast #240 - Blair Witch Project - Premiere
-23:15:00 - 01:24:57 : Knallhart Durchgenommen #9 - Control
+22:05:00 - 23:05:00 : Hoaxilla - Der skeptische Podcast #240 - Blair Witch Project - Premiere
+23:05:00 - 01:14:57 : Knallhart Durchgenommen #9 - Control
