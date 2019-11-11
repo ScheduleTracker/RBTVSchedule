@@ -2,8 +2,6 @@
 03:00:00 - 03:30:00 : Let’s Play # - Sport-Battle mit Tobi und Niko
 03:30:00 - 03:47:47 : VR∙Nerds TV #120 - Asgard's Wrath
 03:45:00 - 07:45:00 : Let’s Play #3 - Death Stranding
-05:30:00 - 07:53:41 : Knallhart Durchgenommen #12 - The Surge 2
-07:50:00 - 07:58:17 : IRGENDWIE SO # Spezial: Was war wann bei Terminator - Spezial: Was war wann bei Terminator
 08:00:00 - 09:30:00 : Bohndesliga #12 - 11. Spieltag der Fußball-Bundesliga in der Analyse
 09:30:00 - 10:30:00 : Game Talk 42 - Dein Gaming-Talk am Montagabend
 10:30:00 - 11:15:00 : MoinMoin #1209 - Die Morning-Show mit Lars - Live
@@ -11,6 +9,6 @@
 11:30:00 - 12:30:00 : Löffel.Messer.Gäbel - Live
 19:00:00 - 20:01:00 : Reality Bytes #14 - Die VR-Show bei RBTV - Die VR-Show bei RBTV - Premiere
 20:00:00 - 20:49:16 : Du bist! #21 - Montagsmaler mit Florentin, Trant, Sarah, & Fabian Kr. - Premiere
-20:45:00 - 23:00:00 : Let’s Play #2 - Gibbous mit Nils und Simon - Live
-23:00:00 - 23:45:00 : MoinMoin #1209 - Die Morning-Show mit Lars
-23:45:00 - 00:46:00 : Reality Bytes #14 - Die VR-Show bei RBTV - Die VR-Show bei RBTV
+20:50:00 - 23:05:00 : Let’s Play #2 - Gibbous mit Nils und Simon - Live
+23:05:00 - 23:50:00 : MoinMoin #1209 - Die Morning-Show mit Lars
+23:50:00 - 00:51:00 : Reality Bytes #14 - Die VR-Show bei RBTV - Die VR-Show bei RBTV
