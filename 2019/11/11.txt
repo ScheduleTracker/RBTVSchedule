@@ -4,7 +4,7 @@
 07:00:00 - 09:56:16 : Creepjack #22 - Das Warcraft-Community-Turnier mit Jannes
 10:00:00 - 10:21:53 : RBTV On Tour - Almost Plaily on Tour - Fabian Krane berichtet von der Nürnberger Spielemesse
 10:25:00 - 10:29:51 : Content Bros #15 - Ist The Outer Worlds ein gutes Spiel?
-10:30:00 - 11:30:00 : MoinMoin #1208 - Die Morning-Show mit Sofia - Live
+10:30:00 - 11:28:56 : MoinMoin #1208 - Die Morning-Show mit Sofia - Live
 11:30:00 - 15:30:00 : Let’s Play #3 - Death Stranding - Live
 15:30:00 - 16:27:27 : Speedrundale #98 - Verrückter Spezial-Speedrun! Zelda: Majora's Mask WiiU von Thiefbug
 16:25:00 - 16:55:55 : DICED #121 - Die Neue Staffel
@@ -12,5 +12,5 @@
 18:30:00 - 19:00:00 : Let’s Play # - Sport-Battle mit Tobi und Niko - Live
 19:00:00 - 20:00:00 : Game Talk 42 - Dein Gaming-Talk am Montagabend - Live
 20:00:00 - 22:00:00 : Zocken mit Denzel # - RimWorld - Live
-22:00:00 - 23:00:00 : MoinMoin #1208 - Die Morning-Show mit Sofia
+22:00:00 - 22:58:56 : MoinMoin #1208 - Die Morning-Show mit Sofia
 23:00:00 - 23:50:52 : Du bist! #19 - Herr der Ringe - Teil 2
