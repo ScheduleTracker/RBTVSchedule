@@ -1,9 +1,8 @@
-00:00:00 - 03:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 03:30:00 : Let’s Play # - Sport-Battle mit Tobi und Niko
-03:30:00 - 03:47:47 : VR∙Nerds TV #120 - Asgard's Wrath
-03:45:00 - 07:45:00 : Let’s Play #3 - Death Stranding
-08:00:00 - 09:30:00 : Bohndesliga #12 - 11. Spieltag der Fußball-Bundesliga in der Analyse
-09:30:00 - 10:30:00 : Game Talk 42 - Dein Gaming-Talk am Montagabend
+02:50:00 - 03:20:00 : Let’s Play # - Sport-Battle mit Tobi und Niko
+03:20:00 - 03:37:47 : VR∙Nerds TV #120 - Asgard's Wrath
+03:35:00 - 07:35:00 : Let’s Play #3 - Death Stranding
+07:35:00 - 09:05:00 : Bohndesliga #12 - 11. Spieltag der Fußball-Bundesliga in der Analyse
+09:05:00 - 10:05:00 : Game Talk 42 - Dein Gaming-Talk am Montagabend
 10:30:00 - 11:15:00 : MoinMoin #1209 - Die Morning-Show mit Lars - Live
 11:15:00 - 11:30:00 : Behind the Beans - Chat In - Live
 11:30:00 - 12:30:00 : Löffel.Messer.Gäbel - Live
