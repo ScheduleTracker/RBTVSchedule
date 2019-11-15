@@ -4,8 +4,8 @@
 04:50:00 - 05:01:13 : Die Grillshow #196 - 3 kg ganzer Kabeljau vom Smoker
 05:00:00 - 06:58:34 : Let’s Play #1 - Stick Fight: The Game, Joggernauts, The Duck Game - Game Two zockt
 07:00:00 - 10:00:39 : Rage of Empires #0 - Spezial: Age of Empires II: Definitive Edition - live aus Berlin
-10:30:00 - 11:15:00 : MoinMoin #1212 - Die Morning-Show mit Florentin - Live
-11:15:00 - 13:00:00 : Let’s Play #14 - Magic mit Florentin - Live
+10:30:00 - 11:20:00 : MoinMoin #1212 - Die Morning-Show mit Florentin - Live
+11:20:00 - 13:00:00 : Let’s Play #14 - Magic mit Florentin - Live
 13:00:00 - 16:00:00 : Knallhart Durchgenommen #1 - Star Wars Jedi: Fallen Order - Live
 16:00:00 - 17:45:00 : Let’s Play # - Pokémon Schwert & Schild mit Ilyass und Viet - Live
 17:50:00 - 18:01:00 : Stories of Games: Inklusion - Premiere
@@ -13,5 +13,5 @@
 19:00:00 - 20:00:00 : Pen & Paper - Pre-Show - Live
 20:00:00 - 20:30:00 : Game Two #137 - Planet Zoo, Need For Speed: Heat & zur Besuch auf der X019 - Premiere
 20:30:00 - 23:00:00 : Pen & Paper - Pangasius - Live
-23:00:00 - 23:45:00 : MoinMoin #1212 - Die Morning-Show mit Florentin
+23:00:00 - 23:50:00 : MoinMoin #1212 - Die Morning-Show mit Florentin
 23:45:00 - 01:33:57 : Let’s Play #5 - Death Stranding
