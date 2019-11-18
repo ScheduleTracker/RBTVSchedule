@@ -1,11 +1,10 @@
 00:00:00 - 01:30:00 : Nerd of the Rings #2 - Duell um Mittelerde: Anton vs Marah
 01:30:00 - 03:15:00 : Knallhart Durchgenommen #8 - Blasphemous mit Colin und Eddy
-03:30:00 - 04:23:56 : Nerd Quiz #7 - Halbfinale 1 mit Viet vs. Trant vs Matthias
-04:20:00 - 05:19:28 : Nerd Quiz #8 - Halbfinale 2 mit Schröck vs. Colin vs. Fabian
-05:20:00 - 05:24:51 : Content Bros #15 - Ist The Outer Worlds ein gutes Spiel?
-05:30:00 - 06:30:00 : Let’s Play # - Der Buschfunk
-06:30:00 - 09:00:00 : Let’s Play #11 - Pokémon Nuzlocke mit Ilyass & Viet
-09:00:00 - 10:00:00 : Steinmatch - Die Show mit den Legosteinen
+03:15:00 - 04:08:56 : Nerd Quiz #7 - Halbfinale 1 mit Viet vs. Trant vs Matthias
+04:05:00 - 05:04:28 : Nerd Quiz #8 - Halbfinale 2 mit Schröck vs. Colin vs. Fabian
+05:05:00 - 06:05:00 : Let’s Play # - Der Buschfunk
+06:05:00 - 08:35:00 : Let’s Play #11 - Pokémon Nuzlocke mit Ilyass & Viet
+08:35:00 - 09:35:00 : Steinmatch - Die Show mit den Legosteinen
 10:30:00 - 11:15:00 : MoinMoin #1216 - Die Morning-Show mit Nils - Live
 11:15:00 - 12:15:00 : Let’s Play # - Der Buschfunk - Live
 15:30:00 - 17:00:00 : Let’s Play # - Game Two: Mini-Unspielbar - Live
