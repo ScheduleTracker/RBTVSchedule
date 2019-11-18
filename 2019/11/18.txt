@@ -3,7 +3,8 @@
 04:30:00 - 06:30:32 : Creepjack #4 - Warcraft mit Florentin, Jannes & Marco
 06:30:00 - 08:25:30 : Creepjack #5 - Warcraft mit Jannes & Marco
 08:25:00 - 10:28:32 : Creepjack #6 - Warcraft mit Jannes
-10:30:00 - 11:15:00 : MoinMoin #1213 - Die Morning-Show mit Simon - Live
+10:30:00 - 11:30:00 : MoinMoin #1213 - Die Morning-Show mit Simon - Live
+11:30:00 - 11:59:33 : Endgegner #12 - Simpsons
 12:00:00 - 15:30:00 : Let’s Play #2 - Star Wars Jedi: Fallen Order mit Nils und Simon - Live
 15:30:00 - 17:00:00 : Let’s Play #1 - Let´s Play - Football Manager 2020 - Premiere
 17:00:00 - 18:30:00 : Bohndesliga #13 - Nationalmannschaftsspezial - Live
@@ -11,5 +12,5 @@
 19:00:00 - 20:00:00 : Game Talk 43 - Dein Gaming-Talk am Montagabend - Live
 20:00:00 - 20:30:00 : Endgegner #1 - Star Wars - Premiere
 20:30:00 - 23:00:00 : Spiele mit After ... Dark: Luigis Mansion 3 - Live
-23:00:00 - 23:45:00 : MoinMoin #1213 - Die Morning-Show mit Simon
+23:00:00 - 00:00:00 : MoinMoin #1213 - Die Morning-Show mit Simon
 23:45:00 - 00:11:36 : Behind the Beans - Chat In mit Anton
