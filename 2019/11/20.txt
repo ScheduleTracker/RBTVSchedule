@@ -1,9 +1,9 @@
-00:15:00 - 03:15:00 : Knallhart Durchgenommen #3 - Star Wars Jedi: Fallen Order
-03:15:00 - 04:34:00 : Almost Daily #400 - 400. Folge: Die großen Almost Daily Charts
-04:35:00 - 06:08:05 : Knallhart Durchgenommen #11 - The Surge 2
-06:05:00 - 07:31:46 : Speedrundale #97 - Das große Resident Evil 2 Speedrun-Duell Race Simon vs. Gregor
-07:30:00 - 08:00:00 : Behind the Beans - Chat In
-08:00:00 - 10:15:00 : Let’s Play # - Brutal Doom
+00:30:00 - 03:30:00 : Knallhart Durchgenommen #3 - Star Wars Jedi: Fallen Order
+03:30:00 - 04:49:00 : Almost Daily #400 - 400. Folge: Die großen Almost Daily Charts
+04:50:00 - 06:23:05 : Knallhart Durchgenommen #11 - The Surge 2
+06:20:00 - 07:46:46 : Speedrundale #97 - Das große Resident Evil 2 Speedrun-Duell Race Simon vs. Gregor
+07:45:00 - 08:15:00 : Behind the Beans - Chat In
+08:15:00 - 10:30:00 : Let’s Play # - Google Stadia Ersteindruck
 10:30:00 - 11:15:00 : MoinMoin #1215 - Die Morning-Show mit Hannes - Live
 11:15:00 - 12:15:00 : Let’s Play # - Der Buschfunk - Live
 12:15:00 - 14:00:00 : Knallhart Durchgenommen #8 - Blasphemous mit Colin und Eddy - Live
@@ -11,5 +11,6 @@
 18:30:00 - 20:00:00 : Nerd of the Rings #2 - Duell um Mittelerde: Anton vs Marah - Live
 20:00:00 - 20:45:00 : Neue Deutsche Abendunterhaltung #3 - Die Show aus dem Bällebad - Premiere
 21:00:00 - 22:00:00 : Steinmatch - Die Show mit den Legosteinen - Live
-22:30:00 - 23:15:00 : MoinMoin #1215 - Die Morning-Show mit Hannes
-23:15:00 - 00:00:00 : Neue Deutsche Abendunterhaltung #3 - Die Show aus dem Bällebad
+22:00:00 - 22:45:00 : MoinMoin #1215 - Die Morning-Show mit Hannes
+22:45:00 - 23:30:00 : Neue Deutsche Abendunterhaltung #3 - Die Show aus dem Bällebad
+23:30:00 - 01:00:00 : Nerd of the Rings #2 - Duell um Mittelerde: Anton vs Marah
