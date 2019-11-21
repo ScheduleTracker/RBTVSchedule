@@ -6,7 +6,7 @@
 06:40:00 - 06:54:18 : VR∙Nerds TV #123 - Thief Simulator
 07:00:00 - 09:31:56 : Let’s Play #11 - Pokémon Nuzlocke mit Ilyass & Viet
 09:30:00 - 10:37:50 : Steinmatch - Die Show mit den Legosteinen
-10:30:00 - 11:15:00 : MoinMoin #1216 - Die Morning-Show mit Etienne - Live
+10:30:00 - 11:17:58 : MoinMoin #1216 - Die Morning-Show mit Etienne - Live
 11:15:00 - 12:15:00 : Let’s Play # - Der Buschfunk - Live
 12:15:00 - 14:31:00 : Game Talk Spezial - Google Stadia Ersteindruck - Google Stadia Ersteindruck
 15:30:00 - 17:00:00 : Let’s Play # - Mini-Unspielbar - Live
@@ -14,5 +14,5 @@
 19:00:00 - 19:15:00 : Game Talk Spezial - Half-Life: Alyx-Reveal - Half-Life: Alyx-Reveal - Live
 19:15:00 - 20:15:00 : Verflixxte Klixx #101 - Die YouTube-Klicks-Rateshow mit Lars und Florentin - Live
 20:15:00 - 22:15:00 : Kino+ # - Alles rund ums Kino mit Daniel - Premiere
-22:00:00 - 22:45:00 : MoinMoin #1216 - Die Morning-Show mit Etienne
+22:00:00 - 22:47:58 : MoinMoin #1216 - Die Morning-Show mit Etienne
 22:45:00 - 00:15:00 : Let’s Play # - Mini-Unspielbar
