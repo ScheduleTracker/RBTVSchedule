@@ -7,7 +7,7 @@
 09:00:00 - 09:53:34 : Almost Daily # - Almost Döhli
 09:55:00 - 10:24:12 : Endgegner #2 - Deutschrap
 10:30:00 - 11:21:04 : MoinMoin #1220 - Die Morning-Show mit Viet und Kiara - Live
-11:15:00 - 12:16:00 : Let’s Play # - Der Buschfunk - Live
+11:15:00 - 12:14:26 : Let’s Play # - Der Buschfunk - Live
 12:15:00 - 15:00:00 : Knallhart Durchgenommen #9 - Blasphemous mit Colin und Eddy - Live
 15:00:00 - 15:49:03 : Neue Deutsche Abendunterhaltung #2 - Held der Steine - sein teuerstes LEGO-Set; Trille
 16:00:00 - 18:30:00 : Let’s Play #12 - Pokémon Nuzlocke mit Ilyass & Viet - Live
@@ -15,4 +15,4 @@
 20:00:00 - 20:45:00 : Neue Deutsche Abendunterhaltung #4 - Die Show aus dem Bällebad - Premiere
 20:45:00 - 23:00:00 : Let’s Play #5 - FIFA 20 Pro Clubs mit Eddy, Nils & Timo - Live
 23:00:00 - 23:51:04 : MoinMoin #1220 - Die Morning-Show mit Viet und Kiara
-23:45:00 - 00:46:00 : Let’s Play # - Der Buschfunk
+23:45:00 - 00:44:26 : Let’s Play # - Der Buschfunk
