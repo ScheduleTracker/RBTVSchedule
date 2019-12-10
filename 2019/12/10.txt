@@ -4,8 +4,8 @@
 08:05:00 - 08:34:12 : Endgegner #2 - Deutschrap
 08:35:00 - 08:56:26 : Endgegner #1 - Star Wars
 08:50:00 - 10:26:45 : Bohndesliga #16 - 14. Spieltag der Fußball-Bundesliga in der Analyse
-10:30:00 - 11:16:46 : MoinMoin #1229 - Die Morning-Show mit Hannes - Live
-11:15:00 - 11:43:54 : Behind the Beans - Chat In - Live
+10:30:00 - 11:16:46 : MoinMoin #1229 - Kinder schlau erziehen und Fußball ist langweilig mit Hannes - Live
+11:15:00 - 11:43:54 : Behind the Beans - Chat In mit Steffen - Live
 11:45:00 - 13:23:11 : Löffel, Messer, Gäbel - Colin testet Junk-Food - Colin testet Junk-Food - Live
 13:30:00 - 14:29:08 : Game Talk 45 - unerwartete Gameankündigungen, Award-Shows 2019 u.v.m
 15:00:00 - 15:45:00 : Game Talk Spezial - State of Play: Neues von Sony im Live-Stream - State of Play: Neues von Sony im Live-Stream - Live
@@ -15,4 +15,4 @@
 20:00:00 - 20:52:00 : Du bist! #25 - Meeple Circus - Premiere
 20:55:00 - 23:10:00 : Knallhart Durchgenommen #6 - Star Wars Jedi: Fallen Order - Live
 23:10:00 - 23:14:33 : Luksan Wunder #10 - Der Sketchventskalender - Türchen 10: RB-Special Chefs Table - Premiere
-23:15:00 - 00:01:46 : MoinMoin #1229 - Die Morning-Show mit Hannes
+23:15:00 - 00:01:46 : MoinMoin #1229 - Kinder schlau erziehen und Fußball ist langweilig mit Hannes
