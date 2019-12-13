@@ -6,9 +6,8 @@
 07:00:00 - 09:12:15 : Kino+ #281 - Alles rund ums Kino mit Daniel
 09:15:00 - 10:18:53 : Verflixxte Klixx #96 - Die YouTube-Klicks-Rateshow mit Lars und Florentin
 10:30:00 - 11:16:00 : MoinMoin #1232 - Die Morning-Show mit Florentin - Live
-11:15:00 - 13:00:00 : Let’s Play #17 - Magic mit Florentin - Live
-13:00:00 - 13:53:50 : Pen & Paper - Die Pre-Show zum Pen and Paper Pangasius
-13:50:00 - 16:33:09 : Pen & Paper - Pangasius
+11:15:00 - 14:00:00 : Let’s Play #17 - Magic mit Florentin - Live
+14:05:00 - 16:48:09 : Pen & Paper - Pangasius
 17:00:00 - 19:00:00 : Let’s Play #8 - Mini Motorways mit Florentin und Fabian - Live
 19:00:00 - 20:01:48 : Retro Klub #13 - Diese Perlen im Retro-Stil habt ihr 2019 verpasst! - Premiere
 20:00:00 - 20:30:00 : Game Two #141 - Das Ende des Jahres Spezial - Premiere
@@ -16,4 +15,4 @@
 23:00:00 - 23:18:00 : RBTV On Tour - Inside Life is Strange 2: Staffel-Rückblick vom Abschluss-Event - spoilerfrei - Premiere
 23:10:00 - 23:13:57 : Luksan Wunder #13 - Der Sketchventskalender - Türchen 13: Most Unsatisfying Türchen ever - Premiere
 23:10:00 - 23:56:00 : MoinMoin #1232 - Die Morning-Show mit Florentin
-23:55:00 - 01:40:00 : Let’s Play #17 - Magic mit Florentin
+23:55:00 - 02:40:00 : Let’s Play #17 - Magic mit Florentin
