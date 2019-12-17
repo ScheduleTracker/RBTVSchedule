@@ -3,7 +3,7 @@
 03:45:00 - 06:11:10 : Creepjack #21 - Warcraft mit Jannes
 06:10:00 - 09:12:18 : Creepjack #22 - Warcraft mit Florentin & Marco
 09:15:00 - 11:14:42 : Creepjack #23 - Warcraft 3 mit Florentin & Marco
-11:25:00 - 13:28:30 : Sportsfriends-Turnier
+11:15:00 - 13:18:30 : Sportsfriends-Turnier
 13:30:00 - 14:36:30 : Beans Castle # - Die Probe! Alles nur Spaß und Test!
 14:40:00 - 16:20:04 : Beans Castle #1 - Die Premiere!
 16:20:00 - 17:44:41 : Beans Castle #2 - Der zweite Pilot!
@@ -12,4 +12,6 @@
 20:00:00 - 22:11:14 : Let’s Play #1 - Star Trek: Elite Force II mit Donnie - Premiere
 22:10:00 - 22:15:00 : Luksan Wunder #23 - Der Sketchventskalender - Türchen 23 - Premiere
 22:15:00 - 23:12:55 : Almost Daily #406 - Der Talk am goldenen Tisch
-23:15:00 - 23:35:31 : Creative Clash #3 - Adobe Rush
+23:15:00 - 23:25:01 : Creative Clash #2 - Prolog #2
+23:25:00 - 23:45:31 : Creative Clash #3 - Adobe Rush
+23:45:00 - 00:05:31 : Creative Clash #3 - Adobe Rush
