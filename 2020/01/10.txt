@@ -1,14 +1,14 @@
-01:00:00 - 01:45:00 : MoinMoin # - die Morning-Show mit Nils
+01:00:00 - 01:45:00 : MoinMoin #1241 - die Morning-Show mit Nils
 01:45:00 - 04:00:00 : Let’s Play # - Spielen mit Nils
 04:00:00 - 05:30:00 : Let’s Play # - Ready Player Two!
 05:30:00 - 07:30:00 : Creepjack #45 - Warcraft mit Florentin und Jannes
 07:30:00 - 08:30:00 : Verflixxte Klixx #105 - Die YouTube-Klicks-Rateshow mit Lars und Florentin
 08:30:00 - 10:30:00 : Let’s Play #2 - Halo: Reach mit Simon und Viet
-10:30:00 - 11:15:00 : MoinMoin # - Die Morning-Show mit Florentin - Live
+10:30:00 - 11:15:00 : MoinMoin #1242 - Die Morning-Show mit Florentin - Live
 11:15:00 - 13:00:00 : Let’s Play #19 - Magic mit Florentin - Live
 15:00:00 - 18:00:00 : Knallhart Durchgenommen #7 - Star Wars Jedi: Fallen Order - Live
 19:00:00 - 20:00:00 : Retro Klub #16 - Diese Sequels haben das Genre gewechselt - Premiere
 20:00:00 - 20:30:00 : Game Two #143 - DIE Gaming-Show am Freitagabend - Premiere
 20:30:00 - 23:00:00 : Pen & Paper - Pangasius III - Live
-23:00:00 - 23:45:00 : MoinMoin # - Die Morning-Show mit Florentin
+23:00:00 - 23:45:00 : MoinMoin #1242 - Die Morning-Show mit Florentin
 23:45:00 - 01:30:00 : Let’s Play #19 - Magic mit Florentin
