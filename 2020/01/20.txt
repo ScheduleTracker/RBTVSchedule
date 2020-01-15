@@ -2,7 +2,7 @@
 03:30:00 - 05:42:00 : Creepjack #28 - Warcraft 3 mit Jannes
 05:45:00 - 07:42:01 : Creepjack #29 - Warcraft 3 mit Jannes
 07:40:00 - 09:48:48 : Creepjack #30 - Warcraft mit Florentin und Jannes
-10:30:00 - 11:15:00 : MoinMoin #1248 - Die Morning-Show mit Krogi bei den Atzen - Premiere
+10:30:00 - 11:15:00 : MoinMoin #1248 - Die Morning-Show mit Simon - Live
 11:15:00 - 14:00:00 : Last Call # - Live
 14:00:00 - 16:00:00 : Zocken mit Denzel # - Live
 16:30:00 - 17:00:00 : Behind the Beans - Chat In - Live
@@ -11,5 +11,5 @@
 19:00:00 - 20:00:00 : Game Talk 49 - Golden Boys und Girls und geile Games - Live
 20:00:00 - 20:30:00 : Endgegner #8 - Avatar: The Last Airbender - Premiere
 20:30:00 - 22:30:00 : Jugendzimmer # - Die Atzen und Lucy Cat zu Besuch - Live
-22:30:00 - 23:15:00 : MoinMoin #1248 - Die Morning-Show mit Krogi bei den Atzen
+22:30:00 - 23:15:00 : MoinMoin #1248 - Die Morning-Show mit Simon
 23:15:00 - 02:00:00 : Last Call #
