@@ -5,7 +5,7 @@
 07:25:00 - 08:31:00 : Almost Daily #410 - Die Entwicklung des Pfauto - Unser Blick in die Zukunft
 08:25:00 - 10:27:19 : Zocken mit Denzel # - RimWorld
 10:30:00 - 11:21:43 : MoinMoin #1246 - Die Morning-Show mit Andreas & Etienne - Live
-11:15:00 - 13:30:00 : Let’s Play # - Raft - Spielen mit Nils - Live
+11:15:00 - 13:26:57 : Let’s Play # - Raft - Spielen mit Nils - Live
 13:30:00 - 15:13:54 : Speedrundale #94 - Zelda: Majora's Mask-Speedrun von Thiefbug
 15:10:00 - 15:31:10 : RBTV On Tour - Unterwegs auf der Super Smash Bros. Europameisterschaft
 15:30:00 - 17:00:00 : Let’s Play # - Dragonball Z: Kakarot mit Gregor und Viet - Live
@@ -13,4 +13,4 @@
 19:00:00 - 20:00:00 : Verflixxte Klixx #106 - Die YouTube-Klicks-Rateshow mit Lars und Florentin - Live
 20:00:00 - 22:00:00 : Kino+ # - Alles rund ums Kino mit Daniel - Premiere
 22:00:00 - 22:51:43 : MoinMoin #1246 - Die Morning-Show mit Andreas & Etienne
-22:50:00 - 01:05:00 : Let’s Play # - Raft - Spielen mit Nils
+22:50:00 - 01:01:57 : Let’s Play # - Raft - Spielen mit Nils
