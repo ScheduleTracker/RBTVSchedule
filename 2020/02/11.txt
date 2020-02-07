@@ -1,6 +1,5 @@
-00:30:00 - 03:30:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
-03:00:00 - 03:45:00 : MoinMoin #1263 - Die Morning-Show mit Simon
-03:45:00 - 04:45:00 : Can We Esport GTA V - GTA V
+01:00:00 - 04:00:00 : DashFM # - Neue Nerdereien und Frustrationsvorträge - Premiere
+04:00:00 - 04:45:00 : MoinMoin #1263 - Die Morning-Show mit Simon
 04:45:00 - 07:30:00 : Last Call #6 - Simons große Anzock-Sause
 07:30:00 - 09:30:00 : Zocken mit Denzel #
 09:30:00 - 10:00:00 : Behind the Beans - Chat In
