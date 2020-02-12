@@ -14,5 +14,4 @@
 20:00:00 - 22:00:00 : Kino+ # - Alles rund ums Kino mit Daniel - Premiere
 22:00:00 - 23:00:00 : Let’s Play # - Just Dance mit Viet und Lars - Live
 23:00:00 - 23:15:00 : RBTV On Tour - Outriders - Premiere
-23:00:00 - 23:45:00 : MoinMoin #1266 - Die Morning-Show mit Etienne
-23:45:00 - 02:00:00 : Let’s Play # - Spielen mit Nils
+23:15:00 - 00:00:00 : MoinMoin #1266 - Die Morning-Show mit Etienne
