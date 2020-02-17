@@ -1,9 +1,9 @@
 00:10:00 - 03:01:30 : DashFM #119 - Wir sind alle Fans - Premiere
-03:00:00 - 03:30:00 : Bohndesliga International #23 - Das Geschehen in den internationalen Ligen - Premiere
-03:30:00 - 04:20:08 : MoinMoin #1268 - Aus Noobs werden Pros - Das RBTV Smash Dojo Format
-04:20:00 - 07:01:46 : Last Call #6 - Simons große Anzock-Sause u.a. mit Greedfall, Hellblade, Stacking & Blacksad
-06:55:00 - 08:50:29 : Zocken mit Denzel #32 - RimWorld
-08:55:00 - 10:55:00 : Bohndesliga #24 - 22. Spieltag der Fußball-Bundesliga in der Analyse
+03:00:00 - 03:50:08 : MoinMoin #1268 - Aus Noobs werden Pros - Das RBTV Smash Dojo Format
+03:50:00 - 06:31:46 : Last Call #6 - Simons große Anzock-Sause u.a. mit Greedfall, Hellblade, Stacking & Blacksad
+06:35:00 - 08:30:29 : Zocken mit Denzel #32 - RimWorld
+08:30:00 - 10:30:00 : Bohndesliga #24 - 22. Spieltag der Fußball-Bundesliga in der Analyse
+10:10:00 - 10:40:00 : Bohndesliga International #23 - Das Geschehen in den internationalen Ligen - Premiere
 10:30:00 - 11:15:00 : MoinMoin #1269 - Die Morning-Show mit Katjana - Live
 11:15:00 - 12:15:00 : Let’s Play # - Der Buschfunk - Live
 12:15:00 - 12:43:27 : Speedrundale #111 - Wonder Boy III: Monster Lair (MD) Speedrun von Berlindude1
